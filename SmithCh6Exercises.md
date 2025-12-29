@@ -2,7 +2,7 @@ After reading that solutions to the exercises in the *Anglo-Saxon Grammar and Ex
 
 The book is available in HTML format at [https://www.gutenberg.org/cache/epub/31277/pg31277-images.html](https://www.gutenberg.org/cache/epub/31277/pg31277-images.html)
 
-I stick closely the vocabulary in the book, itself, up to where the exercises are.
+I stick closely to the vocabulary in the part of the book up to where the exercises are.
 
 These exercises from Chapter VI are the first exercises in the book.  They are in Section 30 of the Grammar.
 [https://www.gutenberg.org/cache/epub/31277/pg31277-images.html#page29](https://www.gutenberg.org/cache/epub/31277/pg31277-images.html#page29)
