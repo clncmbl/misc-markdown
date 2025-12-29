@@ -5,6 +5,7 @@ The book is available in HTML format at [https://www.gutenberg.org/cache/epub/31
 I stick closely the vocabulary in the book, itself, up to where the exercises are.
 
 These exercises from Chapter VI are the first exercises in the book.  They are in Section 30 of the Grammar.
+[https://www.gutenberg.org/cache/epub/31277/pg31277-images.html#page29](https://www.gutenberg.org/cache/epub/31277/pg31277-images.html#page29)
 
 # Part I: OE to PDE
 
@@ -63,7 +64,7 @@ With the stone
 **14. Ðǣm wealle**  
 For the wall
 
-Part II: PDE to OE
+# Part II: PDE to OE
 
 **1. For the horses and seals**  
 Ðǣm mēarum ond sēolum
