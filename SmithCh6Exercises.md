@@ -29,100 +29,72 @@ For the angels and the herdsmen
 The end of the days  
 The days' end
 
-6. Ðǣm bōcerum ond ðǣm secgum ðæs cyninges
-
-To the scribes and the warriors of the king
-
-For the scribes and the warriors of the king
-
+**6. Ðǣm bōcerum ond ðǣm secgum ðæs cyninges**  
+To the scribes and the warriors of the king  
+For the scribes and the warriors of the king  
 For the scribes and the king's men
 
-7. Ðǣm sēole ond ðǣm fuglum
-
-To the seal and the birds
-
+**7. Ðǣm sēole ond ðǣm fuglum**  
+To the seal and the birds  
 For the seal and the birds
 
-8. Ðā stānas ond ðā gāras
-
+**8. Ðā stānas ond ðā gāras**  
 The stones and the spears
 
-9. Hwala ond mēara
-
+**9. Hwala ond mēara**  
 Of whales and horses
 
-10. Ðāra engla wīsdōm
-
-The angels' wisdom
-
+**10. Ðāra engla wīsdōm**  
+The angels' wisdom  
 The wisdom of the angels
 
-11. Ðæs cyninges bōceres frēodōm
-
-The freedom of the king's scribe
-
+**11. Ðæs cyninges bōceres frēodōm**  
+The freedom of the king's scribe  
 The king's scribe's freedom
 
-12. Ðāra hierda fuglum
-
-To the herdsmen's birds
-
-For the herdsmen's birds
-
+**12. Ðāra hierda fuglum**  
+To the herdsmen's birds  
+For the herdsmen's birds  
 For the birds of the herdsmen
 
-13. Ðȳ stāne
-
+**13. Ðȳ stāne**  
 With the stone
 
-14. Ðǣm wealle
-
+**14. Ðǣm wealle**  
 For the wall
 
 Part II: PDE to OE
 
-1. For the horses and seals
-
+**1. For the horses and seals**  
 Ðǣm mēarum ond sēolum
 
-2. For the Welshmen’s freedom
-
+**2. For the Welshmen’s freedom**  
 Ðāra Wēala frēodōme
 
-3. Of the king’s birds
-
+**3. Of the king’s birds**  
 Ðǣs cyninges fugla
 
-4. By the wisdom of men and angels
-
+**4. By the wisdom of men and angels**  
 Ðȳ wīsdōme secga ond engla
 
-5. With the spear and the stone
-
+**5. With the spear and the stone?**  
 Ðȳ gāre ond ðȳ stāne
 
-6. The herdsman’s seal and the warrior’s spears
-
+**6. The herdsman’s seal and the warrior’s spears**  
 Ðæs hierdes seolh ond ðæs secges gāras
 
-7. To the king of heaven
-
+**7. To the king of heaven**  
 Ðǣm cyninge heofones
 
-8. By means of the scribe’s wisdom
-
+**8. By means of the scribe’s wisdom**  
 Ðæs bōceres wīsdōme
 
-9. The whale’s mouth and the foreigner’s spear
-
+**9. The whale’s mouth and the foreigner’s spear**  
 Ðǣs hwæles mūð ond ðǣs wēales gar
 
-10. For the bird belonging to (=of) the king’s scribe
-
-Ðǣm fugole ðǣs cyninges bōceres
-
+**10. For the bird belonging to (=of) the king’s scribe**  
+Ðǣm fugole ðǣs cyninges bōceres  
 (Could also use fugle for fugole.)
 
-11. Of that finger
-
+**11. Of that finger**  
 Ðǣs fingres
