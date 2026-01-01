@@ -5,7 +5,7 @@ The book is available in HTML format at [https://www.gutenberg.org/cache/epub/31
 I stick closely to the vocabulary in the part of the book up to where the exercises are.
 
 This is the second set of exercises in the book and comes from Chapter VII.  They are in Section 36 of the Grammar.
-[Add link here]####
+[https://www.gutenberg.org/cache/epub/31277/pg31277-images.html#page32](https://www.gutenberg.org/cache/epub/31277/pg31277-images.html#page32)
 
 # Part I: OE to PDE
 
@@ -13,7 +13,6 @@ This is the second set of exercises in the book and comes from Chapter VII.  The
 He has the king's child.  
 
 **2. Ðā Wēalas habbað ðā speru.**  
-The foreigners have the spears.  
 The Welshmen have the spears.  
 
 **3. Ðā wīf habbað ðāra sęcga wǣpnu.**  
@@ -21,7 +20,8 @@ The women have the men's weapons.
 The women have the warriors' weapons.  
 
 **4. Ðū hæfst ðone fugol ǫnd ðæt hūs ðæs hierdes.**  
-You have the bird and the house of the herdsman.  (verify)  
+You have the bird and the house of the herdsman.  
+You have the bird and the herdsman's house.  
 
 **5. Hæfð hēo ðā fatu?**  
 Has she the vessels?  (archaic)  
