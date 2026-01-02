@@ -38,7 +38,7 @@ He did not have the woman's body; he had the animal's head.
 **8. Hæfð sē cyning gesetu on ðǣm dæle?**  
 Has the king a settlement in the dale?  (archaic)  
 Does the king have a settlement in the dale?  
-Does the king have a house in the dale?  
+Does the king have a habitation in the dale?  
 
 **9. Sē bōcere hæfð ðā sēolas on ðǣm hūse.**  
 The scribe has the seals in the house.  
@@ -72,9 +72,9 @@ Ic hæbbe ðā heofodas ðāra wulfa.
 Ic hæbbe ðāra wulfa heofodas.  
 
 **7. He and she have the king’s houses.**  
-Hē ond hēo habbað ðæt hūs ðæs cyninges.  
+Hē ond hēo habbað ða hūs ðæs cyninges.  
 Hē ond hēo habbað ðæs cyninges hūs.  
 
 **8. Have not the children the warrior’s weapons?**  
-Nabbað ðā bearn ðā wǣpnu ðāra secgas?  
-Nabbað ðā bearn ðāra secgas wǣpnu?  
+Nabbað ðā bearn ðā wǣpnu ðæs secges?  
+Nabbað ðā bearn ðæs secges wǣpnu?  
