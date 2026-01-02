@@ -55,8 +55,8 @@ Hīe habbað geocu ond speru.
 Wē nabbað ðā fatu on ðǣm hūse.  
 
 **3. He had fire in the vessel.**  
-Hē hæfð fȳr on ðǣm fate.  
-Hē hafað fȳr on ðǣm fate.  
+Hē hæfð fȳr on ðǣm fæte.  
+Hē hafað fȳr on ðǣm fæte.  
 
 **4. Did the woman have the children?**  
 Hæfð þæt wīf ðā bearn?  
