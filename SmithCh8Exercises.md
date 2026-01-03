@@ -14,8 +14,21 @@ up to where the exercises are.
 
 ## Part I: OE to PDE
 
-**1.**  
+**1. Hwǣr is ðǣre brycge ęnde?**  
+Where is the bridges end?  
+Where is the end of the bridge?
+
+**2. Hēr sind ðāra rīca mearca.**  
+3. Hwā hæfð þā glōfa?  
+4. Ðǣr bið ðǣm cyninge frōfre ðearf.  
+5. Sēo wund is on ðǣre wylfe hēafde.  
+6. Wē habbað costnunga.  
+7. Hīe nǣron on ðǣre healle.  
+8. Ic hit neom.  
+9. Ðæt wǣron Wēalas.  
+10. Ðæt sind ðæs wīfes bearn.  
 
 ## Part II: PDE to OE
 
-**1.**  
+**1.** 
+1. We shall have the women’s gloves. 2. Where is the place? 3. He will be in the hall. 4. Those (Ðæt) were not the boundaries of the kingdom. 5. It was not I. 6. Ye are not the king’s scribes. 7. The shepherd’s words are full (full + gen.) of wisdom and comfort. 8. Where are the bodies of the children? 9. The gifts are not here. 10. Who has the seals and the birds?
