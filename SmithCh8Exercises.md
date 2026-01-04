@@ -16,29 +16,37 @@ up to where the exercises are.
 
 **1. Hwǣr is ðǣre brycge ęnde?**  
 Where is the bridges end?  
-Where is the end of the bridge?
+Where is the end of the bridge?  
 
 **2. Hēr sind ðāra rīca mearca.**  
-Here are the kingdoms' boundaries.
-Here are the boundaries of the kingdoms.
+Here are the kingdoms' boundaries.  
+Here are the boundaries of the kingdoms.  
 
-**3. Hwā hæfð þā glōfa?**    
+**3. Hwā hæfð þā glōfa?**  
 Who has the gloves?
 
-**4. Ðǣr bið ðǣm cyninge frōfre ðearf.**    
+**4. Ðǣr bið ðǣm cyninge frōfre ðearf.**  
+There is need of confort for the king.  
+There will be need of confort for the king.
 
-**5. Sēo wund is on ðǣre wylfe hēafde.**    
+**5. Sēo wund is on ðǣre wylfe hēafde.**  
+The wound is on the she-wolf's head.
 
-**6. Wē habbað costnunga.**    
+**6. Wē habbað costnunga.**  
+We have temptations.
 
-**7. Hīe nǣron on ðǣre healle.**    
+**7. Hīe nǣron on ðǣre healle.**  
+They were not in the hall.
 
-**8. Ic hit neom.**    
+**8. Ic hit neom.**  
+It is not me.  
+I am not it.  (More literally but not idiomatic PDE.)
 
-**9. Ðæt wǣron Wēalas.**    
+**9. Ðæt wǣron Wēalas.**  
+They were Welshmen.
 
-**10. Ðæt sind ðæs wīfes bearn.**    
-
+**10. Ðæt sind ðæs wīfes bearn.**  
+They are the woman's children.
 
 ## Part II: PDE to OE
 
