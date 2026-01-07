@@ -67,10 +67,14 @@ Hē biþ on ðǣre healle.
 Ic hit neom.
 
 **6. Ye are not the king’s scribes.**  
+Gē ne sind ðæs cyninges bōceras.  
+Gē ne sind ðā bōceras ðæs cyninges
 
 **7. The shepherd’s words are full (full + gen.) of wisdom and comfort.**  
+Ðæs hierdes word sind full wīsdōmes ond frōfre.
 
 **8. Where are the bodies of the children?**  
+Hwǣr sind ðā līc ðāra bearna?
 
 **9. The gifts are not here.**  
 
