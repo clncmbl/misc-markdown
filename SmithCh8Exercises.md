@@ -74,8 +74,11 @@ Gē ne sind ðā bōceras ðæs cyninges
 Ðæs hierdes word sind full wīsdōmes ond frōfre.
 
 **8. Where are the bodies of the children?**  
-Hwǣr sind ðā līc ðāra bearna?
+Hwǣr sind ðā līc ðāra bearna?  
 
 **9. The gifts are not here.**  
+Ðā giefa ne sind her.  
 
 **10. Who has the seals and the birds?**  
+Hwā hæfð ðā seolas ond ðā fuglas?  
+Hwā hafað ðā seolas ond ðā fuglas?  
