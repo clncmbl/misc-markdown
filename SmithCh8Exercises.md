@@ -26,8 +26,8 @@ Here are the boundaries of the kingdoms.
 Who has the gloves?
 
 **4. Ðǣr bið ðǣm cyninge frōfre ðearf.**  
-There is need of confort for the king.  
-There will be need of confort for the king.
+There is need of comfort for the king.  
+There will be need of comfort for the king.
 
 **5. Sēo wund is on ðǣre wylfe hēafde.**  
 The wound is on the she-wolf's head.
@@ -39,7 +39,7 @@ We have temptations.
 They were not in the hall.
 
 **8. Ic hit neom.**  
-It is not me.  
+It is not I.  
 I am not it.  (More literally but not idiomatic PDE.)
 
 **9. Ðæt wǣron Wēalas.**  
