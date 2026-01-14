@@ -51,20 +51,20 @@ They are the woman's children.
 ## Part II: PDE to OE
 
 **1. We shall have the women’s gloves.**  
-Wē habbað ðā wifu glōfa.
+Wē habbað ðāra wīfa glōfa.
 
 **2. Where is the place?**  
-Hwǣr is ðā stowa?
+Hwǣr is sēo stōw?
 
 **3. He will be in the hall.**  
 Hē biþ on ðǣre healle.
 
 **4. Those (Ðæt) were not the boundaries of the kingdom.**  
-Ðæt nǣron ðā mearca rīces.  
-Ðæt nǣron ðǣs rīces ðā mearca.
+Ðæt nǣron ðā mearca ðǣs rīces.  
+Ðæt nǣron ðǣs rīces mearca.
 
 **5. It was not I.**  
-Ic hit neom.
+Ic hit næs.
 
 **6. Ye are not the king’s scribes.**  
 Gē ne sind ðæs cyninges bōceras.  
