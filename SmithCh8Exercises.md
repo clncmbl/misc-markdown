@@ -8,8 +8,8 @@ from Chapter VIII, Section 42 of the Grammar.
 [https://www.gutenberg.org/cache/epub/31277/pg31277-images.html#page35](https://www.gutenberg.org/cache/epub/31277/pg31277-images.html#page35)
 
 Reddit posts for previous sets of exercises are found here:
-* [C. Alphonso Smith Grammar Chapter VI Section 30 solutions](https://www.reddit.com/r/OldEnglish/comments/1pybft1/c_alphonso_smith_grammar_chapter_vi_section_30/)
-* [C. Alphonso Smith Grammar Chapter VII Section 36 solutions](https://www.reddit.com/r/OldEnglish/comments/1q24bbl/c_alphonso_smith_grammar_chapter_vii_section_36/)
+* [solutions for C. Alphonso Smith Grammar Chapter VI Section 30](https://www.reddit.com/r/OldEnglish/comments/1pybft1/c_alphonso_smith_grammar_chapter_vi_section_30/)
+* [solutions for C. Alphonso Smith Grammar Chapter VII Section 36](https://www.reddit.com/r/OldEnglish/comments/1q24bbl/c_alphonso_smith_grammar_chapter_vii_section_36/)
 
 I stick closely to the vocabulary in the part of the book
 up to where the exercises are.
