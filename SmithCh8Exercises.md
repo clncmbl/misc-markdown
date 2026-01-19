@@ -77,6 +77,9 @@ Gē ne sind ðā bōceras ðæs cyninges
 
 **8. Where are the bodies of the children?**  
 Hwǣr sind ðā līc ðāra bearna?  
+Hwǣr sind ðā līc ðāra cilda?  
+Hwǣr sind ðā līc ðāra cildra?  
+(See [ebrum2010 comment below re bearn vs cild](https://www.reddit.com/r/OldEnglish/comments/1qe4z8i/comment/nzx8hub/))
 
 **9. The gifts are not here.**  
 Ðā giefa ne sind her.  
