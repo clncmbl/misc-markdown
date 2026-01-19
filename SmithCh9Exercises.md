@@ -16,9 +16,31 @@ up to where the exercises are.
 
 ## Part I: OE to PDE
 
-**1. .**  
+**1. Ðā Seaxe habbað ðæs dēores hȳd on ðǣm wuda.**  
 
+**2. Hwā hæfð ðā giefa?**  
+
+**3. Ðā Mierce hīe1 habbað.**  
+
+**4. Hwǣr is ðæs Wēales fugol?**  
+
+**5. Ðā Dęne hiene habbað.**  
+**6. Hwǣr sindon hiera winas?**  
+**7. Hīe sindon on ðæs cyninges wuda.**  
+**8. Ðā Rōmware ǫnd ðā Seaxe hæfdon ðā gāras ǫnd ðā geocu.**  
+**9. Hēo is on ðǣm hūse on wintra, ǫnd on ðǣm feldum on sumera.**  
+**10. Hwǣr is ðæs hofes duru?**  
+**11. Hēo2 (= sēo duru) nis hēr.**  
 
 ## Part II: PDE to OE
 
-**1. .**  
+**1. His friends have the bones of the seals and the bodies of the Danes.**  
+**2. Art thou the king’s son?**  
+**3. Has she her gifts in her hands?**  
+**4. Here are the fields of the natives.**  
+**5. Who had the bird?**  
+**6. I had it.**  
+**7. The child had the worm in his fingers.**  
+**8. The Mercians were here during (the) summer (on + dat.).**  
+
+
