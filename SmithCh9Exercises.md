@@ -17,20 +17,26 @@ up to where the exercises are.
 ## Part I: OE to PDE
 
 **1. Ðā Seaxe habbað ðæs dēores hȳd on ðǣm wuda.**  
+The Saxons have the animal's hide in the forest.  
 
 **2. Hwā hæfð ðā giefa?**  
+Who has the gifts?  
 
-**3. Ðā Mierce hīe1 habbað.**  
+**3. Ðā Mierce hīe habbað.**  
+The Mercians have them.  
 
 **4. Hwǣr is ðæs Wēales fugol?**  
+Where is the Welshman's bird?  
 
 **5. Ðā Dęne hiene habbað.**  
+The Danes have him.  
+
 **6. Hwǣr sindon hiera winas?**  
 **7. Hīe sindon on ðæs cyninges wuda.**  
 **8. Ðā Rōmware ǫnd ðā Seaxe hæfdon ðā gāras ǫnd ðā geocu.**  
 **9. Hēo is on ðǣm hūse on wintra, ǫnd on ðǣm feldum on sumera.**  
 **10. Hwǣr is ðæs hofes duru?**  
-**11. Hēo2 (= sēo duru) nis hēr.**  
+**11. Hēo (= sēo duru) nis hēr.**  
 
 ## Part II: PDE to OE
 
