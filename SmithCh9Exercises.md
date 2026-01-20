@@ -32,11 +32,23 @@ Where is the Welshman's bird?
 The Danes have him.  
 
 **6. Hwǣr sindon hiera winas?**  
+Where are their friends?
+
 **7. Hīe sindon on ðæs cyninges wuda.**  
+They are in the king's forest.
+
 **8. Ðā Rōmware ǫnd ðā Seaxe hæfdon ðā gāras ǫnd ðā geocu.**  
+The Romans and the Saxons have the spears and the yokes.  
+
 **9. Hēo is on ðǣm hūse on wintra, ǫnd on ðǣm feldum on sumera.**  
+She is in the house in winter and in the fields in summer.
+
 **10. Hwǣr is ðæs hofes duru?**  
+Where is the court's door?  
+Where is the dwelling's door?  
+
 **11. Hēo (= sēo duru) nis hēr.**  
+It is not here.  
 
 ## Part II: PDE to OE
 
