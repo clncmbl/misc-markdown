@@ -53,7 +53,11 @@ It is not here.
 ## Part II: PDE to OE
 
 **1. His friends have the bones of the seals and the bodies of the Danes.**  
+His wines habbaþ ðā bān ðāra seolas ond ðā līcu ðāra Dena.  
+
 **2. Art thou the king’s son?**  
+Eart ðū ðæs cyninges sunu?  
+
 **3. Has she her gifts in her hands?**  
 **4. Here are the fields of the natives.**  
 **5. Who had the bird?**  
