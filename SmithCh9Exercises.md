@@ -62,8 +62,8 @@ Eart ðū ðæs cyninges sunu?
 Hæfð hēo hiera giefa on hiera honda?  
 
 **4. Here are the fields of the natives.**  
-Hēr sind ðā felda ðāra londlēode.  
-Hēr sind ðā feldas ðāra londlēode.  
+Hēr sind ðā felda ðāra londlēode.  (poetic or circa 800 AD)  
+Hēr sindon ðā feldas ðāra londlēode.  (circa 1000 AD)
 
 **5. Who had the bird?**  
 Hwā hæfde ðone fugol?
