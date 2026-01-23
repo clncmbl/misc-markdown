@@ -59,10 +59,20 @@ His wines habbaþ ðā bān ðāra seolas ond ðā līcu ðāra Dena.
 Eart ðū ðæs cyninges sunu?  
 
 **3. Has she her gifts in her hands?**  
-**4. Here are the fields of the natives.**  
-**5. Who had the bird?**  
-**6. I had it.**  
-**7. The child had the worm in his fingers.**  
-**8. The Mercians were here during (the) summer (on + dat.).**  
+Hæfð hēo hiera giefa on hiera honda?  
 
+**4. Here are the fields of the natives.**  
+Hēr sind ðā felda ðāra londlēode.  
+Hēr sind ðā feldas ðāra londlēode.  
+
+**5. Who had the bird?**  
+Hwā hæfde ðone fugol?
+
+**6. I had it.**  
+Ic hit hæfde.  
+
+**7. The child had the worm in his fingers.**  
+
+
+**8. The Mercians were here during (the) summer (on + dat.).**  
 
