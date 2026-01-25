@@ -72,7 +72,9 @@ Hwā hæfde ðone fugol?
 Ic hit hæfde.  
 
 **7. The child had the worm in his fingers.**  
-
+Ðæt bearn hæfde ðone wyrm on his fingrum.  ("child" in relation to parent)  
+Ðæt cild hæfde ðone wyrm on his fingrum.  ("child" as person not yet adult)  
 
 **8. The Mercians were here during (the) summer (on + dat.).**  
+Ðā Mierce wǣron hēr on sumera.
 
