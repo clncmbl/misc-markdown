@@ -38,7 +38,7 @@ Where are their friends?
 They are in the king's forest.
 
 **8. Ðā Rōmware ǫnd ðā Seaxe hæfdon ðā gāras ǫnd ðā geocu.**  
-The Romans and the Saxons have the spears and the yokes.  
+The Romans and the Saxons had the spears and the yokes.  
 
 **9. Hēo is on ðǣm hūse on wintra, ǫnd on ðǣm feldum on sumera.**  
 She is in the house in winter and in the fields in summer.
@@ -53,13 +53,13 @@ It is not here.
 ## Part II: PDE to OE
 
 **1. His friends have the bones of the seals and the bodies of the Danes.**  
-His wines habbaþ ðā bān ðāra seolas ond ðā līcu ðāra Dena.  
+His winas habbaþ ðā bān ðāra seolas ond ðā līcu ðāra Dena.  
 
 **2. Art thou the king’s son?**  
 Eart ðū ðæs cyninges sunu?  
 
 **3. Has she her gifts in her hands?**  
-Hæfð hēo hiera giefa on hiera honda?  
+Hæfð hēo hiere giefa on hiere honda?  
 
 **4. Here are the fields of the natives.**  
 Hēr sind ðā felda ðāra londlēode.  (poetic or circa 800 AD)  
