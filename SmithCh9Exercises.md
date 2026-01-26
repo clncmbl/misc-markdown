@@ -10,6 +10,7 @@ from Chapter IX, Section 55 of the Grammar.
 Reddit posts for previous sets of exercises are found here:
 * [solutions for C. Alphonso Smith Grammar Chapter VI Section 30](https://www.reddit.com/r/OldEnglish/comments/1pybft1/c_alphonso_smith_grammar_chapter_vi_section_30/)
 * [solutions for C. Alphonso Smith Grammar Chapter VII Section 36](https://www.reddit.com/r/OldEnglish/comments/1q24bbl/c_alphonso_smith_grammar_chapter_vii_section_36/)
+* [solutions for C. Alphonso Smith Grammar Chapter VIII Section 42](https://www.reddit.com/r/OldEnglish/comments/1qe4z8i/c_alphonso_smith_grammar_chapter_viii_section_42/)
 
 I stick closely to the vocabulary in the part of the book
 up to where the exercises are.
