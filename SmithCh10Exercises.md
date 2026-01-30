@@ -18,9 +18,30 @@ up to where the exercises are.
 
 ## Part I: OE to PDE
 
-**1. .**  
-  
+**1. Sē cyning fielð.**  
 
+**2. Ðā wīf cēosað ðā giefa.**  
+
+**3. Ðū stęntst on ðǣm hūse.**  
+**4. Hē wierpð ðæt wǣpen.**  
+**5. Sē sęcg hīewð ðā līc.**  
+**6. Ðæt sǣd grēwð ǫnd wiexð (Mark iv. 27).**  
+**7. Ic stǫnde hēr, ǫnd ðū stęntst ðǣr.**  
+**8. "Ic hit eom," cwið hē.**  
+**9. Hīe berað ðæs wulfes bān.**  
+**10. Hē hīe bint, ǫnd ic hine binde.**  
+**11. Ne rītst ðū?**  
+  
 ## Part II: PDE to OE
 
 **1. .**  
+**2. .**  
+**3. .**  
+**4. .**  
+**5. .**  
+**6. .**  
+**7. .**  
+**8. .**  
+**9. .**  
+**10. .**  
+**11. .**  
