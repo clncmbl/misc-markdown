@@ -34,14 +34,14 @@ up to where the exercises are.
   
 ## Part II: PDE to OE
 
-**1. .**  
-**2. .**  
-**3. .**  
-**4. .**  
-**5. .**  
-**6. .**  
-**7. .**  
-**8. .**  
-**9. .**  
-**10. .**  
-**11. .**  
+**1. We shall bind him.**  
+**2. Who chooses the child’s gifts?**  
+**3. "He was not here," says she.**  
+**4. Wilt thou remain in the hall?**  
+**5. The wolves are biting (= bite) the fishermen.**  
+**6. He enjoys the love of his children.**  
+**7. Do you enjoy (= Enjoyest thou) the consolation and friendship of the scribe?**  
+**8. Will he come?**  
+**9. I shall throw the spear, and thou wilt bear the weapons.**  
+**10. The king’s son will become king.**  
+**11. The army (werod) is breaking the doors and walls of the house.**  
