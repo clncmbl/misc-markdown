@@ -19,12 +19,20 @@ up to where the exercises are.
 ## Part I: OE to PDE
 
 **1. Sē cyning fielð.**  
+The king falls.
 
 **2. Ðā wīf cēosað ðā giefa.**  
+The women choose the gifts.
 
 **3. Ðū stęntst on ðǣm hūse.**  
+You stand in the house.
+
 **4. Hē wierpð ðæt wǣpen.**  
+He throws the weapon.
+
 **5. Sē sęcg hīewð ðā līc.**  
+The warrior hews the bodies.
+
 **6. Ðæt sǣd grēwð ǫnd wiexð (Mark iv. 27).**  
 **7. Ic stǫnde hēr, ǫnd ðū stęntst ðǣr.**  
 **8. "Ic hit eom," cwið hē.**  
