@@ -19,23 +19,30 @@ up to where the exercises are.
 ## Part I: OE to PDE
 
 **1. Sē cyning fielð.**  
-The king falls.
+The king falls.  
 
 **2. Ðā wīf cēosað ðā giefa.**  
-The women choose the gifts.
+The women choose the gifts.  
 
 **3. Ðū stęntst on ðǣm hūse.**  
-You stand in the house.
+You stand in the house.  
 
 **4. Hē wierpð ðæt wǣpen.**  
-He throws the weapon.
+He throws the weapon.  
 
 **5. Sē sęcg hīewð ðā līc.**  
-The warrior hews the bodies.
+The warrior hews the bodies.  
 
 **6. Ðæt sǣd grēwð ǫnd wiexð (Mark iv. 27).**  
+The seed grows and waxes.  (etymologically literal)  
+The seed sprouts and grows.  (reasonable PDE for starts growing and gets larger)  
+
 **7. Ic stǫnde hēr, ǫnd ðū stęntst ðǣr.**  
+I stand here, and you stand there.  
+
 **8. "Ic hit eom," cwið hē.**  
+"It is I," said he.  
+
 **9. Hīe berað ðæs wulfes bān.**  
 **10. Hē hīe bint, ǫnd ic hine binde.**  
 **11. Ne rītst ðū?**  
