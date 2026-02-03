@@ -44,8 +44,15 @@ I stand here, and you stand there.
 "It is I," said he.  
 
 **9. Hīe berað ðæs wulfes bān.**  
+They bear the wulf's bones.  
+They bear the wulf's bone.  
+
 **10. Hē hīe bint, ǫnd ic hine binde.**  
+He binds them, and I bind him.
+
 **11. Ne rītst ðū?**  
+Do you not ride?  
+Don't you ride?  
   
 ## Part II: PDE to OE
 
