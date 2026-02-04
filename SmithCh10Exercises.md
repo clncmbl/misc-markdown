@@ -41,7 +41,7 @@ The seed sprouts and grows.  (reasonable PDE for starts growing and gets larger)
 I stand here, and you stand there.  
 
 **8. "Ic hit eom," cwið hē.**  
-"It is I," said he.  
+"It is I," says he.  
 
 **9. Hīe berað ðæs wulfes bān.**  
 They bear the wulf's bones.  
@@ -57,8 +57,15 @@ Don't you ride?
 ## Part II: PDE to OE
 
 **1. We shall bind him.**  
+Wē hīe bindað.  
+
 **2. Who chooses the child’s gifts?**  
-**3. "He was not here," says she.**  
+Hwā cēoseð ðǣre bearnes giefa?  
+Hwā cēoseð ðǣre cildes giefa?  
+
+**3. "He was not here," says she.**
+"Hē næs hēr," cwið hēo.
+
 **4. Wilt thou remain in the hall?**  
 **5. The wolves are biting (= bite) the fishermen.**  
 **6. He enjoys the love of his children.**  
