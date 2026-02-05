@@ -63,12 +63,18 @@ Wē hīe bindað.
 Hwā cēoseð ðǣre bearnes giefa?  
 Hwā cēoseð ðǣre cildes giefa?  
 
-**3. "He was not here," says she.**
+**3. "He was not here," says she.**  
 "Hē næs hēr," cwið hēo.
 
 **4. Wilt thou remain in the hall?**  
+Bītst ðū on ðǣre healle?
+
 **5. The wolves are biting (= bite) the fishermen.**  
+Ðā wulfas bītað ðā fisceras.
+
 **6. He enjoys the love of his children.**  
+Hē brȳcð ðā lufa his bearna.
+
 **7. Do you enjoy (= Enjoyest thou) the consolation and friendship of the scribe?**  
 **8. Will he come?**  
 **9. I shall throw the spear, and thou wilt bear the weapons.**  
