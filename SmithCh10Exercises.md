@@ -73,9 +73,13 @@ Bītst ðū on ðǣre healle?
 Ðā wulfas bītað ðā fisceras.
 
 **6. He enjoys the love of his children.**  
-Hē brȳcð ðǣre lufe his bearna.
+Hē brȳcð ðǣre lufe his bearna.  
 
 **7. Do you enjoy (= Enjoyest thou) the consolation and friendship of the scribe?**  
+Brycst ðū ðǣre frōfore ond ðæs frēondscipes ðæs bōceres.  (preferred)  
+Brycst ðū ðǣre frōfore ond frēondscipes ðæs bōceres.  (less preferred)  
+Brycst ðū ðāra frōfore ond frēondscipes ðæs bōceres.  (possible)  
+
 **8. Will he come?**  
 **9. I shall throw the spear, and thou wilt bear the weapons.**  
 **10. The king’s son will become king.**  
