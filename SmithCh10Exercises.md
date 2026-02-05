@@ -73,7 +73,7 @@ Bītst ðū on ðǣre healle?
 Ðā wulfas bītað ðā fisceras.
 
 **6. He enjoys the love of his children.**  
-Hē brȳcð ðā lufa his bearna.
+Hē brȳcð ðǣre lufe his bearna.
 
 **7. Do you enjoy (= Enjoyest thou) the consolation and friendship of the scribe?**  
 **8. Will he come?**  
