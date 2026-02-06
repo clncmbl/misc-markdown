@@ -81,6 +81,11 @@ Brycst ðū ðǣre frōfore ond frēondscipes ðæs bōceres.  (less preferred)
 Brycst ðū ðāra frōfore ond frēondscipes ðæs bōceres.  (possible)  
 
 **8. Will he come?**  
+Cymð hē?  
+
 **9. I shall throw the spear, and thou wilt bear the weapons.**  
+Ic weorpe ðæt spere, ond ðū birst ðā wǣpnu.  
+Ic weorpe ðone gār, ond ðū birst ðā wǣpnu.  
+ 
 **10. The king’s son will become king.**  
 **11. The army (werod) is breaking the doors and walls of the house.**  
