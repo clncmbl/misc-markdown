@@ -76,8 +76,8 @@ Bītst ðū on ðǣre healle?
 Hē brȳcð ðǣre lufe his bearna.  
 
 **7. Do you enjoy (= Enjoyest thou) the consolation and friendship of the scribe?**  
-Brycst ðū ðǣre frōfore ond ðæs frēondscipes ðæs bōceres.  (preferred)  
-Brycst ðū ðǣre frōfore ond frēondscipes ðæs bōceres.  (less preferred)  
+Brycst ðū ðǣre frōfore ond ðæs frēondscipes ðæs bōceres.  (more likely)  
+Brycst ðū ðǣre frōfore ond frēondscipes ðæs bōceres.  (less likely)  
 Brycst ðū ðāra frōfore ond frēondscipes ðæs bōceres.  (possible)  
 
 **8. Will he come?**  
@@ -88,4 +88,9 @@ Ic weorpe ðæt spere, ond ðū birst ðā wǣpnu.
 Ic weorpe ðone gār, ond ðū birst ðā wǣpnu.  
  
 **10. The king’s son will become king.**  
+Ðæs cyninges bearn wierð cyning.  
+
 **11. The army (werod) is breaking the doors and walls of the house.**  
+Ðæt werod brīet ðā dura ond ðā weallas ðæs hūses.  (more likely)  
+Ðæt werod brīet ðā dura ond weallas ðæs hūses.  (less likely)  
+
