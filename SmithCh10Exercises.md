@@ -14,7 +14,9 @@ Reddit posts for previous sets of exercises are found here:
 * [solutions for C. Alphonso Smith Grammar Chapter IX Section 55](https://www.reddit.com/r/OldEnglish/comments/1qo13dm/c_alphonso_smith_grammar_chapter_ix_section_55/)
 
 I stick closely to the vocabulary in the part of the book
-up to where the exercises are.
+up to where the exercises are.  Also, be aware that Smith, in
+Chapter I says, "It is the object of this book to give an elementary
+knowledge of Early West Saxon, that is, the language of King Alfred."
 
 ## Part I: OE to PDE
 
@@ -44,8 +46,8 @@ I stand here, and you stand there.
 "It is I," says he.  
 
 **9. Hīe berað ðæs wulfes bān.**  
-They bear the wulf's bones.  
-They bear the wulf's bone.  
+They bear the wolf's bones.  
+They bear the wolf's bone.  
 
 **10. Hē hīe bint, ǫnd ic hine binde.**  
 He binds them, and I bind him.
@@ -57,11 +59,11 @@ Don't you ride?
 ## Part II: PDE to OE
 
 **1. We shall bind him.**  
-Wē hīe bindað.  
+Wē hine bindað.  
 
 **2. Who chooses the child’s gifts?**  
-Hwā cēoseð ðǣre bearnes giefa?  
-Hwā cēoseð ðǣre cildes giefa?  
+Hwā cīest ðæs bearnes giefa?  
+Hwā cīest ðæs cildes giefa?  
 
 **3. "He was not here," says she.**  
 "Hē næs hēr," cwið hēo.
