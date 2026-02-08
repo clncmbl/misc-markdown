@@ -3,7 +3,7 @@ These are draft solutions to exercises in the
 (copyright 1896) subject to review by anybody with an interest
 in checking them over.  I would appreciate corrections and additions.
 
-This is for the fourth set of exercises in the book, which comes
+This is for the fifth set of exercises in the book, which comes
 from Chapter X, Section 62 of the Grammar.
 [https://www.gutenberg.org/cache/epub/31277/pg31277-images.html#page44](https://www.gutenberg.org/cache/epub/31277/pg31277-images.html#page44)
 
@@ -15,7 +15,7 @@ Reddit posts for previous sets of exercises are found here:
 
 I stick closely to the vocabulary in the part of the book
 up to where the exercises are.  Also, be aware that Smith, in
-Chapter I says, "It is the object of this book to give an elementary
+Chapter I, says, "It is the object of this book to give an elementary
 knowledge of Early West Saxon, that is, the language of King Alfred."
 
 ## Part I: OE to PDE
