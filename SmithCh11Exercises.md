@@ -21,12 +21,33 @@ knowledge of Early West Saxon, that is, the language of King Alfred."
 
 ## Part I: OE to PDE
 
-**1. .**  
- 
+**1. Sē scēowyrhta brȳcð his ǣmettan.**  
+**2. Ðā guman biddað ðǣm cnapan ðæs adesan.**  
+**3. Hwā is sē cuma?**  
+**4. Hielpst ðū ðǣm bǫnan?**  
+**5. Ic him ne helpe.**  
+**6. Ðā bearn scęððað ðæs bǫnan ēagum ǫnd ēarum.**  
+**7. Sē cuma cwielð on ðǣre cirican.**  
+**8. Sē hunta wiðstęnt ðǣm wulfum.**  
+**9. Ðā oxan berað ðæs cnapan gefēran.**  
+**10. Sē mōna ǫnd ðā tunglu sind on ðǣm heofonum.**  
+**11. Ðā huntan healdað ðǣre nǣdran tungan.**  
+**12. Hē hiere giefð ðā giefa.**  
+**13. Ðā werod scęððað ðæs cyninges feldum.**  
   
 ## Part II: PDE to OE
 
-**1. .**  
-Wē hine bindað.  
+**1. Who will bind the mouths of the oxen?**  
+**2. Who gives him the gifts?**  
+**3. Thou art helping him, and I am injuring him.**  
+**4. The boy’s companion is dying.**  
+**5. His nephew does not enjoy his leisure.**  
+**6. The adder’s tongue injures the king’s companion.**  
+**7. The sun is the day’s eye.**  
+**8. She asks the strangers for the spears.**  
+**9. The men’s bodies are not here.**  
+**10. Is he not (Nis hē) the child’s murderer?**  
+**11. Who creates the bodies and the souls of men?**  
+**12. Thou withstandest her.**  
+**13. He is not writing.**  
 
- 
