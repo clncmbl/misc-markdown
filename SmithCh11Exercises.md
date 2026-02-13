@@ -22,9 +22,18 @@ knowledge of Early West Saxon, that is, the language of King Alfred."
 ## Part I: OE to PDE
 
 **1. Sē scēowyrhta brȳcð his ǣmettan.**  
+The shoe-maker enjoys his leisure.  
+
 **2. Ðā guman biddað ðǣm cnapan ðæs adesan.**  
+The men asked the boy for the hatchet.  
+
 **3. Hwā is sē cuma?**  
+Who is the stranger?  
+
 **4. Hielpst ðū ðǣm bǫnan?**  
+Help you the murderer?  (More literal, but archaic.)
+Do you help the murderer?
+
 **5. Ic him ne helpe.**  
 **6. Ðā bearn scęððað ðæs bǫnan ēagum ǫnd ēarum.**  
 **7. Sē cuma cwielð on ðǣre cirican.**  
