@@ -31,12 +31,18 @@ The men asked the boy for the hatchet.
 Who is the stranger?  
 
 **4. Hielpst ðū ðǣm bǫnan?**  
-Help you the murderer?  (More literal, but archaic.)
+Help you the murderer?  (More literal, but archaic.)  
 Do you help the murderer?
 
 **5. Ic him ne helpe.**  
+I do not help him.  
+
 **6. Ðā bearn scęððað ðæs bǫnan ēagum ǫnd ēarum.**  
+The children injured the murderer's eyes and ears.  
+
 **7. Sē cuma cwielð on ðǣre cirican.**  
+The stranger dies in the church.  [ TODO: find instance of cwielð.]  
+
 **8. Sē hunta wiðstęnt ðǣm wulfum.**  
 **9. Ðā oxan berað ðæs cnapan gefēran.**  
 **10. Sē mōna ǫnd ðā tunglu sind on ðǣm heofonum.**  
