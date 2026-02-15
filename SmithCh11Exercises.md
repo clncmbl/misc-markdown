@@ -41,7 +41,9 @@ I do not help him.
 The children injured the murderer's eyes and ears.  
 
 **7. Sē cuma cwielð on ðǣre cirican.**  
-The stranger dies in the church.  [ TODO: find instance of cwielð.]  
+The stranger dies in the church.  
+(Note: "cwielð" from cwelan appears to be unattested but
+is, arguably, theoretical)  
 
 **8. Sē hunta wiðstęnt ðǣm wulfum.**  
 **9. Ðā oxan berað ðæs cnapan gefēran.**  
