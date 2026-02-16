@@ -42,12 +42,19 @@ The children injured the murderer's eyes and ears.
 
 **7. Sē cuma cwielð on ðǣre cirican.**  
 The stranger dies in the church.  
-(Note: "cwielð" from cwelan appears to be unattested but
-is, arguably, theoretical)  
+(Note: "cwielð" (from cwelan) appears to be unattested but
+is, arguably, theoretical.)  
 
 **8. Sē hunta wiðstęnt ðǣm wulfum.**  
+The hunter withstands the wolves.  
+
 **9. Ðā oxan berað ðæs cnapan gefēran.**  
+The oxen bears the boy's companion.  
+The oxen bears the boy's companions.  
+
 **10. Sē mōna ǫnd ðā tunglu sind on ðǣm heofonum.**  
+The moon and the stars are in the heavens.  
+
 **11. Ðā huntan healdað ðǣre nǣdran tungan.**  
 **12. Hē hiere giefð ðā giefa.**  
 **13. Ðā werod scęððað ðæs cyninges feldum.**  
