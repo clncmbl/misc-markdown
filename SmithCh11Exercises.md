@@ -38,7 +38,7 @@ Do you help the murderer?
 I do not help him.  
 
 **6. Ðā bearn scęððað ðæs bǫnan ēagum ǫnd ēarum.**  
-The children injured the murderer's eyes and ears.  
+The children injure the murderer's eyes and ears.  
 
 **7. Sē cuma cwielð on ðǣre cirican.**  
 The stranger dies in the church.  
@@ -56,8 +56,13 @@ The oxen bears the boy's companions.
 The moon and the stars are in the heavens.  
 
 **11. Ðā huntan healdað ðǣre nǣdran tungan.**  
+The hunters hold the adder's tongue.  
+
 **12. Hē hiere giefð ðā giefa.**  
+He gives her the gifts.  
+
 **13. Ðā werod scęððað ðæs cyninges feldum.**  
+The armies scathe the king's fields.  
   
 ## Part II: PDE to OE
 
