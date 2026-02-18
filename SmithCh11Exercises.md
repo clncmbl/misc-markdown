@@ -70,10 +70,15 @@ The armies scathe the king's fields.
 Hwā bint ðā mūðas ðāra oxena?
 
 **2. Who gives him the gifts?**  
-Hwā giefð him ðā giefa?
+Hwā giefð him ðā giefa?  
 
 **3. Thou art helping him, and I am injuring him.**  
+Ðū him hielpst, ond ic him sceððe.  
+(Note: The above note for cwielð appears to apply to hielpst, as well.)
+
 **4. The boy’s companion is dying.**  
+Ðæs cnapan hefēra cwielð.  (See above notes.)
+
 **5. His nephew does not enjoy his leisure.**  
 **6. The adder’s tongue injures the king’s companion.**  
 **7. The sun is the day’s eye.**  
