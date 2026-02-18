@@ -67,7 +67,11 @@ The armies scathe the king's fields.
 ## Part II: PDE to OE
 
 **1. Who will bind the mouths of the oxen?**  
+Hwā bint ðā mūðas ðāra oxena?
+
 **2. Who gives him the gifts?**  
+Hwā giefð him ðā giefa?
+
 **3. Thou art helping him, and I am injuring him.**  
 **4. The boy’s companion is dying.**  
 **5. His nephew does not enjoy his leisure.**  
