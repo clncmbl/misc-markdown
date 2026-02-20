@@ -91,6 +91,9 @@ His nefa ne brȳcð his ǣmettan.
 Sēo sunne is ðæs dæges eage.  
 
 **8. She asks the strangers for the spears.**  
+Hēo bitt ðǣm cumum ðāra spera.  
+Hēo bitt ðǣm cumum ðāra gāra.  
+
 **9. The men’s bodies are not here.**  
 **10. Is he not (Nis hē) the child’s murderer?**  
 **11. Who creates the bodies and the souls of men?**  
