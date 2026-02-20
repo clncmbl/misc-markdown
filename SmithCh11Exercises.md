@@ -85,9 +85,11 @@ Hwā giefð him ðā giefa?
 His nefa ne brȳcð his ǣmettan.  
 
 **6. The adder’s tongue injures the king’s companion.**  
-Ðǣre nǣdran tunge sceðeð ðæs cyninges geferan.  
+Ðǣre nǣdran tunge sceðeð ðæs cyninges gefēran.  
 
 **7. The sun is the day’s eye.**  
+Sēo sunne is ðæs dæges eage.  
+
 **8. She asks the strangers for the spears.**  
 **9. The men’s bodies are not here.**  
 **10. Is he not (Nis hē) the child’s murderer?**  
