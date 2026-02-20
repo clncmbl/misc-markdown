@@ -32,7 +32,8 @@ Who is the stranger?
 
 **4. Hielpst ðū ðǣm bǫnan?**  
 Help you the murderer?  (More literal, but archaic.)  
-Do you help the murderer?
+Do you help the murderer?  
+(Note: "hielpst" is unlikely; "hilpst" is more likely.)  
 
 **5. Ic him ne helpe.**  
 I do not help him.  
@@ -42,8 +43,8 @@ The children injure the murderer's eyes and ears.
 
 **7. Sē cuma cwielð on ðǣre cirican.**  
 The stranger dies in the church.  
-(Note: "cwielð" (from cwelan) appears to be unattested but
-is, arguably, theoretical.)  
+(Note: "cwielð", from cwelan, appears to be unattested but
+is, arguably, theoretical; "cwilð" is more likely.)  
 
 **8. Sē hunta wiðstęnt ðǣm wulfum.**  
 The hunter withstands the wolves.  
@@ -73,14 +74,19 @@ Hwā bint ðā mūðas ðāra oxena?
 Hwā giefð him ðā giefa?  
 
 **3. Thou art helping him, and I am injuring him.**  
-Ðū him hielpst, ond ic him sceððe.  
-(Note: The above note for cwielð appears to apply to hielpst, as well.)
+Ðū him hielpst, ond ic him sceððe.  (Smith would expect this "hielpst".)  
+Ðū him hilpst, ond ic him sceððe.  ("hilpst" is more likely.)  
 
 **4. The boy’s companion is dying.**  
-Ðæs cnapan hefēra cwielð.  (See above notes.)
+Ðæs cnapan gefēra cwielð.  (Smith would expect this "cwielð".)  
+Ðæs cnapan gefēra cwilð.  ("cwilð" is more likely.)  
 
 **5. His nephew does not enjoy his leisure.**  
+His nefa ne brȳcð his ǣmettan.  
+
 **6. The adder’s tongue injures the king’s companion.**  
+Ðǣre nǣdran tunge sceðeð ðæs cyninges geferan.  
+
 **7. The sun is the day’s eye.**  
 **8. She asks the strangers for the spears.**  
 **9. The men’s bodies are not here.**  
