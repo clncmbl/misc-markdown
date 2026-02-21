@@ -74,11 +74,11 @@ Hwā bint ðā mūðas ðāra oxena?
 Hwā giefð him ðā giefa?  
 
 **3. Thou art helping him, and I am injuring him.**  
-Ðū him hielpst, ond ic him sceððe.  (Smith would expect this "hielpst".)  
+Ðū him hielpst, ond ic him sceððe.  (Smith would expect "hielpst".)  
 Ðū him hilpst, ond ic him sceððe.  ("hilpst" is more likely.)  
 
 **4. The boy’s companion is dying.**  
-Ðæs cnapan gefēra cwielð.  (Smith would expect this "cwielð".)  
+Ðæs cnapan gefēra cwielð.  (Smith would expect "cwielð".)  
 Ðæs cnapan gefēra cwilð.  ("cwilð" is more likely.)  
 
 **5. His nephew does not enjoy his leisure.**  
@@ -95,8 +95,8 @@ Hēo bitt ðǣm cumum ðāra spera.
 Hēo bitt ðǣm cumum ðāra gāra.  
 
 **9. The men’s bodies are not here.**  
-Ðāra gumena līc ne sind hēr.  ("guma" is introduced in this chapter.)
-Ðāra secga līc ne sind hēr.  ("secg" was introduced in ch. VI.)
+Ðāra gumena līc ne sind hēr.  ("guma" is introduced in this chapter.)  
+Ðāra secga līc ne sind hēr.  ("secg" was introduced in ch. VI.)  
 
 **10. Is he not (Nis hē) the child’s murderer?**  
 **11. Who creates the bodies and the souls of men?**  
