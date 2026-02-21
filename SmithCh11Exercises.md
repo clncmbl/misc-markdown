@@ -95,6 +95,9 @@ Hēo bitt ðǣm cumum ðāra spera.
 Hēo bitt ðǣm cumum ðāra gāra.  
 
 **9. The men’s bodies are not here.**  
+Ðāra gumena līc ne sind hēr.  ("guma" is introduced in this chapter.)
+Ðāra secga līc ne sind hēr.  ("secg" was introduced in ch. VI.)
+
 **10. Is he not (Nis hē) the child’s murderer?**  
 **11. Who creates the bodies and the souls of men?**  
 **12. Thou withstandest her.**  
