@@ -25,7 +25,7 @@ knowledge of Early West Saxon, that is, the language of King Alfred."
 The shoe-maker enjoys his leisure.  
 
 **2. Ðā guman biddað ðǣm cnapan ðæs adesan.**  
-The men asked the boy for the hatchet.  
+The men ask the boy for the hatchet.  
 
 **3. Hwā is sē cuma?**  
 Who is the stranger?  
@@ -50,8 +50,8 @@ is, arguably, theoretical; "cwilð" is more likely.)
 The hunter withstands the wolves.  
 
 **9. Ðā oxan berað ðæs cnapan gefēran.**  
-The oxen bears the boy's companion.  
-The oxen bears the boy's companions.  
+The oxen bear the boy's companion.  
+The oxen bear the boy's companions.  
 
 **10. Sē mōna ǫnd ðā tunglu sind on ðǣm heofonum.**  
 The moon and the stars are in the heavens.  
@@ -99,7 +99,7 @@ Hēo bitt ðǣm cumum ðāra gāra.
 Ðāra secga līc ne sind hēr.  ("secg" was introduced in ch. VI.)  
 
 **10. Is he not (Nis hē) the child’s murderer?**  
-Nis hē ðæs bearnes bonan?  
+Nis hē ðæs bearnes bona?  
 
 **11. Who creates the bodies and the souls of men?**  
 Hwā sciepð ðā līc ond ðā sawla gumena?  
