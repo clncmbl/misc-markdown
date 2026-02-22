@@ -99,7 +99,13 @@ Hēo bitt ðǣm cumum ðāra gāra.
 Ðāra secga līc ne sind hēr.  ("secg" was introduced in ch. VI.)  
 
 **10. Is he not (Nis hē) the child’s murderer?**  
-**11. Who creates the bodies and the souls of men?**  
-**12. Thou withstandest her.**  
-**13. He is not writing.**  
+Nis hē ðæs bearnes bonan?  
 
+**11. Who creates the bodies and the souls of men?**  
+Hwā sciepð ðā līc ond ðā sawla gumena?  
+
+**12. Thou withstandest her.**  
+Ðū hiere wiðstentst.  
+
+**13. He is not writing.**  
+Hē ne wrītt.
