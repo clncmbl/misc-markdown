@@ -109,3 +109,20 @@ Hwā sciepð ðā līc ond ðā sawla gumena?
 
 **13. He is not writing.**  
 Hē ne wrītt.
+
+Notes:
+The Bosworth-Toller entry for biddan points to an example
+at line 353 of the Old English poem *Andreas*.  At that line,
+biddan is used as follows:
+
+Andreas ongann mereliðendum miltsa biddan wuldres aldor.
+
+We can translate (with appropriate word order changes)
+that as "Andreas began to ask the Prince of Glory for mercy
+for the sailors".  Note the following case usage:  
+| OE | PDE | case | role with respect to biddan |
+|---|---|---|---|
+| mereleþendum | sailors | dative | intended beneficiaries of the request |
+| miltsa | mercies | genitive | that which is being requested |
+| wuldres aldor | Prince of Glory | accusative | the addressee to whom the request is made |
+  
