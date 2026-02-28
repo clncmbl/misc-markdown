@@ -25,7 +25,9 @@ knowledge of Early West Saxon, that is, the language of King Alfred."
 The shoe-maker enjoys his leisure.  
 
 **2. Ðā guman biddað ðǣm cnapan ðæs adesan.**  
-The men ask the boy for the hatchet.  
+The men ask the boy for the hatchet. (What Smith seems to be thinking.)
+The men request the hatchet for the boy. (Attested case usage around biddan.)
+(See notes below regarding biddan.)
 
 **3. Hwā is sē cuma?**  
 Who is the stranger?  
@@ -110,7 +112,22 @@ Hwā sciepð ðā līc ond ðā sawla gumena?
 **13. He is not writing.**  
 Hē ne wrītt.
 
-Notes:
+Notes on biddan usage:  
+
+In the vocabulary of section 65, Smith has the following line:  
+
+**biddan** (with dat. of person and gen. of thing), to request, ask for.
+
+In a footnote for that line, he says the following
+
+> In Mn.E. we say “I request a favor of you”; but in O.E.
+> it was “I request you (dative) of a favor” (genitive).
+
+Smith appears to be mistaken here.  The person to whom
+the request is being made does not belong in the dative case but
+rather the accusative case. The dative case is used, however,
+for a person for whom a request is being made.
+
 The Bosworth-Toller entry for biddan points to an example
 at line 353 of the Old English poem *Andreas*.  At that line,
 biddan is used as follows:
@@ -124,5 +141,4 @@ for the sailors".  Note the following case usage:
 |---|---|---|---|
 | mereleþendum | sailors | dative | intended beneficiaries of the request |
 | miltsa | mercies | genitive | that which is being requested |
-| wuldres aldor | Prince of Glory | accusative | the addressee to whom the request is made |
-  
+| wuldres aldor | Prince of Glory | accusative | the person to whom the request is made |
