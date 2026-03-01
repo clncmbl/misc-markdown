@@ -112,11 +112,13 @@ Hwā sciepð ðā līc ond ðā sawla gumena?
 **13. He is not writing.**  
 Hē ne wrītt.
 
-Notes on biddan usage:  
+## Miscellaneous notes
+
+### Notes on biddan usage:  
 
 In the vocabulary of section 65, Smith has the following line:  
 
-**biddan** (with dat. of person and gen. of thing), to request, ask for.
+> **biddan** (with dat. of person and gen. of thing), to request, ask for.
 
 In a footnote for that line, he says the following
 
@@ -128,17 +130,28 @@ the request is being made does not belong in the dative case but
 rather the accusative case. The dative case is used, however,
 for a person for whom a request is being made.
 
-The Bosworth-Toller entry for biddan points to an example
+The Bosworth-Toller (BT) entry for "biddan" points to an example
 at line 353 of the Old English poem *Andreas*.  At that line,
 biddan is used as follows:
 
-Andreas ongann mereliðendum miltsa biddan wuldres aldor.
+> Andreas ongann mereliðendum miltsa biddan wuldres aldor.
 
-We can translate (with appropriate word order changes)
-that as "Andreas began to ask the Prince of Glory for mercy
+We can translate that (with appropriate word order changes)
+as "Andreas began to ask the Prince of Glory for mercy
 for the sailors".  Note the following case usage:  
 | OE | PDE | case | role with respect to biddan |
 |---|---|---|---|
 | mereleþendum | sailors | dative | intended beneficiaries of the request |
 | miltsa | mercies | genitive | that which is being requested |
 | wuldres aldor | Prince of Glory | accusative | the person to whom the request is made |
+
+BT has many other examples of "biddan" usage and I
+could find none that support using the dative case
+for the requestee (except when the requestee is the
+object of a preposition that takes the dative).  Furthermore,
+I could find no examples in Smith's OE text selections
+that support using the dative for the
+requestee but several that use the accusative.  (A few examples
+have ðē or mē, but given the other examples, these are almost
+certainly accusative rather than dative.)
+
