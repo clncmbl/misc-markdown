@@ -93,8 +93,8 @@ His nefa ne brȳcð his ǣmettan.
 Sēo sunne is ðæs dæges eage.  
 
 **8. She asks the strangers for the spears.**  
-Hēo bitt ðone cuman ðāra spera.  
-Hēo bitt ðone cuman ðāra gāra.  
+Hēo bitt ðā cuman ðāra spera.  
+Hēo bitt ðā cuman ðāra gāra.  
 (As discussed in the below notes on cases used with bidden,
  Smith might expect the following:  
 Hēo bitt ðǣm cumum ðāra spera.  
@@ -131,12 +131,13 @@ In a footnote for that line, he says the following
 > In Mn.E. we say “I request a favor of you”; but in O.E.
 > it was “I request you (dative) of a favor” (genitive).
 
-Smith appears to be mistaken here.  The person to whom
+Smith's text appears to conflict with Bosworth-Toller(BT)
+and attested usage.  The person to whom
 the request is being made does not belong in the dative case but
 rather the accusative case. The dative case is used, however,
-for a person for whom a request is being made.
+for a person for whom a request is made.
 
-The Bosworth-Toller (BT) entry for "biddan" points to an example
+The BT entry for "biddan" points to an example
 at line 353 of the Old English poem *Andreas*.  At that line,
 biddan is used as follows:
 
