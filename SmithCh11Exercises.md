@@ -25,8 +25,8 @@ knowledge of Early West Saxon, that is, the language of King Alfred."
 The shoe-maker enjoys his leisure.  
 
 **2. Ðā guman biddað ðǣm cnapan ðæs adesan.**  
-The men ask the boy for the hatchet. (What Smith seems to be thinking.)
-The men request the hatchet for the boy. (Attested case usage around biddan.)
+The men ask the boy for the hatchet. (What Smith seems to be thinking.)  
+The men request the hatchet for the boy. (Attested case usage around biddan.)  
 (See notes below regarding biddan.)
 
 **3. Hwā is sē cuma?**  
@@ -93,8 +93,8 @@ His nefa ne brȳcð his ǣmettan.
 Sēo sunne is ðæs dæges eage.  
 
 **8. She asks the strangers for the spears.**  
-Hēo bitt ðone cuman ðāra spera.
-Hēo bitt ðone cuman ðāra gāra.
+Hēo bitt ðone cuman ðāra spera.  
+Hēo bitt ðone cuman ðāra gāra.  
 (As discussed in the below notes on cases used with bidden,
  Smith might expect the following:  
 Hēo bitt ðǣm cumum ðāra spera.  
