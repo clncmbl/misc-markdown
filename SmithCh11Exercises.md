@@ -93,8 +93,12 @@ His nefa ne brȳcð his ǣmettan.
 Sēo sunne is ðæs dæges eage.  
 
 **8. She asks the strangers for the spears.**  
+Hēo bitt ðone cuman ðāra spera.
+Hēo bitt ðone cuman ðāra gāra.
+(As discussed in the below notes on cases used with bidden,
+ Smith might expect the following:  
 Hēo bitt ðǣm cumum ðāra spera.  
-Hēo bitt ðǣm cumum ðāra gāra.  
+Hēo bitt ðǣm cumum ðāra gāra.)  
 
 **9. The men’s bodies are not here.**  
 Ðāra gumena līc ne sind hēr.  ("guma" is introduced in this chapter.)  
@@ -114,7 +118,7 @@ Hē ne wrītt.
 
 ## Miscellaneous notes
 
-### Notes on biddan usage:  
+### Notes on cases used with biddan:  
 
 In the vocabulary of section 65, Smith has the following line:  
 
