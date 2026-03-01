@@ -108,17 +108,19 @@ Hēo bitt ðǣm cumum ðāra gāra.)
 Nis hē ðæs bearnes bona?  
 
 **11. Who creates the bodies and the souls of men?**  
-Hwā sciepð ðā līc ond ðā sawla gumena?  
+Hwā sciepð gumena līc ond sawla?  
+(Moved the genitive to precede because Smith states, in section 21(2)
+that the "attributive genitive ... usually precedes the noun which it 
+qualifies."  Also, leaving gumena at the end results in ambiguity as
+to whether it applies to bodies.)
 
 **12. Thou withstandest her.**  
 Ðū hiere wiðstentst.  
 
 **13. He is not writing.**  
-Hē ne wrītt.
+Hē ne wrīt.
 
-## Miscellaneous notes
-
-### Notes on cases used with biddan:  
+## Notes on cases used with biddan:  
 
 In the vocabulary of section 65, Smith has the following line:  
 
