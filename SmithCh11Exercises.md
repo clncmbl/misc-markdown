@@ -120,7 +120,7 @@ to whether it applies to bodies.)
 **13. He is not writing.**  
 Hē ne wrīt.
 
-## Notes on cases used with biddan:  
+## Notes on cases used with biddan (Part I #2 and Part II #8):  
 
 In the vocabulary of section 65, Smith has the following line:  
 
