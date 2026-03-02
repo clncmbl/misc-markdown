@@ -22,7 +22,7 @@ knowledge of Early West Saxon, that is, the language of King Alfred."
 ## Part I: OE to PDE
 
 **1. Sē scēowyrhta brȳcð his ǣmettan.**  
-The shoe-maker enjoys his leisure.  
+The shoemaker enjoys his leisure.  
 
 **2. Ðā guman biddað ðǣm cnapan ðæs adesan.**  
 The men ask the boy for the hatchet. (What Smith seems to be thinking.)  
@@ -66,11 +66,13 @@ He gives her the gifts.
 
 **13. Ðā werod scęððað ðæs cyninges feldum.**  
 The armies scathe the king's fields.  
+The armies damage the king's fields.  
+(Or injure, harm, etc.)
   
 ## Part II: PDE to OE
 
 **1. Who will bind the mouths of the oxen?**  
-Hwā bint ðā mūðas ðāra oxena?
+Hwā bint ðā mūðas ðāra oxena?  
 
 **2. Who gives him the gifts?**  
 Hwā giefð him ðā giefa?  
