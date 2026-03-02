@@ -148,11 +148,15 @@ biddan is used as follows:
 We can translate that (with appropriate word order changes)
 as "Andreas began to ask the Prince of Glory for mercy
 for the sailors".  Note the following case usage:  
-| OE | PDE | case | role with respect to biddan |
-|---|---|---|---|
-| mereleþendum | sailors | dative | intended beneficiaries of the request |
-| miltsa | mercies | genitive | that which is being requested |
-| wuldres aldor | Prince of Glory | accusative | the person to whom the request is made |
+* **mereleþendum** (sailors)
+    * **Case:** Dative
+    * **Role:** Intended beneficiaries of the request
+* **miltsa** (mercies)
+    * **Case:** Genitive
+    * **Role:** That which is being requested
+* **wuldres aldor** (Prince of Glory)
+    * **Case:** Accusative
+    * **Role:** The person to whom the request is made
 
 BT has many other examples of "biddan" usage and I
 could find none that support using the dative case
