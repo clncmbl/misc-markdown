@@ -9,7 +9,7 @@ Reddit posts for previous sets of exercises are found here:
 * [solutions for C. Alphonso Smith Grammar Chapter VIII Section 42](https://www.reddit.com/r/OldEnglish/comments/1qe4z8i/c_alphonso_smith_grammar_chapter_viii_section_42/)
 * [solutions for C. Alphonso Smith Grammar Chapter IX Section 55](https://www.reddit.com/r/OldEnglish/comments/1qo13dm/c_alphonso_smith_grammar_chapter_ix_section_55/)
 * [solutions for C. Alphonso Smith Grammar Chapter X Section 62](https://www.reddit.com/r/OldEnglish/comments/1qywdv6/c_alphonso_smith_grammar_chapter_x_section_62/)
-* [solutions for C. Alphonso Smith Grammar Chapter X Section 66] (https://www.reddit.com/r/OldEnglish/comments/1rifa89/c_alphonso_smith_grammar_chapter_xi_section_66/)
+* [solutions for C. Alphonso Smith Grammar Chapter XI Section 66](https://www.reddit.com/r/OldEnglish/comments/1rifa89/c_alphonso_smith_grammar_chapter_xi_section_66/)
   
 
 I stick closely to the vocabulary in the part of the book up to where the exercises are.  Also, be aware that Smith, in Chapter I, says, "It is the object of this book to give an elementary knowledge of Early West Saxon, that is, the language of King Alfred."
