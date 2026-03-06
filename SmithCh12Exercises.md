@@ -16,11 +16,29 @@ I stick closely to the vocabulary in the part of the book up to where the exerci
 # Part I: OE to PDE
 
 **1. Mōn hine hǣt Ælfred.**  
+People call him Alfred.  
+They call him Alfred.  
+One calls him Alfred.  
+He is called Alfred.  
+(See the note at the bottom of section 70 regarding "mon".)  
+
 **2. Uton faran on ðæt scip.**  
+Let's go on the ship.  
+Let's travel on the ship.  
+
 **3. God is cyninga cyning ǫnd hlāforda hlāford.**  
+God is king of kings and lord of lords.  
+
 **4. Sē eorl ne giefð giefa his fīend.**  
+The earl does not give gifts to his enemy.  
+
 **5. Ic næs mid his frīend.**  
+I was not with his friend.  
+
 **6. Sēo mōdor færð mid hiere dęhter on ðā burg.**  
+The mother goes with her daughter to the town.  
+The mother is going with her daughter to the town.  
+
 **7. Fintst ðū ðæs bōceres bēc?**  
 **8. Hē bint ealle (all) ðā dēor būtan ðǣm wulfum.**  
 **9. Ðū eart Crīst, Godes sunu.**  
