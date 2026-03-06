@@ -36,13 +36,22 @@ The earl does not give gifts to his enemy.
 I was not with his friend.  
 
 **6. Sēo mōdor færð mid hiere dęhter on ðā burg.**  
-The mother goes with her daughter to the town.  
-The mother is going with her daughter to the town.  
+The mother goes with her daughter to the city.  
+The mother is going with her daughter to the city.  
 
 **7. Fintst ðū ðæs bōceres bēc?**  
+ Are you finding the scribe's book?  
+ Do you find the scribe's book?  
+
 **8. Hē bint ealle (all) ðā dēor būtan ðǣm wulfum.**  
+He binds all the animals except the wolves.  
+
 **9. Ðū eart Crīst, Godes sunu.**  
+You are Christ, God's son.  
+You are Christ, Son of God.  
+
 **10. "Uton bindan ðæs bǫnan fēt," cwið hē.**  
+"Let's bind the murderer's feet," says he.  
 
 # Part II: PDE to OE
 
