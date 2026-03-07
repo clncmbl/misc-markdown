@@ -1,6 +1,6 @@
 These are draft solutions to exercises in the *Anglo-Saxon Grammar and Exercise Book* by C. Alphonso Smith (copyright 1896) subject to review by anybody with an interest in checking them over.  I would appreciate corrections and additions.
 
-This is for the seventh set of exercises in the book, which comes from Chapter XII, Section 71 of the Grammar. [https://www.gutenberg.org/cache/epub/31277/pg31277-images.html#page46](https://www.gutenberg.org/cache/epub/31277/pg31277-images.html#page49)
+This is for the seventh set of exercises in the book, which comes from Chapter XII, Section 71 of the Grammar. [https://www.gutenberg.org/cache/epub/31277/pg31277-images.html#page49](https://www.gutenberg.org/cache/epub/31277/pg31277-images.html#page49)
 
 Reddit posts for previous sets of exercises are found here:
 
@@ -20,7 +20,9 @@ People call him Alfred.
 They call him Alfred.  
 One calls him Alfred.  
 He is called Alfred.  
-(See the note at the bottom of section 70 regarding "mon".)  
+(See the note at the bottom of section 70,
+[page 49](https://www.gutenberg.org/cache/epub/31277/pg31277-images.html#page49),
+regarding "mon".)  
 
 **2. Uton faran on ðæt scip.**  
 Let's go on the ship.  
@@ -48,7 +50,7 @@ He binds all the animals except the wolves.
 
 **9. Ðū eart Crīst, Godes sunu.**  
 You are Christ, God's son.  
-You are Christ, Son of God.  
+You are Christ, son of God.  
 
 **10. "Uton bindan ðæs bǫnan fēt," cwið hē.**  
 "Let's bind the murderer's feet," says he.  
@@ -56,7 +58,12 @@ You are Christ, Son of God.
 # Part II: PDE to OE
 
 **1. Christ is the son of God.**  
+Crīst is sē sunu Godes.  
+Crīst is Godes sunu.  (Emphasis shifts to relationship; weakens implied uniqueness.)  
+
 **2. Let us call him Cædmon.**  
+Uton hine hātan Cædmon.
+
 **3. He throws his spear against the door.**  
 **4. Thou art not the earl’s brother.**  
 **5. He will go with his father to England, but I shall remain (abide) here.**  
