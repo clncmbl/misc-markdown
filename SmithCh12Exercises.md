@@ -65,6 +65,9 @@ Crīst is Godes sunu.  (Emphasis shifts to relationship; weakens implied uniquen
 Uton hine hātan Cædmon.
 
 **3. He throws his spear against the door.**  
+Hē wierpð his gār on ðā duru.  
+Hē wierpð his spere on ðā duru.  
+
 **4. Thou art not the earl’s brother.**  
 **5. He will go with his father to England, but I shall remain (abide) here.**  
 **6. Gifts are not given to murderers.**  
