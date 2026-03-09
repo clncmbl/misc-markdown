@@ -24,7 +24,7 @@ He is called Alfred.
 [page 49](https://www.gutenberg.org/cache/epub/31277/pg31277-images.html#page49),
 regarding "mon".)  
 
-**2. Uton faran on ðæt scip.**   NEED TO REVIEW THIS AND IT'S USE OF ACCUSATIVE.
+**2. Uton faran on ðæt scip.**   NEED TO REVIEW THIS AND ITS USE OF ACCUSATIVE.  
 Let's go on the ship.  
 Let's travel on the ship.  
 
@@ -81,5 +81,11 @@ Giefa mon ne giefð banum.
 section 70, page 49, regarding "mon".)
 
 **7. Who will find the tracks of the animals?**  
-**8. They ask their lord for his weapons (§ 65, Note 3).**  
+Hwā fint ðā sporu ðāra dēora?  
+Hwā fint ðāra dēora sporu?  
 
+**8. They ask their lord for his weapons (§ 65, Note 3).**  
+Hīe biddað hiera hlāford his wǣpena.  
+(As discussed in the [Ch. 11 post](https://www.reddit.com/r/OldEnglish/comments/1rifa89/c_alphonso_smith_grammar_chapter_xi_section_66/)
+and as he explains in § 65, Note 3, Smith likely expects this:  
+Hīe biddað hiera hlāforde his wǣpena.)  
