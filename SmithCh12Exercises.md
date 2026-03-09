@@ -24,7 +24,7 @@ He is called Alfred.
 [page 49](https://www.gutenberg.org/cache/epub/31277/pg31277-images.html#page49),
 regarding "mon".)  
 
-**2. Uton faran on ðæt scip.**  
+**2. Uton faran on ðæt scip.**   NEED TO REVIEW THIS AND IT'S USE OF ACCUSATIVE.
 Let's go on the ship.  
 Let's travel on the ship.  
 
@@ -69,7 +69,11 @@ Hē wierpð his gār on ðā duru.
 Hē wierpð his spere on ðā duru.  
 
 **4. Thou art not the earl’s brother.**  
+Ðū neart ðæs eorles broðor.  
+
 **5. He will go with his father to England, but I shall remain (abide) here.**  
+Hē færð mid his fæder tō Englalonde, ac ic bīde hēr.  
+
 **6. Gifts are not given to murderers.**  
 **7. Who will find the tracks of the animals?**  
 **8. They ask their lord for his weapons (§ 65, Note 3).**  
