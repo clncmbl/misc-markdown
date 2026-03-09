@@ -75,6 +75,9 @@ Hē wierpð his spere on ðā duru.
 Hē færð mid his fæder tō Englalonde, ac ic bīde hēr.  
 
 **6. Gifts are not given to murderers.**  
+Giefa mon ne giefð bonum.  
+Giefa mon ne giefð banum.  
+
 **7. Who will find the tracks of the animals?**  
 **8. They ask their lord for his weapons (§ 65, Note 3).**  
 
