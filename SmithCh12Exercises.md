@@ -24,9 +24,8 @@ He is called Alfred.
 [page 49](https://www.gutenberg.org/cache/epub/31277/pg31277-images.html#page49),
 regarding "mon".)  
 
-**2. Uton faran on ðæt scip.**   NEED TO REVIEW THIS AND ITS USE OF ACCUSATIVE.  
-Let's go on the ship.  
-Let's travel on the ship.  
+**2. Uton faran on ðæt scip.**  
+Let's go onto the ship.  
 
 **3. God is cyninga cyning ǫnd hlāforda hlāford.**  
 God is king of kings and lord of lords.  
