@@ -41,8 +41,7 @@ The mother goes with her daughter to the city.
 The mother is going with her daughter to the city.  
 
 **7. Fintst ðū ðæs bōceres bēc?**  
- Are you finding the scribe's book?  
- Do you find the scribe's book?  
+ Do you find the scribe's books?  
 
 **8. Hē bint ealle (all) ðā dēor būtan ðǣm wulfum.**  
 He binds all the animals except the wolves.  
@@ -76,6 +75,7 @@ Hē færð mid his fæder tō Englalonde, ac ic bīde hēr.
 **6. Gifts are not given to murderers.**  
 Giefa mon ne giefð bonum.  
 Giefa mon ne giefð banum.  
+Mon ne giefð giefa bonum.
 (See exercise #1 in Part I, above, and the note at the bottom of
 section 70, page 49, regarding "mon".)
 
