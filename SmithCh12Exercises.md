@@ -32,6 +32,7 @@ God is king of kings and lord of lords.
 
 **4. Sē eorl ne giefð giefa his fīend.**  
 The earl does not give gifts to his enemy.  
+(Here we have giefu in plural accusative and feond in singular dative.)
 
 **5. Ic næs mid his frīend.**  
 I was not with his friend.  
