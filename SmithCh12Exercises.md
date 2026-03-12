@@ -31,7 +31,7 @@ Let's go onto the ship.
 God is king of kings and lord of lords.  
 
 **4. Sē eorl ne giefð giefa his fīend.**  
-(plural accusative of giefu; singular dative of fēond)  
+(accusative plural of giefu; dative singular of fēond)  
 The earl does not give gifts to his enemy.  
 The earl does not give his enemy gifts.  
 
