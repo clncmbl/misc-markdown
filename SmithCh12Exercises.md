@@ -79,8 +79,9 @@ Hē færð mid his fæder tō Englalonde, ac ic bīde hēr.
 Giefa mon ne giefð bonum.  
 Giefa mon ne giefð banum.  
 Mon ne giefð giefa bonum.  
-(See exercise #1 in Part I, above, and the note at the bottom of
-section 70, page 49, regarding "mon".)  
+(See exercise #1 in Part I, above, and the note at the bottom of section 70,
+[page 49](https://www.gutenberg.org/cache/epub/31277/pg31277-images.html#page49),
+regarding "mon".)  
 
 **7. Who will find the tracks of the animals?**  
 Hwā fint ðā sporu ðāra dēora?  
