@@ -31,8 +31,9 @@ Let's go onto the ship.
 God is king of kings and lord of lords.  
 
 **4. Sē eorl ne giefð giefa his fīend.**  
+(plural accusative of giefu; singular dative of fēond)  
 The earl does not give gifts to his enemy.  
-(Here we have giefu in plural accusative and feond in singular dative.)
+The earl does not give his enemy gifts.  
 
 **5. Ic næs mid his frīend.**  
 I was not with his friend.  
@@ -40,6 +41,7 @@ I was not with his friend.
 **6. Sēo mōdor færð mid hiere dęhter on ðā burg.**  
 The mother goes with her daughter to the city.  
 The mother is going with her daughter to the city.  
+The mother travels with her daughter to the city.  
 
 **7. Fintst ðū ðæs bōceres bēc?**  
  Do you find the scribe's books?  
@@ -58,7 +60,7 @@ You are Christ, son of God.
 
 **1. Christ is the son of God.**  
 Crīst is sē sunu Godes.  
-Crīst is Godes sunu.  (Emphasis shifts to relationship; weakens implied uniqueness.)  
+Crīst is Godes sunu.  
 
 **2. Let us call him Cædmon.**  
 Uton hine hātan Cædmon.
