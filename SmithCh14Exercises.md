@@ -26,6 +26,8 @@ accusative plurals of *monig*, strong adj., and *giefu*)
 The good queen gives each thane many gifts.  
 
 **3. Ðēs wīsa cyning hæfð mǫnige micele tūnas on his rīce.**  
+This wise king has many large towns in his kingdom.  
+
 **4. Nǣnig mǫn is wīs on eallum ðingum.**  
 **5. Ðȳ ilcan dæge (§ 98, (2)) mǫn fǫnd (found) ðone ðegn ðe mīnes wines bēc hæfde.**  
 **6. Ealle ðā sęcgas ðā ðe swift hors habbað rīdað wið ðone bǫnan.**  
