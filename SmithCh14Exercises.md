@@ -29,7 +29,7 @@ The good queen gives each thane many gifts.
 This wise king has many large towns in his kingdom.  
 
 **4. Nǣnig mǫn is wīs on eallum ðingum.**  
-(According to Wiktionary, "Nǣniġ was common in the Anglian dialects, but almost absent in West Saxon, which used the synonym nān instead."  Wiktionary's usage example is The Seafarer, which apparently contains many artifacts indicating Anglian origin despite the manuscript's primary dialect being West Saxon.  Note that "mon" also appears to be from a non-WS dialect and may be Anglian.  Need to check Campbell and/or Hogg on the rounding of "a" to "o" before a nasal, like "n".)
+(According to Wiktionary, "Nǣniġ was common in the Anglian dialects, but almost absent in West Saxon, which used the synonym nān instead."  Wiktionary's usage example is The Seafarer, which apparently contains many artifacts indicating Anglian origin despite the manuscript's primary dialect being West Saxon.  Note that "mon" also appears to be from a non-WS dialect and may be Anglian.  Need to check Campbell and/or Hogg on the rounding of "a" to "o" before a nasal, like "n".  But then why does it appear a lot in the excerpts from Alfredian literature?)
 
 
 **5. Ðȳ ilcan dæge (§ 98, (2)) mǫn fǫnd (found) ðone ðegn ðe mīnes wines bēc hæfde.**  
