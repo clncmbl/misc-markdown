@@ -29,10 +29,13 @@ The good queen gives each thane many gifts.
 This wise king has many large towns in his kingdom.  
 
 **4. Nǣnig mǫn is wīs on eallum ðingum.**  
+No one is wise in all things.
 (According to Wiktionary, "Nǣniġ was common in the Anglian dialects, but almost absent in West Saxon, which used the synonym nān instead."  Wiktionary's usage example is The Seafarer, which apparently contains many artifacts indicating Anglian origin despite the manuscript's primary dialect being West Saxon.  Note that "mon" also appears to be from a non-WS dialect and may be Anglian.  Need to check Campbell and/or Hogg on the rounding of "a" to "o" before a nasal, like "n".  But then why does it appear a lot in the excerpts from Alfredian literature?  The answer to that question appears to be two-fold.  First, the preference for man and mann still had not solidified in Wessex by Alfred's time.  Second, most of Alfred's literary experts were from Mercia, and Mercian was Anglian dialect.)
 
-
 **5. Ðȳ ilcan dæge (§ 98, (2)) mǫn fǫnd (found) ðone ðegn ðe mīnes wines bēc hæfde.**  
+The same day, the thegn was found who had my friend's books.  
+On the same day, they found the thegn who had my friend's books.  (impersonal "they")
+
 **6. Ealle ðā sęcgas ðā ðe swift hors habbað rīdað wið ðone bǫnan.**  
 **7. Ðīne fīend sind mīne frīend.**  
 **8. Sē micela stān ðone ðe ic on mīnum hǫndum hæbbe is swīðe heard.**  
