@@ -29,17 +29,18 @@ The good queen gives each thane many gifts.
 This wise king has many large towns in his kingdom.  
 
 **4. Nǣnig mǫn is wīs on eallum ðingum.**  
-No one is wise in all things.
-(According to Wiktionary, "Nǣniġ was common in the Anglian dialects, but almost absent in West Saxon, which used the synonym nān instead."  Wiktionary's usage example is The Seafarer, which apparently contains many artifacts indicating Anglian origin despite the manuscript's primary dialect being West Saxon.  Note that "mon" also appears to be from a non-WS dialect and may be Anglian.  Need to check Campbell and/or Hogg on the rounding of "a" to "o" before a nasal, like "n".  But then why does it appear a lot in the excerpts from Alfredian literature?  The answer to that question appears to be two-fold.  First, the preference for man and mann still had not solidified in Wessex by Alfred's time.  Second, most of Alfred's literary experts were from Mercia, and Mercian was Anglian dialect.)
+(See note on "nǣnig" below.)
+No one is wise in all things.  
+
 
 **5. Ðȳ ilcan dæge (§ 98, (2)) mǫn fǫnd (found) ðone ðegn ðe mīnes wines bēc hæfde.**  
 The same day, the thegn was found who had my friend's books.  
 On the same day, they found the thegn who had my friend's books.  (impersonal "they")
 
 **6. Ealle ðā sęcgas ðā ðe swift hors habbað rīdað wið ðone bǫnan.**  
-All the warriors who have swift horses ride after the murderer.  ("after" in the sense of a pursuit as implied by "swift horses")
-All the men who have swift horses ride against the murderer.  ("against" does not seem as good a fit)
 (For "ðā ðe", see § 75.)  
+All the warriors who have swift horses ride after the murderer.  ("after" in the sense of a pursuit as implied by "swift horses")  
+All the men who have swift horses ride against the murderer.  ("against" does not fit so well here)  
 
 **7. Ðīne fīend sind mīne frīend.**  
 Your enemies are my friends.  
@@ -51,8 +52,8 @@ The large stone that I have in my hands is very hard.
 They injure the old horses.  
 
 **10. Uton niman ðās tilan giefa ǫnd hīe beran tō ūrum lēofum bearnum.**  
-Let's take the useful gifts and carry them to our dear children.  
-
+Let's take these useful gifts and bear them to our dear children.  
+Let's take these useful gifts and carry them to our dear children.  
 
 # Part II: PDE to OE
 
@@ -67,3 +68,5 @@ Let's take the useful gifts and carry them to our dear children.
 **9. Whosoever chooses me, him I also (ēac) choose.**  
 **10. Every man has many friends that are not wise.**  
 
+Note on "nǣnig" usage in Early West Saxon:  
+According to Wiktionary, "Nǣniġ was common in the Anglian dialects, but almost absent in West Saxon, which used the synonym nān instead."  Wiktionary's usage example is The Seafarer, which apparently contains many artifacts indicating Anglian origin despite the manuscript's primary dialect being West Saxon.  Note that "mon" also appears to be from a non-WS dialect and may be Anglian.  Need to check Campbell and/or Hogg on the rounding of "a" to "o" before a nasal, like "n".  But then why does it appear a lot in the excerpts from Alfredian literature?  The answer to that question appears to be two-fold.  First, the preference for man and mann still had not solidified in Wessex by Alfred's time.  Second, most of Alfred's literary experts were from Mercia, and Mercian was Anglian dialect.)
