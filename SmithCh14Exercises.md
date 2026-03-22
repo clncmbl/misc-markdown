@@ -37,10 +37,22 @@ The same day, the thegn was found who had my friend's books.
 On the same day, they found the thegn who had my friend's books.  (impersonal "they")
 
 **6. Ealle ðā sęcgas ðā ðe swift hors habbað rīdað wið ðone bǫnan.**  
+All the warriors who have swift horses ride after the murderer.  ("after" in the sense of a pursuit as implied by "swift horses")
+All the men who have swift horses ride against the murderer.  ("against" does not seem as good a fit)
+(For "ðā ðe", see § 75.)  
+
 **7. Ðīne fīend sind mīne frīend.**  
+Your enemies are my friends.  
+
 **8. Sē micela stān ðone ðe ic on mīnum hǫndum hæbbe is swīðe heard.**  
+The large stone that I have in my hands is very hard.  
+
 **9. Hīe scęððað ðǣm ealdum horsum.**  
+They injure the old horses.  
+
 **10. Uton niman ðās tilan giefa ǫnd hīe beran tō ūrum lēofum bearnum.**  
+Let's take the useful gifts and carry them to our dear children.  
+
 
 # Part II: PDE to OE
 
