@@ -60,14 +60,14 @@ Let's take these useful gifts and carry them to our dear children.
 # Part II: PDE to OE
 
 **1. These holy men are wise and good.**  
-Ðās hālgan wer sind wise ond gōde.  
+Ðās hālgan guman sind wise ond gōde.  
 [TODO: Add variants here and below.]  
 
 **2. Are the little children very dear to the servants (dat. without tō)?**  
-Sind ðā lȳtlan bearnas swīðe lēofe ðegnum?  
+Sind ðā lȳtlan bearn swīðe lēofum ðegnum?  
 
 **3. Gifts are not given (§ 70, Note 1) to rich men.**  
-Giefa mon ne giefþ rīcum werum.
+Giefa mon ne giefþ rīcum gumum.
 
 **4. All the horses that are in the king’s fields are swift.**  
 **5. These stones are very large and hard.**  
