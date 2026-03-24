@@ -39,8 +39,10 @@ On the same day, they found the thegn who had my friend's books.  (impersonal "t
 
 **6. Ealle ðā sęcgas ðā ðe swift hors habbað rīdað wið ðone bǫnan.**  
 (For "ðā ðe", see § 75.)  
-All the warriors who have swift horses ride after the murderer.  ("after" in the sense of a pursuit as implied by "swift horses")  
-All the men who have swift horses ride against the murderer.  ("against" does not fit so well here)  
+All the warriors who have swift horses ride after the murderer.  
+("after" in the sense of a pursuit as implied by "swift horses")  
+All the men who have swift horses ride against the murderer.  
+("against" is a more common translation of *wið* but perhaps less fitting here.)  
 
 **7. Ðīne fīend sind mīne frīend.**  
 Your enemies are my friends.  
@@ -58,8 +60,15 @@ Let's take these useful gifts and carry them to our dear children.
 # Part II: PDE to OE
 
 **1. These holy men are wise and good.**  
+Ðās hālgan wer sind wise ond gōde.  
+[TODO: Add variants here and below.]  
+
 **2. Are the little children very dear to the servants (dat. without tō)?**  
+Sind ðā lȳtlan bearnas swīðe lēofe ðegnum?  
+
 **3. Gifts are not given (§ 70, Note 1) to rich men.**  
+Giefa mon ne giefþ rīcum werum.
+
 **4. All the horses that are in the king’s fields are swift.**  
 **5. These stones are very large and hard.**  
 **6. He takes the dead man’s spear and fights against the large army.**  
