@@ -72,6 +72,7 @@ Giefa mon ne giefþ rīcum gumum.
 **4. All the horses that are in the king’s fields are swift.**  
 Eall ðā hors ðe on ðæs cyninges feldum sind sind swifte.   
 Eall ðā hors swifte ðe on ðæs cyninges feldum sind.  (Linking verb omitted [null copula] in main clause.)  
+(TODO: Consider adding "ðā ðe" with note as in #6 OE-to-PDE above)
 
 **5. These stones are very large and hard.**  
 **6. He takes the dead man’s spear and fights against the large army.**  
