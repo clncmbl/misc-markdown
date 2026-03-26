@@ -32,7 +32,6 @@ This wise king has many large towns in his kingdom.
 (See note on "nǣnig" below.)
 No one is wise in all things.  
 
-
 **5. Ðȳ ilcan dæge (§ 98, (2)) mǫn fǫnd (found) ðone ðegn ðe mīnes wines bēc hæfde.**  
 The same day, the thegn was found who had my friend's books.  
 On the same day, they found the thegn who had my friend's books.  (impersonal "they")
@@ -75,7 +74,12 @@ Eall ðā hors swifte ðe on ðæs cyninges feldum sind.  (Linking verb omitted 
 (TODO: Consider adding "ðā ðe" with note as in #6 OE-to-PDE above)
 
 **5. These stones are very large and hard.**  
+Ðās stānas sind swīðe micle ond hearde.  
+Ðās stānas sind swīðe micele ond hearde.  
+
 **6. He takes the dead man’s spear and fights against the large army.**  
+Hē nimð 
+
 **7. This new house has many doors.**  
 **8. My ways are not your ways.**  
 **9. Whosoever chooses me, him I also (ēac) choose.**  
