@@ -70,7 +70,8 @@ Giefa mon ne giefþ rīcum gumum.
 
 **4. All the horses that are in the king’s fields are swift.**  
 Eall ðā hors ðe on ðæs cyninges feldum sind sind swifte.   
-Eall ðā hors swifte ðe on ðæs cyninges feldum sind.  (Linking verb omitted [null copula] in main clause.)  
+Eall ðā hors swifte ðe on ðæs cyninges feldum sind.  (Linking verb omitted [null copula] in main clause.) 
+(Predicate last in dependent clause.  See § 20 (3) regarding transposed order.)
 (TODO: Consider adding "ðā ðe" with note as in #6 OE-to-PDE above)
 
 **5. These stones are very large and hard.**  
