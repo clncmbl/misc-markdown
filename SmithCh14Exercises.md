@@ -21,15 +21,15 @@ These ships are not very fast, but they are very serviceable.
 
 **2. Sēo gōde cwēn giefð ǣlcum ðegne mǫniga giefa.**  
 (weak feminine singular of *gōd*;
-dative singular of *ǣlc ðegn*, strong adj.;
-accusative plurals of *monig*, strong adj., and *giefu*)  
+dat. sing. of *ǣlc ðegn*, strong adj.;
+acc. pl. of strong *monig* and *giefu*)  
 The good queen gives each thane many gifts.  
 
 **3. Ðēs wīsa cyning hæfð mǫnige micele tūnas on his rīce.**  
 This wise king has many large towns in his kingdom.  
 
 **4. Nǣnig mǫn is wīs on eallum ðingum.**  
-(See note on "nǣnig" below.)
+(See note on "nǣnig" below.)  TODO: Remove?  
 No one is wise in all things.  
 
 **5. Ðȳ ilcan dæge (§ 98, (2)) mǫn fǫnd (found) ðone ðegn ðe mīnes wines bēc hæfde.**  
@@ -70,16 +70,18 @@ Giefa mon ne giefþ rīcum gumum.
 
 **4. All the horses that are in the king’s fields are swift.**  
 Eall ðā hors ðe on ðæs cyninges feldum sind sind swifte.   
-Eall ðā hors swifte ðe on ðæs cyninges feldum sind.  (Linking verb omitted [null copula] in main clause.) 
-(Predicate last in dependent clause.  See § 20 (3) regarding transposed order.)
-(TODO: Consider adding "ðā ðe" with note as in #6 OE-to-PDE above)
+Eall ðā hors swifte ðe on ðæs cyninges feldum sind.  (Linking verb omitted [null copula] in main clause.)  
+(Predicate last in dependent clause.  See § 20 (3) regarding transposed order.)  
+(TODO: Consider adding "ðā ðe" with note as in #6 OE-to-PDE above)  
 
 **5. These stones are very large and hard.**  
 Ðās stānas sind swīðe micle ond hearde.  
 Ðās stānas sind swīðe micele ond hearde.  
 
 **6. He takes the dead man’s spear and fights against the large army.**  
-Hē nimð 
+Hē nimð ðæs dēadan guman gār ond gefieht wið ðæt micle werod.  
+Hē nimð ðæs dēadan guman gār ond fieht wið ðæt micele werod.  
+(The former is more characteristic of West Saxon; the latter of Anglian.)  
 
 **7. This new house has many doors.**  
 **8. My ways are not your ways.**  
