@@ -84,7 +84,10 @@ Hē nimð ðæs dēadan guman gār ond fieht wið ðæt micele werod.
 (The former is more characteristic of West Saxon; the latter of Anglian.)  
 
 **7. This new house has many doors.**  
+Ðis nīwe hūs hæfð monige dura.  
+
 **8. My ways are not your ways.**  
+
 **9. Whosoever chooses me, him I also (ēac) choose.**  
 **10. Every man has many friends that are not wise.**  
 
