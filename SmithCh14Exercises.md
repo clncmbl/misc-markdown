@@ -87,6 +87,11 @@ Hē nimð ðæs dēadan guman gār ond fieht wið ðæt micele werod.
 Ðis nīwe hūs hæfð monige dura.  
 
 **8. My ways are not your ways.**  
+Mīne wegas ne sind ðīne wegas.  
+Mīne wegas ne sind incre wegas.  
+Mīne wegas ne sind ēowre wegas.  
+(The first and second person possessive pronouns are declined as
+strong adjectives.  See § 76, and also personal pronouns in § 72.)  
 
 **9. Whosoever chooses me, him I also (ēac) choose.**  
 **10. Every man has many friends that are not wise.**  
