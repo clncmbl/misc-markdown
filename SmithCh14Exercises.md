@@ -94,7 +94,10 @@ Mīne wegas ne sind ēowre wegas.
 strong adjectives.  See § 76, and also personal pronouns in § 72.)  
 
 **9. Whosoever chooses me, him I also (ēac) choose.**  
+Swā hwā swā mē cīest, him ic ēac cēose.  
+
 **10. Every man has many friends that are not wise.**  
+Ǣlc mann hæfð monige frīend ðe ne sind wīsan.  
 
 Note on "nǣnig" usage in Early West Saxon:  
 According to Wiktionary, "Nǣniġ was common in the Anglian dialects, but almost absent in West Saxon, which used the synonym nān instead."  Wiktionary's usage example is The Seafarer, which apparently contains many artifacts indicating Anglian origin despite the manuscript's primary dialect being West Saxon.  Note that "mon" also appears to be from a non-WS dialect and may be Anglian.  Need to check Campbell and/or Hogg on the rounding of "a" to "o" before a nasal, like "n".  But then why does it appear a lot in the excerpts from Alfredian literature?  The answer to that question appears to be two-fold.  First, the preference for man and mann still had not solidified in Wessex by Alfred's time.  Second, most of Alfred's literary experts were from Mercia, and Mercian was Anglian dialect.)
