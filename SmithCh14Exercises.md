@@ -29,7 +29,7 @@ The good queen gives each thane many gifts.
 This wise king has many large towns in his kingdom.  
 
 **4. Nǣnig mǫn is wīs on eallum ðingum.**  
-(See note on "nǣnig" below.)  TODO: Remove?  
+(See note on "nǣnig" below.)    
 No one is wise in all things.  
 
 **5. Ðȳ ilcan dæge (§ 98, (2)) mǫn fǫnd (found) ðone ðegn ðe mīnes wines bēc hæfde.**  
@@ -41,7 +41,7 @@ On the same day, they found the thegn who had my friend's books.  (impersonal "t
 All the warriors who have swift horses ride after the murderer.  
 ("after" in the sense of a pursuit as implied by "swift horses")  
 All the men who have swift horses ride against the murderer.  
-("against" is a more common translation of *wið* but perhaps less fitting here.)  
+("against" is a more common translation of *wið* but less fitting here.)  
 
 **7. Ðīne fīend sind mīne frīend.**  
 Your enemies are my friends.  
