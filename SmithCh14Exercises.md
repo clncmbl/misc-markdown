@@ -20,16 +20,16 @@ I stick closely to the vocabulary in the part of the book up to where the exerci
 These ships are not very fast, but they are very serviceable.  
 
 **2. Sēo gōde cwēn giefð ǣlcum ðegne mǫniga giefa.**  
-(weak feminine singular of *gōd*;
-dat. sing. of *ǣlc ðegn*, strong adj.;
-acc. pl. of strong *monig* and *giefu*)  
+(weak fem. sing. of *gōd*;
+dat. sing. of *ðegn* and strong *ǣlc*;
+acc. pl. of *giefu* and strong *monig*)  
 The good queen gives each thane many gifts.  
 
 **3. Ðēs wīsa cyning hæfð mǫnige micele tūnas on his rīce.**  
 This wise king has many large towns in his kingdom.  
 
 **4. Nǣnig mǫn is wīs on eallum ðingum.**  
-(See note on "nǣnig" below.)    
+(See note on *nǣnig* below.)    
 No one is wise in all things.  
 
 **5. Ðȳ ilcan dæge (§ 98, (2)) mǫn fǫnd (found) ðone ðegn ðe mīnes wines bēc hæfde.**  
@@ -37,7 +37,7 @@ The same day, the thegn was found who had my friend's books.
 On the same day, they found the thegn who had my friend's books.  (impersonal "they")
 
 **6. Ealle ðā sęcgas ðā ðe swift hors habbað rīdað wið ðone bǫnan.**  
-(For "ðā ðe", see § 75.)  
+(For *ðā ðe*, see §75.)  
 All the warriors who have swift horses ride after the murderer.  
 ("after" in the sense of a pursuit as implied by "swift horses")  
 All the men who have swift horses ride against the murderer.  
@@ -48,6 +48,7 @@ Your enemies are my friends.
 
 **8. Sē micela stān ðone ðe ic on mīnum hǫndum hæbbe is swīðe heard.**  
 The large stone that I have in my hands is very hard.  
+(TODO: Review)
 
 **9. Hīe scęððað ðǣm ealdum horsum.**  
 They injure the old horses.  
@@ -59,26 +60,23 @@ Let's take these useful gifts and carry them to our dear children.
 # Part II: PDE to OE
 
 **1. These holy men are wise and good.**  
-Ðās hālgan men sind wise ond gōde.  (or "menn")  
-Ðās hālgan guman sind wise ond gōde.  ("guma" is poetic)  
-
-[TODO: Add variants here and below.]  
+Ðās hālgan men sind wise ond gōde.  (or *menn*)  
+Ðās hālgan guman sind wise ond gōde.  (*guma* is poetic)  
 
 **2. Are the little children very dear to the servants (dat. without tō)?**  
 Sind ðā lȳtlan bearn swīðe lēofum ðegnum?  
 
-**3. Gifts are not given (§ 70, Note 1) to rich men.**  
-Giefa mon ne giefþ rīcum monum.  (or "manum", "mannum")  
+**3. Gifts are not given (§70, Note 1) to rich men.**  
+Giefa mon ne giefþ rīcum monum.  (or *manum*, *mannum*)  
 Giefa mon ne giefþ rīcum gumum.  
 
 **4. All the horses that are in the king’s fields are swift.**  
-Eall ðā hors ðe on ðæs cyninges feldum sind sind swifte.  
-Eall ðā hors ðā on ðæs cyninges feldum sind sind swifte.  
-Eall ðā hors ðā ðe on ðæs cyninges feldum sind sind swifte.  
-Eall ðā hors ðe hīe on ðæs cyninges feldum sind sind swifte.  
+Eall ðā hors ðe on ðæs cyninges feldum sind sind swifte. (*ðe* §75 (1))  
+Eall ðā hors ðā on ðæs cyninges feldum sind sind swifte. (*ðā* §75 (2))  
+Eall ðā hors ðā ðe on ðæs cyninges feldum sind sind swifte. (*ðā ðe* §75 (3))  
+Eall ðā hors ðe hīe on ðæs cyninges feldum sind sind swifte.  (*ðe hīe* §75 (4))  
 Eall ðā hors swifte ðe on ðæs cyninges feldum sind.  (Linking verb omitted [null copula] in main clause.)  
-(Predicate last in dependent clause.  See § 20 (3) regarding transposed order.)  
-(TODO: Consider adding "ðā ðe" with note as in #6 OE-to-PDE above)  
+(Predicate last in dependent clause.  See §20 (3) regarding transposed order.)   
 
 **5. These stones are very large and hard.**  
 Ðās stānas sind swīðe micle ond hearde.  
@@ -97,7 +95,7 @@ Mīne wegas ne sind ðīne wegas.
 Mīne wegas ne sind incre wegas.  
 Mīne wegas ne sind ēowre wegas.  
 (The first and second person possessive pronouns are declined as
-strong adjectives.  See § 76, and also personal pronouns in § 72.)  
+strong adjectives.  See §76, and also personal pronouns in §72.)  
 
 **9. Whosoever chooses me, him I also (ēac) choose.**  
 Swā hwā swā mē cīest, him ic ēac cēose.  
@@ -106,4 +104,12 @@ Swā hwā swā mē cīest, him ic ēac cēose.
 Ǣlc mann hæfð monige frīend ðe ne sind wīsan.  
 
 **Note on "nǣnig" usage in Early West Saxon**  
-According to Wiktionary, "Nǣniġ was common in the Anglian dialects, but almost absent in West Saxon, which used the synonym nān instead."  Wiktionary's usage example is "The Seafarer", which apparently contains many artifacts indicating Anglian origin despite the manuscript's primary dialect being West Saxon.  In Smith's text examples, its appearance is likely due partly to the presence of Mercian scholars in Alfred's court and partly to a Mercian or Northumbrian original source for the example text.  The introduction to "The Story of Cædmon" (p. 111) mentions Mercia as the location of the story's original translation from Latin.
+According to Wiktionary, "*Nǣniġ* was common in the Anglian dialects, but
+almost absent in West Saxon, which used the synonym *nān* instead."
+Wiktionary's usage example is "The Seafarer", which apparently contains
+many artifacts indicating Anglian origin despite the manuscript's primary
+dialect being West Saxon.  In Smith's readings, its appearance is likely
+due partly to the presence of Mercian scholars in Alfred's court and partly
+to a Mercian or Northumbrian original source for the reading.  The
+introduction to "The Story of Cædmon" (p. 111), for example, mentions
+Mercia as the location of the story's original translation from Latin.
