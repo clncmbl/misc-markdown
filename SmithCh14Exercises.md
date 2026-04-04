@@ -59,8 +59,8 @@ Let's take these useful gifts and carry them to our dear children.
 # Part II: PDE to OE
 
 **1. These holy men are wise and good.**  
-Ðās hālgan men sind wise ond gōde.  (or "menn")
-Ðās hālgan guman sind wise ond gōde.  ("guma" was poetic)
+Ðās hālgan men sind wise ond gōde.  (or "menn")  
+Ðās hālgan guman sind wise ond gōde.  ("guma" is poetic)  
 
 [TODO: Add variants here and below.]  
 
@@ -68,10 +68,14 @@ Let's take these useful gifts and carry them to our dear children.
 Sind ðā lȳtlan bearn swīðe lēofum ðegnum?  
 
 **3. Gifts are not given (§ 70, Note 1) to rich men.**  
-Giefa mon ne giefþ rīcum gumum.
+Giefa mon ne giefþ rīcum monum.  (or "manum", "mannum")  
+Giefa mon ne giefþ rīcum gumum.  
 
 **4. All the horses that are in the king’s fields are swift.**  
-Eall ðā hors ðe on ðæs cyninges feldum sind sind swifte.   
+Eall ðā hors ðe on ðæs cyninges feldum sind sind swifte.  
+Eall ðā hors ðā on ðæs cyninges feldum sind sind swifte.  
+Eall ðā hors ðā ðe on ðæs cyninges feldum sind sind swifte.  
+Eall ðā hors ðe hīe on ðæs cyninges feldum sind sind swifte.  
 Eall ðā hors swifte ðe on ðæs cyninges feldum sind.  (Linking verb omitted [null copula] in main clause.)  
 (Predicate last in dependent clause.  See § 20 (3) regarding transposed order.)  
 (TODO: Consider adding "ðā ðe" with note as in #6 OE-to-PDE above)  
