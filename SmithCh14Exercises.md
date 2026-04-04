@@ -59,7 +59,9 @@ Let's take these useful gifts and carry them to our dear children.
 # Part II: PDE to OE
 
 **1. These holy men are wise and good.**  
-Ðās hālgan guman sind wise ond gōde.  
+Ðās hālgan men sind wise ond gōde.  (or "menn")
+Ðās hālgan guman sind wise ond gōde.  ("guma" was poetic)
+
 [TODO: Add variants here and below.]  
 
 **2. Are the little children very dear to the servants (dat. without tō)?**  
