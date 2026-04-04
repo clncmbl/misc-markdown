@@ -20,7 +20,7 @@ I stick closely to the vocabulary in the part of the book up to where the exerci
 These ships are not very fast, but they are very serviceable.  
 
 **2. Sēo gōde cwēn giefð ǣlcum ðegne mǫniga giefa.**  
-(weak fem. sing. of *gōd*;
+(weak sing. of *gōd*;
 dat. sing. of *ðegn* and strong *ǣlc*;
 acc. pl. of *giefu* and strong *monig*)  
 The good queen gives each thane many gifts.  
@@ -63,7 +63,7 @@ Let's take these useful gifts and carry them to our dear children.
 Ðās hālgan men sind wise ond gōde.  (or *menn*)  
 Ðās hālgan guman sind wise ond gōde.  (*guma* is poetic)  
 
-**2. Are the little children very dear to the servants (dat. without tō)?**  
+**2. Are the little children very dear to the servants (dat. without *tō*)?**  
 Sind ðā lȳtlan bearn swīðe lēofum ðegnum?  
 
 **3. Gifts are not given (§70, Note 1) to rich men.**  
@@ -97,7 +97,7 @@ Mīne wegas ne sind ēowre wegas.
 (The first and second person possessive pronouns are declined as
 strong adjectives.  See §76, and also personal pronouns in §72.)  
 
-**9. Whosoever chooses me, him I also (ēac) choose.**  
+**9. Whosoever chooses me, him I also (*ēac*) choose.**  
 Swā hwā swā mē cīest, him ic ēac cēose.  
 
 **10. Every man has many friends that are not wise.**  
