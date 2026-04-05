@@ -69,8 +69,9 @@ Let's take these useful gifts and carry them to our dear children.
 Sind ðā lȳtlan bearn swīðe lēofum ðegnum?  
 
 **3. Gifts are not given (§70, Note 1) to rich men.**  
-Giefa mon ne giefþ rīcum monum.  (or *manum*, *mannum*)  
-Giefa mon ne giefþ rīcum gumum.  
+Giefa mon ne giefð rīcum monnum.  (or *mannum*)  
+Mon ne giefð giefa rīcum monnum.  
+Giefa mon ne giefð rīcum gumum.  
 
 **4. All the horses that are in the king’s fields are swift.**  
 Eall ðā hors ðe on ðæs cyninges feldum sind sind swifte. (*ðe*: §75 (1))  
