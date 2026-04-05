@@ -39,10 +39,11 @@ On the same day, they found the thegn who had my friend's books.  (impersonal "t
 
 **6. Ealle ðā sęcgas ðā ðe swift hors habbað rīdað wið ðone bǫnan.**  
 (For *ðā ðe*, see §75.)  
-All the warriors who have swift horses ride after the murderer.  
-("after" in the sense of a pursuit as implied by "swift horses")  
 All the men who have swift horses ride against the murderer.  
-("against" is a more common translation of *wið* but less fitting here.)  
+All the men who have swift horses ride against the slayer.  
+("Slayer" is probably better here than "murderer" (Smith's choice) because
+*bona* does not imply wrong-doing.  The context could be a battle, for
+example.)  
 
 **7. Ðīne fīend sind mīne frīend.**  
 Your enemies are my friends.  
