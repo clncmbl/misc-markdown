@@ -18,6 +18,7 @@ I stick closely to the vocabulary in the part of the book up to where the exerci
 
 **1. Ðās scipu ne sind swīðe swift, ac hīe sind swīðe stælwierðu.**  
 These ships are not very fast, but they are very serviceable.  
+(Smith's definition is "serviceable"; "usable", "adequate", etc. would also work.)
 
 **2. Sēo gōde cwēn giefð ǣlcum ðegne mǫniga giefa.**  
 (weak sing. of *gōd*;
@@ -47,8 +48,8 @@ All the men who have swift horses ride against the murderer.
 Your enemies are my friends.  
 
 **8. Sē micela stān ðone ðe ic on mīnum hǫndum hæbbe is swīðe heard.**  
+(For *ðone ðe*, see §75.)
 The large stone that I have in my hands is very hard.  
-(TODO: Review)
 
 **9. Hīe scęððað ðǣm ealdum horsum.**  
 They injure the old horses.  
