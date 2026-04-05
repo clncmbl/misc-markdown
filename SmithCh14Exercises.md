@@ -48,7 +48,7 @@ All the men who have swift horses ride against the murderer.
 Your enemies are my friends.  
 
 **8. Sē micela stān ðone ðe ic on mīnum hǫndum hæbbe is swīðe heard.**  
-(For *ðone ðe*, see §75.)
+(For *ðone ðe*, see §75.)  
 The large stone that I have in my hands is very hard.  
 
 **9. Hīe scęððað ðǣm ealdum horsum.**  
