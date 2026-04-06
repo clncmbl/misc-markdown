@@ -102,6 +102,8 @@ strong adjectives.  See §76, and also personal pronouns in §72.)
 
 **9. Whosoever chooses me, him I also (*ēac*) choose.**  
 Swā hwā swā mē cīest, him ic ēac cēose.  
+Swā hwā swā mē cīest, ic him ēac cēose.  
+(§21 (1) "Pronominal datives and accusatives usually precede the predicate")
 
 **10. Every man has many friends that are not wise.**  
 Ǣlc mann hæfð monige frīend ðe ne sind wīsan.  
