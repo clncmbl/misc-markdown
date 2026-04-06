@@ -74,12 +74,12 @@ Mon ne giefð giefa rīcum monnum.
 Giefa mon ne giefð rīcum gumum.  
 
 **4. All the horses that are in the king’s fields are swift.**  
-Eall ðā hors ðe on ðæs cyninges feldum sind sind swifte. (*ðe*: §75 (1))  
-Eall ðā hors ðā on ðæs cyninges feldum sind sind swifte. (*ðā*: §75 (2))  
-Eall ðā hors ðā ðe on ðæs cyninges feldum sind sind swifte. (*ðā ðe*: §75 (3))  
-Eall ðā hors ðe hīe on ðæs cyninges feldum sind sind swifte.  (*ðe hīe*: §75 (4))  
-Eall ðā hors swifte ðe on ðæs cyninges feldum sind.  (Linking verb omitted [null copula] in main clause.)  
-(Predicate last in dependent clause.  See §20 (3) regarding transposed order.)   
+Eall ðā hors sind swifte ðe on ðæs cyninges feldum sind. (*ðe*: §75 (1))  
+Eall ðā hors sind swifte ðā on ðæs cyninges feldum sind. (*ðā*: §75 (2))  
+Eall ðā hors sind swifte ðā ðe on ðæs cyninges feldum sind. (*ðā ðe*: §75 (3))  
+Eall ðā hors sind swifte ðe hīe on ðæs cyninges feldum sind.  (*ðe hīe*: §75 (4))  
+Eall ðā hors ðe on ðæs cyninges feldum sind swifte.  (Linking verb omitted (null copula) in main clause.)  
+(Predicate last in dependent clause.  See §20 (3) regarding transposed order.)  
 
 **5. These stones are very large and hard.**  
 Ðās stānas sind swīðe micle ond hearde.  
