@@ -108,13 +108,14 @@ Swā hwā swā mē cīest, ic him ēac cēose.
 **10. Every man has many friends that are not wise.**  
 Ǣlc mann hæfð monige frīend ðe ne sind wīse.  
 
-**Note on "nǣnig" usage in Early West Saxon**  
+**Note on *nǣnig* usage in Early West Saxon**  
 According to Wiktionary, "*Nǣniġ* was common in the Anglian dialects, but
-almost absent in West Saxon, which used the synonym *nān* instead."
-Wiktionary's usage example is "The Seafarer", which apparently contains
-many artifacts indicating Anglian origin despite the manuscript's primary
-dialect being West Saxon.  In Smith's readings, its appearance is likely
-due partly to the presence of Mercian scholars in Alfred's court and partly
-to a Mercian or Northumbrian original source for the reading.  The
-introduction to "The Story of Cædmon" (p. 111), for example, mentions
-Mercia as the location of the story's original translation from Latin.
+almost absent in West Saxon, which used the synonym *nān* instead."  *Nǣniġ*
+appears in two of Smith's readings.  The first is "Wulfstan's Voyage" (p. 108, line 24).  
+In Smith's readings from Early West Saxon, the appearance of *nǣnig* (and other
+Anglian features) 
+due partly to the use of Mercian translators and partly
+to a Mercian or Northumbrian original source that was incompletely normalized to West Saxon.  
+The second is "The Story of Cædmon" (p. 112, lines 4 and 13).  Smith's
+introduction to "The Story of Cædmon" (p. 111), mentions that other language features argue
+for Mercia as the likely location of the story's original translation from Latin.
