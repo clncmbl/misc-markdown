@@ -112,10 +112,9 @@ Swā hwā swā mē cīest, ic him ēac cēose.
 According to Wiktionary, "*Nǣniġ* was common in the Anglian dialects, but
 almost absent in West Saxon, which used the synonym *nān* instead."  *Nǣniġ*
 appears in two of Smith's readings.  The first is "Wulfstan's Voyage" (p. 108, line 24).  
-In Smith's readings from Early West Saxon, the appearance of *nǣnig* (and other
-Anglian features) 
-due partly to the use of Mercian translators and partly
-to a Mercian or Northumbrian original source that was incompletely normalized to West Saxon.  
-The second is "The Story of Cædmon" (p. 112, lines 4 and 13).  Smith's
-introduction to "The Story of Cædmon" (p. 111), mentions that other language features argue
+Craigie (1925) argues that Wulfstan, himself, was Anglian and that the Anglian features
+in the text reflect his dialect. (Craigie, W. A. “The Nationality of King Alfred’s Wulfstan.” The Journal of English and Germanic Philology 24, no. 3 (1925): 396–97. http://www.jstor.org/stable/27702885 (freely available)).
+The second of Smith's readings in which *nǣniġ* appears is "The Story of Cædmon"
+(p. 112, lines 4 and 13).  Smith's introduction to "The Story of Cædmon" (p. 111),
+mentions that other language features argue
 for Mercia as the likely location of the story's original translation from Latin.
