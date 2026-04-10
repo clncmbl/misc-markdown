@@ -42,8 +42,7 @@ On the same day, they found the thegn who had my friend's books.  (impersonal "t
 All the men who have swift horses ride against the murderer.  
 All the men who have swift horses ride against the slayer.  
 ("Slayer" is probably better here than "murderer" (Smith's choice) because
-*bona* does not imply wrong-doing.  The context could be a battle, for
-example.)  
+*bona* does not imply wrong-doing.  The context could, for example, be a battle.)  
 
 **7. Ðīne fīend sind mīne frīend.**  
 Your enemies are my friends.  
@@ -79,7 +78,7 @@ Eall ðā hors sind swifte ðā on ðæs cyninges feldum sind. (*ðā*: §75 (2)
 Eall ðā hors sind swifte ðā ðe on ðæs cyninges feldum sind. (*ðā ðe*: §75 (3))  
 Eall ðā hors sind swifte ðe hīe on ðæs cyninges feldum sind.  (*ðe hīe*: §75 (4))  
 Eall ðā hors ðe on ðæs cyninges feldum sind swifte.  (Linking verb omitted (null copula) in main clause.)  
-(Predicate last in dependent clause.  See §20 (3) regarding transposed order.)  
+(In all examples, the predicate stands last in the dependent clause.  See §20 (3) regarding transposed order.)  
 
 **5. These stones are very large and hard.**  
 Ðās stānas sind swīðe micle ond hearde.  
@@ -113,8 +112,8 @@ According to Wiktionary, "*Nǣniġ* was common in the Anglian dialects, but
 almost absent in West Saxon, which used the synonym *nān* instead."  *Nǣniġ*
 appears in two of Smith's readings.  The first is "Wulfstan's Voyage" (p. 108, line 24).  
 Craigie (1925) argues that Wulfstan, himself, was Anglian and that the Anglian features
-in the text reflect his dialect. (Craigie, W. A. “The Nationality of King Alfred’s Wulfstan.” The Journal of English and Germanic Philology 24, no. 3 (1925): 396–97. http://www.jstor.org/stable/27702885 (freely available)).
-The second of Smith's readings in which *nǣniġ* appears is "The Story of Cædmon"
+in the text reflect his dialect. (Craigie, W. A. “The Nationality of King Alfred’s Wulfstan.” The Journal of English and Germanic Philology 24, no. 3 (1925): 396–97. http://www.jstor.org/stable/27702885.  Freely available.)
+The second reading in Smith in which *nǣniġ* appears is "The Story of Cædmon"
 (p. 112, lines 4 and 13).  Smith's introduction to "The Story of Cædmon" (p. 111),
 mentions that other language features argue
 for Mercia as the likely location of the story's original translation from Latin.
