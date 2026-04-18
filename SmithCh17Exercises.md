@@ -18,8 +18,14 @@ I stick closely to the vocabulary in the part of the book up to where the exerci
 # Part I: OE to PDE
 
 **1. Hē hæfð ðrēo swīðe swift hors.**  
+He has three very swift horses.  
+
 **2. Ic hæbbe nigontīene scēap ǫnd mā ðonne twēntig swīna.**  
+I have nineteen sheep and twenty swine.
+
 **3. Sēo gōde cwēn cīest twā hund mǫnna.**  
+The good queen chooses two hundred men.  
+
 **4. Uton feohtan wið ðā Dęne mid ðrīm hunde scipa.**  
 **5. Ǫnd hīe wǣron on twǣm gefylcum: on ōðrum wæs Bāchsęcg ǫnd Halfdęne ðā hǣðnan cyningas, ǫnd on ōðrum wǣron ðā eorlas.**  
 **6. Ðū spricst sōðlīce.**  
