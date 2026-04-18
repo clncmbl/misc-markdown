@@ -17,8 +17,30 @@ I stick closely to the vocabulary in the part of the book up to where the exerci
 
 # Part I: OE to PDE
 
-**1. .**  
+**1. Hē hæfð ðrēo swīðe swift hors.**  
+**2. Ic hæbbe nigontīene scēap ǫnd mā ðonne twēntig swīna.**  
+**3. Sēo gōde cwēn cīest twā hund mǫnna.**  
+**4. Uton feohtan wið ðā Dęne mid ðrīm hunde scipa.**  
+**5. Ǫnd hīe wǣron on twǣm gefylcum: on ōðrum wæs Bāchsęcg ǫnd Halfdęne ðā hǣðnan cyningas, ǫnd on ōðrum wǣron ðā eorlas.**  
+**6. Ðū spricst sōðlīce.**  
+**7. Ðonne rīt ǣlc mǫn his weges.**  
+**8. Æfter mǫnigum dagum, hæfde Ælfred cyning4 sige.**  
+**9. Ðis lǫnd is wēste styccemǣlum. 10. Ðēs feld is fīftiges mīla brād.**  
+**11. Ælfred cyning hæfde mǫnige frīend, for ðǣm ðe hē wæs ǣgðer ge wīs ge gōd.**  
+**12. Ðā hwalas, ðe ðū ymbe spricst, sind micle lǣssan ōðrum hwalum.**  
+**13. Hēo is ieldre ðonne hiere swuster, ac mīn brōðor is ieldra ðonne hēo.**  
+**14. Wē cumað tō ðǣm tūne ǣlce gēare.**  
+**15. Ðā męn ðe ðā swiftostan hors hǣfdon wǣron mid ðǣm Dęnum fēower dagas.**  
 
 # Part II: PDE to OE
 
-**1. .**  
+**1. Our army (werod) was in two divisions: one was large, the other was small.**  
+**2. The richest men in the kingdom have more (mā) than thirty ships.**  
+**3. He was much wiser than his brother.**  
+**4. He fights against the Northumbrians with two ships.**  
+**5. After three years King Alfred gained the victory.**  
+**6. Whosoever chooses these gifts, chooses well.**  
+**7. This man’s son is both wiser and better than his father.**  
+**8. When the king rides, then ride his thanes also.**  
+**9. The richest men are not always (ā) the wisest men.**  
+
