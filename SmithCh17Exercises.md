@@ -31,13 +31,14 @@ Let's fight against the Danes with three hundred ships.
 
 **5. Ǫnd hīe wǣron on twǣm gefylcum: on ōðrum wæs Bāchsęcg
 ǫnd Halfdęne ðā hǣðnan cyningas, ǫnd on ōðrum wǣron ðā eorlas.**  
-And the were in two divisions: in one was Bagsac and Halfdane
+And they were in two divisions: in one were Bagsac and Halfdane
 the heathen kings, and in the other were the earls.  
 (This sentence comes directly from "The Battle of Ashdown", which
 begins on page 99.  The story comes from year 871 of the Parker
 Chronicle.  The heathen kings, Bagsac and Halfdane, and the earls
 were on the same side fighting against Alfred and his older brother
 Ethelred, the king.)
+[TODO: Why wæs vs. wǣron?]
 
 **6. Ðū spricst sōðlīce.**  
 **7. Ðonne rīt ǣlc mǫn his weges.**  
