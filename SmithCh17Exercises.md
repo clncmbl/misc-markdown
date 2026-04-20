@@ -27,11 +27,23 @@ I have nineteen sheep and twenty swine.
 The good queen chooses two hundred men.  
 
 **4. Uton feohtan wið ðā Dęne mid ðrīm hunde scipa.**  
-**5. Ǫnd hīe wǣron on twǣm gefylcum: on ōðrum wæs Bāchsęcg ǫnd Halfdęne ðā hǣðnan cyningas, ǫnd on ōðrum wǣron ðā eorlas.**  
+Let's fight against the Danes with three hundred ships.  
+
+**5. Ǫnd hīe wǣron on twǣm gefylcum: on ōðrum wæs Bāchsęcg
+ǫnd Halfdęne ðā hǣðnan cyningas, ǫnd on ōðrum wǣron ðā eorlas.**  
+And the were in two divisions: in one was Bagsac and Halfdane
+the heathen kings, and in the other were the earls.  
+(This sentence comes directly from "The Battle of Ashdown", which
+begins on page 99.  The story comes from year 871 of the Parker
+Chronicle.  The heathen kings, Bagsac and Halfdane, and the earls
+were on the same side fighting against Alfred and his older brother
+Ethelred, the king.)
+
 **6. Ðū spricst sōðlīce.**  
 **7. Ðonne rīt ǣlc mǫn his weges.**  
-**8. Æfter mǫnigum dagum, hæfde Ælfred cyning4 sige.**  
-**9. Ðis lǫnd is wēste styccemǣlum. 10. Ðēs feld is fīftiges mīla brād.**  
+**8. Æfter mǫnigum dagum, hæfde Ælfred cyning sige.**  
+**9. Ðis lǫnd is wēste styccemǣlum.**  
+**10. Ðēs feld is fīftiges mīla brād.**  
 **11. Ælfred cyning hæfde mǫnige frīend, for ðǣm ðe hē wæs ǣgðer ge wīs ge gōd.**  
 **12. Ðā hwalas, ðe ðū ymbe spricst, sind micle lǣssan ōðrum hwalum.**  
 **13. Hēo is ieldre ðonne hiere swuster, ac mīn brōðor is ieldra ðonne hēo.**  
