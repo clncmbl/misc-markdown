@@ -41,14 +41,34 @@ Ethelred, the king.)
 [TODO: Why wæs vs. wǣron?]
 
 **6. Ðū spricst sōðlīce.**  
+You speak truly.  
+
 **7. Ðonne rīt ǣlc mǫn his weges.**  
+Then each man rides his way.  
+
 **8. Æfter mǫnigum dagum, hæfde Ælfred cyning sige.**  
+After many days, King Alfred had victory.
+
 **9. Ðis lǫnd is wēste styccemǣlum.**  
+This land is waste here and there.  
+
 **10. Ðēs feld is fīftiges mīla brād.**  
+The field is fifty miles broad.  
+
 **11. Ælfred cyning hæfde mǫnige frīend, for ðǣm ðe hē wæs ǣgðer ge wīs ge gōd.**  
+King Alfred had many friends because was both wise and good.  
+
 **12. Ðā hwalas, ðe ðū ymbe spricst, sind micle lǣssan ōðrum hwalum.**  
+The whales you speak about are much smaller than other whales.  
+
 **13. Hēo is ieldre ðonne hiere swuster, ac mīn brōðor is ieldra ðonne hēo.**  
+She is older than her sister, but my brother is older than her.  
+She is older than her sister [is], but my brother is older than I [am].  (Grammaticaly
+closer the OE since *ðonne* can be a conjunction in OE but not a preposition.)
+
 **14. Wē cumað tō ðǣm tūne ǣlce gēare.**  
+We come to the town each year.
+
 **15. Ðā męn ðe ðā swiftostan hors hǣfdon wǣron mid ðǣm Dęnum fēower dagas.**  
 
 # Part II: PDE to OE
