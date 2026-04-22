@@ -63,7 +63,7 @@ The whales you speak about are much smaller than other whales.
 
 **13. Hēo is ieldre ðonne hiere swuster, ac mīn brōðor is ieldra ðonne hēo.**  
 She is older than her sister, but my brother is older than her.  
-She is older than her sister [is], but my brother is older than I [am].  (Grammaticaly
+She is older than her sister [is], but my brother is older than she [is].  (Grammaticaly
 closer the OE since *ðonne* can be a conjunction in OE but not a preposition.)
 
 **14. Wē cumað tō ðǣm tūne ǣlce gēare.**  
