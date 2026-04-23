@@ -37,7 +37,7 @@ the heathen kings, and in the other were the earls.
 begins on page 99.  The story comes from year 871 of the Parker
 Chronicle.  The heathen kings, Bagsac and Halfdane, and the earls
 were on the same side fighting against Alfred and his older brother
-Ethelred, the king.)
+Ethelred, the king.)  
 [TODO: Why wæs vs. wǣron?]
 
 **6. Ðū spricst sōðlīce.**  
@@ -64,12 +64,14 @@ The whales you speak about are much smaller than other whales.
 **13. Hēo is ieldre ðonne hiere swuster, ac mīn brōðor is ieldra ðonne hēo.**  
 She is older than her sister, but my brother is older than her.  
 She is older than her sister [is], but my brother is older than she [is].  (Grammaticaly
-closer the OE since *ðonne* can be a conjunction in OE but not a preposition.)
+closer to the OE since *ðonne* can be a conjunction but not a preposition.)
 
 **14. Wē cumað tō ðǣm tūne ǣlce gēare.**  
 We come to the town each year.
 
 **15. Ðā męn ðe ðā swiftostan hors hǣfdon wǣron mid ðǣm Dęnum fēower dagas.**  
+(*dagas* is accusative here; see §98 (1).)  
+The men who had the swiftest horses were with the Danes four days.  
 
 # Part II: PDE to OE
 
