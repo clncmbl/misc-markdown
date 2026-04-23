@@ -1,6 +1,6 @@
 These are draft solutions to exercises in the *Anglo-Saxon Grammar and Exercise Book* by C. Alphonso Smith (copyright 1896) subject to review by anybody with an interest in checking them over.  I would appreciate corrections and additions.
 
-This is for the ninth set of exercises in the book, which comes from Chapter XVII, Section 87 of the Grammar. [https://www.gutenberg.org/cache/epub/31277/pg31277-images.html#page67](https://www.gutenberg.org/cache/epub/31277/pg31277-images.html#page67)
+This is for the ninth set of exercises in the book, which comes from Chapter XVII, Section 100 of the Grammar. [https://www.gutenberg.org/cache/epub/31277/pg31277-images.html#page67](https://www.gutenberg.org/cache/epub/31277/pg31277-images.html#page67)
 
 Reddit posts for previous sets of exercises are found here:
 
