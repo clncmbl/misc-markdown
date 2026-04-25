@@ -51,6 +51,7 @@ Then each man goes his way.
 
 **8. Æfter mǫnigum dagum, hæfde Ælfred cyning sige.**  
 After many days, King Alfred had victory.  
+After many days, King Alfred gained the victory.  
 After many days, King Alfred won the victory.  
 
 **9. Ðis lǫnd is wēste styccemǣlum.**  
@@ -86,6 +87,8 @@ The men who had the swiftest horses were with the Danes for four days.
 Ūre werod wæs on twǣm gefylcum: ōðer wæs micel, ōðer wæs lȳtel.  
 
 **2. The richest men in the kingdom have more (mā) than thirty ships.**  
+Ðā rīcostan men on ðǣm rīce habbað mā ðonne ðrītig scipa.  
+
 **3. He was much wiser than his brother.**  
 **4. He fights against the Northumbrians with two ships.**  
 **5. After three years King Alfred gained the victory.**  
