@@ -21,7 +21,7 @@ I stick closely to the vocabulary in the part of the book up to where the exerci
 He has three very swift horses.  
 
 **2. Ic hæbbe nigontīene scēap ǫnd mā ðonne twēntig swīna.**  
-I have nineteen sheep and twenty swine.
+I have nineteen sheep and more than twenty swine.
 
 **3. Sēo gōde cwēn cīest twā hund mǫnna.**  
 The good queen chooses two hundred men.  
@@ -37,8 +37,9 @@ the heathen kings, and in the other were the earls.
 begins on page 99.  The story comes from year 871 of the Parker
 Chronicle.  The heathen kings, Bagsac and Halfdane, and the earls
 were on the same side fighting against Alfred and his older brother
-Ethelred, the king. Note the use of *wæs* (singular) with the
-compound subject (plural) that follows; see [Note 100.8](https://www.gutenberg.org/cache/epub/31277/pg31277-images.html#linenote100_8)
+Ethelred, the king. Note the use of *wæs* (singular) preceding a
+plural subject; see 
+[Note 100.8](https://www.gutenberg.org/cache/epub/31277/pg31277-images.html#linenote100_8)
 in the text.)  
 
 **6. Ðū spricst sōðlīce.**  
