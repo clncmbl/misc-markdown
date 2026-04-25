@@ -83,6 +83,8 @@ The men who had the swiftest horses were with the Danes for four days.
 # Part II: PDE to OE
 
 **1. Our army (werod) was in two divisions: one was large, the other was small.**  
+Ūre werod wæs on twǣm gefylcum: ōðer wæs micel, ōðer wæs lȳtel.  
+
 **2. The richest men in the kingdom have more (mā) than thirty ships.**  
 **3. He was much wiser than his brother.**  
 **4. He fights against the Northumbrians with two ships.**  
