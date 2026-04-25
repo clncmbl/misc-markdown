@@ -50,13 +50,16 @@ Then each man rides his way.
 Then each man goes his way.  
 
 **8. Æfter mǫnigum dagum, hæfde Ælfred cyning sige.**  
-After many days, King Alfred had victory.
+After many days, King Alfred had victory.  
+After many days, King Alfred won the victory.  
 
 **9. Ðis lǫnd is wēste styccemǣlum.**  
 This land is waste here and there.  
+This land is desolate in places.  
 
 **10. Ðēs feld is fīftiges mīla brād.**  
 The field is fifty miles broad.  
+The field is fifty miles wide.  
 
 **11. Ælfred cyning hæfde mǫnige frīend, for ðǣm ðe hē wæs ǣgðer ge wīs ge gōd.**  
 King Alfred had many friends because was both wise and good.  
