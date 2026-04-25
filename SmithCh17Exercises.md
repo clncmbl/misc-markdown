@@ -38,15 +38,16 @@ begins on page 99.  The story comes from year 871 of the Parker
 Chronicle.  The heathen kings, Bagsac and Halfdane, and the earls
 were on the same side fighting against Alfred and his older brother
 Ethelred, the king. Note the use of *wæs* (singular) preceding a
-plural subject; see 
-[Note 100.8](https://www.gutenberg.org/cache/epub/31277/pg31277-images.html#linenote100_8)
-in the text.)  
+plural subject; see also *gefeaht* in
+[page 100 line 8 in the text](https://www.gutenberg.org/cache/epub/31277/pg31277-images.html#page100)
+and the associated note 100.8.)  
 
 **6. Ðū spricst sōðlīce.**  
 You speak truly.  
 
 **7. Ðonne rīt ǣlc mǫn his weges.**  
 Then each man rides his way.  
+Then each man goes his way.  
 
 **8. Æfter mǫnigum dagum, hæfde Ælfred cyning sige.**  
 After many days, King Alfred had victory.
