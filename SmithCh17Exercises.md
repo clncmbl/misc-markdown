@@ -62,22 +62,23 @@ The field is fifty miles broad.
 The field is fifty miles wide.  
 
 **11. Ælfred cyning hæfde mǫnige frīend, for ðǣm ðe hē wæs ǣgðer ge wīs ge gōd.**  
-King Alfred had many friends because was both wise and good.  
+King Alfred had many friends for he was both wise and good.  
+King Alfred had many friends because he was both wise and good.  
 
 **12. Ðā hwalas, ðe ðū ymbe spricst, sind micle lǣssan ōðrum hwalum.**  
-The whales you speak about are much smaller than other whales.  
+The whales that you speak about are much smaller than other whales.  
 
 **13. Hēo is ieldre ðonne hiere swuster, ac mīn brōðor is ieldra ðonne hēo.**  
 She is older than her sister, but my brother is older than her.  
 She is older than her sister [is], but my brother is older than she [is].  (Grammatically
-closer to the OE since *ðonne* can be a conjunction but not a preposition. )
+closer to the OE since *ðonne* functions as a conjunction rather than a preposition.)  
 
 **14. Wē cumað tō ðǣm tūne ǣlce gēare.**  
 We come to the town each year.
 
 **15. Ðā męn ðe ðā swiftostan hors hǣfdon wǣron mid ðǣm Dęnum fēower dagas.**  
 (*dagas* is accusative here; see §98 (1).)  
-The men who had the swiftest horses were with the Danes four days.  
+The men who had the swiftest horses were with the Danes for four days.  
 
 # Part II: PDE to OE
 
