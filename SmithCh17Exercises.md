@@ -90,6 +90,9 @@ The men who had the swiftest horses were with the Danes for four days.
 Ðā rīcostan men on ðǣm rīce habbað mā ðonne ðrītig scipa.  
 
 **3. He was much wiser than his brother.**  
+Hē wæs micel wīsra ðonne his brōðor.  
+Hē wæs micel wīsra his brēðer.  (See §98 (6).)
+
 **4. He fights against the Northumbrians with two ships.**  
 **5. After three years King Alfred gained the victory.**  
 **6. Whosoever chooses these gifts, chooses well.**  
