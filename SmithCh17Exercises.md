@@ -94,6 +94,9 @@ Hē wæs micel wīsra ðonne his brōðor.
 Hē wæs micel wīsra his brēðer.  (See §98 (6).)
 
 **4. He fights against the Northumbrians with two ships.**  
+Hē fieht wið ðā Norðymbre mid twǣm scipa.
+[TODO: ðā with people by nationality or tribe name.]
+
 **5. After three years King Alfred gained the victory.**  
 **6. Whosoever chooses these gifts, chooses well.**  
 **7. This man’s son is both wiser and better than his father.**  
