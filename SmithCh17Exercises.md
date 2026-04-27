@@ -98,7 +98,12 @@ Hē fieht wið ðā Norðymbre mid twǣm scipa.
 [TODO: ðā with people by nationality or tribe name.]
 
 **5. After three years King Alfred gained the victory.**  
+Æfter ðrīm gēarum, Ælfred cyning hæfde sige.  
+Æfter ðrīm gēarum, hæfde Ælfred cyning sige.  
+
 **6. Whosoever chooses these gifts, chooses well.**  
+Swā hwā swā ċīest ðās giefa, ċīest wel.
+
 **7. This man’s son is both wiser and better than his father.**  
 **8. When the king rides, then ride his thanes also.**  
 **9. The richest men are not always (ā) the wisest men.**  
