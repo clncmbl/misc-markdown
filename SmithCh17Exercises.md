@@ -111,5 +111,16 @@ at the very end of Chapter XIII.)
 Sē sunu ðisses mannes is ǣgðer ge wīsra ge betra ðonne his fæder.  
 
 **8. When the king rides, then ride his thanes also.**  
+rit and rideð (EWS and Anglian, respectively).  rideð appears twice
+in Smith in spite of his glossary listing ridan as a Class I strong
+verb with a reference to §102.  
+Use ðonne ... ðonne rather than ðā ... ðā because, as Wiktionary says,
+ðā is used with the indicative past tense whereas ðonne is used with
+non-past tense and subjunctive past tense.  The past tense subjunctive
+is often used for habitual, recurring action in the past.  One rule of
+thumb is that if "whenever" is appropriate in the Modern English
+version, then ðonne is most appropriate in the Old English.  Smith
+does not make that distinction in §95 (2).
+
 **9. The richest men are not always (ā) the wisest men.**  
 
