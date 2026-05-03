@@ -94,12 +94,14 @@ Hē wæs micel wīsra ðonne his brōðor.
 Hē wæs micel wīsra his brēðer.  (See §98 (6).)
 
 **4. He fights against the Northumbrians with two ships.**  
-Hē fieht wið ðā Norðymbre mid twǣm scipa.
-[TODO: ðā with people by nationality or tribe name.]
+Hē fieht wið ðā Norðymbre mid twǣm scipa.  
+(See §94 (3) regarding the use of accusative with *wið*.
+See §47 regarding inflection of *Norðymbre*.)  
 
 **5. After three years King Alfred gained the victory.**  
+Æfter ðrīm gēarum, hæfde Ælfred cyning sige.  (Inverted order as
+described in §20 (2).)  
 Æfter ðrīm gēarum, Ælfred cyning hæfde sige.  
-Æfter ðrīm gēarum, hæfde Ælfred cyning sige.  
 
 **6. Whosoever chooses these gifts, chooses well.**  
 Swā hwā swā ċīest ðās giefa, ċīest wel.  
@@ -116,18 +118,17 @@ Sē sunu ðisses mannes is ǣgðer ge wīsra ge betra ðonne his fæder.
 
 The Anglian conjugation *rīdeð* appears twice
 in Smith in spite of his glossary listing *rīdan* as a Class I strong
-verb with a reference to §102.  The only reading that we find it
+verb with a reference to §102.  The only reading that we find *rīdeð*
 in is "Wulfstan's Voyage".  We noted in the post for Chapter XIV that
 "Wulfstan's Voyage" has other indicators of Anglian origin.
-(*findan* is similar and Wiktionary
-has conjugations for both West Saxon and Anglian.)  
-Use *ðonne ... ðonne* rather than *ðā ... ðā* because, as Wiktionary says,
+
+
+Use *ðonne ... ðonne* here rather than *ðā ... ðā* because, as Wiktionary says,
 *ðā* is used with the indicative past tense whereas *ðonne* is used with
-non-past tense and subjunctive past tense.  The past tense subjunctive
-is often used for habitual, recurring action in the past.  One rule of
-thumb is that if "whenever" is appropriate in the Modern English
-version, then *ðonne* is most appropriate in the Old English.  Smith
-does not make that distinction in §95 (2), however.
+non-past tense and subjunctive past tense.  Here were have a non-past tense.
+(The past tense subjunctive
+is often used for habitual, recurring action in the past.)  Smith
+does not make a distinction in the use of *ðonne ... ðonne* and *ðā ... ðā*.
 
 **9. The richest men are not always (ā) the wisest men.**  
 Ðā rīcost men ne sind ā ðā wīsest men.  
