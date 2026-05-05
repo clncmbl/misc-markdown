@@ -114,16 +114,17 @@ at the very end of Chapter XIII.)
 Sē sunu ðisses mannes is ǣgðer ge wīsra ge betra ðonne his fæder.  
 
 **8. When the king rides, then ride his thanes also.**  
-Ðonne sē cyning rīt, ðonne rīdað his ðegnas ēac.  (WS)  
-Ðonne sē cyning rīdeð, ðonne rīdað his ðegnas ēac.  (Anglian)
+Ðonne sē cyning rīt, ðonne rīdað his ðegnas ēac.   
+Ðonne sē cyning rīdeð, ðonne rīdað his ðegnas ēac.  
 
-(The Anglian conjugation *rīdeð* appears twice
+(The conjugation *rīdeð* appears twice
 in Smith whereas *rīt* appears once (in the above Part I #7).
 His glossary lists *rīdan* as a Class I strong
 verb with a reference to §102 (consistent with *rīt*).
 The only reading in which *rīdeð* appears
 is "Wulfstan's Voyage".  We noted in the post for Chapter XIV that
-"Wulfstan's Voyage" has other indicators of Anglian origin.
+"Wulfstan's Voyage" has indicators of Anglian origin, and the Anglian
+dialects tended to have this longer form more often.
 
 
 We use *ðonne ... ðonne* here rather than *ðā ... ðā* because, as Wiktionary says,
