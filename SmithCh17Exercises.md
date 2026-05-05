@@ -135,5 +135,5 @@ does not mention these differences in usage between *ðonne ... ðonne*
 and *ðā ... ðā*.)
 
 **9. The richest men are not always (ā) the wisest men.**  
-Ðā rīcost men ne sind ā ðā wīsest men.  
+Ðā rīcostan men ne sind ā ðā wīsestan men.  
 
