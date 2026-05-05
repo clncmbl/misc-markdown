@@ -91,7 +91,8 @@ The men who had the swiftest horses were with the Danes for four days.
 
 **3. He was much wiser than his brother.**  
 Hē wæs micel wīsra ðonne his brōðor.  
-Hē wæs micel wīsra his brēðer.  (See §98 (6).)
+Hē wæs micel wīsra his brēðer.  (See §96 (6) regarding the dative case when
+ðonne is omitted.)
 
 **4. He fights against the Northumbrians with two ships.**  
 Hē fieht wið ðā Norðymbre mid twǣm scipa.  
@@ -116,19 +117,22 @@ Sē sunu ðisses mannes is ǣgðer ge wīsra ge betra ðonne his fæder.
 Ðonne sē cyning rīt, ðonne rīdað his ðegnas ēac.  (WS)  
 Ðonne sē cyning rīdeð, ðonne rīdað his ðegnas ēac.  (Anglian)
 
-The Anglian conjugation *rīdeð* appears twice
-in Smith in spite of his glossary listing *rīdan* as a Class I strong
-verb with a reference to §102.  The only reading that we find *rīdeð*
-in is "Wulfstan's Voyage".  We noted in the post for Chapter XIV that
+(The Anglian conjugation *rīdeð* appears twice
+in Smith whereas *rīt* appears once (in the above Part I #7).
+His glossary lists *rīdan* as a Class I strong
+verb with a reference to §102 (consistent with *rīt*).
+The only reading in which *rīdeð* appears
+is "Wulfstan's Voyage".  We noted in the post for Chapter XIV that
 "Wulfstan's Voyage" has other indicators of Anglian origin.
 
 
-Use *ðonne ... ðonne* here rather than *ðā ... ðā* because, as Wiktionary says,
-*ðā* is used with the indicative past tense whereas *ðonne* is used with
-non-past tense and subjunctive past tense.  Here were have a non-past tense.
-(The past tense subjunctive
-is often used for habitual, recurring action in the past.)  Smith
-does not make a distinction in the use of *ðonne ... ðonne* and *ðā ... ðā*.
+We use *ðonne ... ðonne* here rather than *ðā ... ðā* because, as Wiktionary says,
+*ðā* is used with the indicative past tense whereas *ðonne* is used with the
+non-past tense and the subjunctive mood past tense.  Here were have a non-past tense.
+(The subjunctive mood past tense
+is often used for habitual, recurring action in the past.)  Smith, however,
+does not mention these differences in usage between *ðonne ... ðonne*
+and *ðā ... ðā*.)
 
 **9. The richest men are not always (ā) the wisest men.**  
 Ðā rīcost men ne sind ā ðā wīsest men.  
