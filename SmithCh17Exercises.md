@@ -123,17 +123,19 @@ His glossary lists *rīdan* as a Class I strong
 verb with a reference to §102 (consistent with *rīt*).
 The only reading in which *rīdeð* appears
 is "Wulfstan's Voyage".  We noted in the post for Chapter XIV that
-"Wulfstan's Voyage" has indicators of Anglian origin, and the Anglian
-dialects tended to have this longer form more often.
+"Wulfstan's Voyage" has markers of Anglian origin, and the Anglian
+dialects tended to have this longer form more often than did Early
+West Saxon.
 
 
-We use *ðonne ... ðonne* here rather than *ðā ... ðā* because, as Wiktionary says,
-*ðā* is used with the indicative past tense whereas *ðonne* is used with the
-non-past tense and the subjunctive mood past tense.  Here were have a non-past tense.
-(The subjunctive mood past tense
-is often used for habitual, recurring action in the past.)  Smith, however,
-does not mention these differences in usage between *ðonne ... ðonne*
-and *ðā ... ðā*.)
+We use *ðonne ... ðonne* here rather than *ðā ... ðā*.  Bosworth-Toller
+notes that *ðonne* and *ðā* differ in meaning: *ðonne* is used
+for indefinite or general time references (as we have here), whereas
+*ðā* is used for definite narrated events.  See
+[Bosworth-Toller þanne (þonne)](https://bosworthtoller.com/031535).  As
+a rule of thumb, if "whenever" works in the Modern English, *ðonne*
+is usually the right choice.  Smith
+does not explicitly discuss this distinction.)
 
 **9. The richest men are not always (ā) the wisest men.**  
 Ðā rīcostan men ne sind ā ðā wīsestan men.  
