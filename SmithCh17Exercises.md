@@ -122,7 +122,7 @@ in Smith whereas *rīt* appears once (in the above Part I #7).
 His glossary lists *rīdan* as a Class I strong
 verb with a reference to §102 (consistent with *rīt*).
 The only reading in which *rīdeð* appears
-is "Wulfstan's Voyage".  My post for Chapter XIV notes that
+is "Wulfstan's Voyage".  As noted in [my post for Chapter XIV](https://www.reddit.com/r/OldEnglish/comments/1sh8b45/c_alphonso_smith_grammar_chapter_xiv_section_87/),
 "Wulfstan's Voyage" has markers of Anglian origin, and longer
 forms such as *rīdeð* occur more often in Anglian texts than in
 conservative Early West Saxon.  Fulk discusses these longer
@@ -134,7 +134,7 @@ We use *ðonne ... ðonne* here rather than *ðā ... ðā*.  Bosworth-Toller
 notes that *ðonne* and *ðā* differ in meaning: *ðonne* is used
 for indefinite or general time references (as we have here), whereas
 *ðā* is used for definite narrated events.  See
-[Bosworth-Toller þanne (þonne)](https://bosworthtoller.com/031535).  As
+[the Bosworth-Toller entry for *þanne* (*þonne*)](https://bosworthtoller.com/031535).  As
 a rule of thumb, if "whenever" works in the Modern English, *ðonne*
 is usually the right choice.  Smith
 does not explicitly discuss this distinction.)
