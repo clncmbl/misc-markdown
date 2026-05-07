@@ -122,10 +122,12 @@ in Smith whereas *rīt* appears once (in the above Part I #7).
 His glossary lists *rīdan* as a Class I strong
 verb with a reference to §102 (consistent with *rīt*).
 The only reading in which *rīdeð* appears
-is "Wulfstan's Voyage".  We noted in the post for Chapter XIV that
-"Wulfstan's Voyage" has markers of Anglian origin, and the Anglian
-dialects tended to have this longer form more often than did Early
-West Saxon.
+is "Wulfstan's Voyage".  My post for Chapter XIV notes that
+"Wulfstan's Voyage" has markers of Anglian origin, and longer
+forms such as *rīdeð* occur more often in Anglian texts than in
+conservative Early West Saxon.  Fulk discusses these longer
+forms as an Anglian feature on page 120 of his
+[freely available grammar](https://hdl.handle.net/2022/25547).
 
 
 We use *ðonne ... ðonne* here rather than *ðā ... ðā*.  Bosworth-Toller
