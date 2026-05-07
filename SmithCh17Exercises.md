@@ -35,8 +35,8 @@ And they were in two divisions: in one were Bagsac and Halfdane
 the heathen kings, and in the other were the earls.  
 (This sentence comes directly from "The Battle of Ashdown", which
 begins on page 99.  The story comes from year 871 of the Parker
-Chronicle.  The heathen kings, Bagsac and Halfdane, and the earls
-were on the same side fighting against Alfred and his older brother
+Chronicle.  The heathen kings Bagsac and Halfdane, along with the earls,
+were fighting on the same side against Alfred and his older brother
 Ethelred, the king. Note the use of *wæs* (singular) preceding a
 plural subject; see also *gefeaht* in
 [page 100 line 8 in the text](https://www.gutenberg.org/cache/epub/31277/pg31277-images.html#page100)
@@ -63,7 +63,7 @@ The field is fifty miles broad.
 The field is fifty miles wide.  
 
 **11. Ælfred cyning hæfde mǫnige frīend, for ðǣm ðe hē wæs ǣgðer ge wīs ge gōd.**  
-King Alfred had many friends for he was both wise and good.  
+King Alfred had many friends, for he was both wise and good.  
 King Alfred had many friends because he was both wise and good.  
 
 **12. Ðā hwalas, ðe ðū ymbe spricst, sind micle lǣssan ōðrum hwalum.**  
@@ -90,8 +90,8 @@ The men who had the swiftest horses were with the Danes for four days.
 Ðā rīcostan men on ðǣm rīce habbað mā ðonne ðrītig scipa.  
 
 **3. He was much wiser than his brother.**  
-Hē wæs micel wīsra ðonne his brōðor.  
-Hē wæs micel wīsra his brēðer.  (See §96 (6) regarding the dative case when
+Hē wæs micle wīsra ðonne his brōðor.  
+Hē wæs micle wīsra his brēðer.  (See §96 (6) regarding the dative case when
 ðonne is omitted.)
 
 **4. He fights against the Northumbrians with two ships.**  
@@ -106,7 +106,7 @@ described in §20 (2).)
 
 **6. Whosoever chooses these gifts, chooses well.**  
 Swā hwā swā ċīest ðās giefa, ċīest wel.  
-(For "swā hwā swā", see the note following §77 on page 53
+(For *swā hwā swā*, see the note following §77 on page 53
 at the very end of Chapter XIII.)
 
 **7. This man’s son is both wiser and better than his father.**  
