@@ -128,6 +128,7 @@ forms such as *rīdeð* occur more often in Anglian texts than in
 conservative Early West Saxon.  Fulk discusses these longer
 forms as an Anglian feature on page 120 of his
 [freely available grammar](https://hdl.handle.net/2022/25547).
+See also §58-59 of Smith.  
 
 
 We use *ðonne ... ðonne* here rather than *ðā ... ðā*.  Bosworth-Toller
