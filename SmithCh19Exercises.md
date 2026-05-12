@@ -19,6 +19,12 @@ I stick closely to the vocabulary in the part of the book up to where the exerci
 # Part I: OE to PDE
 
 **1. Æfter ðissum wordum, sē munuc wrāt ealle ðā geręcednesse on ānre bēc.**  
+After these words, the monk wrote the entire narrative in one book.  
+After these words, the monk wrote all the narratives in one book.  
+[TODO: Sounds like conservative EWS would have had "ealla ðā geręcednyssa"
+or
+"ealla ðā geręcednessa" in the plural but I need to verify.  Anglian might have been the "ealle ðā geręcednesse" as the plural.]  
+
 **2. Ðā eorlas ridon ūp ǣr ðǣm ðe ðā Dęne ðæs gefeohtes geswicen.**  
 **3. Cædmon sǫng ǣrest be middangeardes gesceape.**  
 **4. Sē cyning ǫnd ðā rīcostan męn drincað mȳran meolc, ǫnd ðā unspēdigan drincað medu.**  
