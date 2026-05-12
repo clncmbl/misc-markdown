@@ -18,7 +18,28 @@ I stick closely to the vocabulary in the part of the book up to where the exerci
 
 # Part I: OE to PDE
 
-**1. .**  
+**1. Æfter ðissum wordum, sē munuc wrāt ealle ðā geręcednesse on ānre bēc.**  
+**2. Ðā eorlas ridon ūp ǣr ðǣm ðe ðā Dęne ðæs gefeohtes geswicen.**  
+**3. Cædmon sǫng ǣrest be middangeardes gesceape.**  
+**4. Sē cyning ǫnd ðā rīcostan męn drincað mȳran meolc, ǫnd ðā unspēdigan drincað medu.**  
+**5. Ǫnd hē ārās ǫnd sē wind geswāc.**  
+**6. Hīe sǣdon ðæt hīe ðǣr westwindes biden.**  
+**7. Hwæt is nū mā ymbe ðās ðing tō sprecanne?**  
+**8. Ðā sęcgas ongunnon geswīcan ðǣre hęrgunga.**  
+**9. Ðā bēag ðæt lǫnd ðǣr ēastryhte, oððe sēo sǣ in on ðæt lǫnd.**  
+**10. Ðās lǫnd belimpað tō, ðǣm Ęnglum.**  
+**11. Ðēah ðā Dęne ealne dæg gefuhten, gīet hæfde Ælfred cyning sige.**  
+**12. Ǫnd ðæs (afterwards) ymbe ānne mōnað gefeaht Ælfred cyning wið ealne ðone hęre æt Wiltūne.**  
 
 # Part II: PDE to OE
 
+**1. The most prosperous men drank mare’s milk and wine, but the poor men drank mead.**  
+**2. I suffered many things before you began to help me (dat.).**  
+**3. About two days afterwards (Ðæs ymbe twēgen dagas), the plundering ceased.**  
+**4. The king said that he fought against all the army (hęre).**  
+**5. Although the Danes remained one month (§ 98, (1)), they did not begin to fight.**  
+**6. These gifts belonged to my brother.**  
+**7. The earls were glad because their lord was (indicative) with them.**  
+**8. What did you find?**  
+**9. Then wrote he about (be) the wise man’s deeds.**  
+**10. What more is there to endure?**  
