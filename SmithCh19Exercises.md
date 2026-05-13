@@ -19,23 +19,26 @@ I stick closely to the vocabulary in the part of the book up to where the exerci
 # Part I: OE to PDE
 
 **1. Æfter ðissum wordum, sē munuc wrāt ealle ðā geręcednesse on ānre bēc.**  
-After these words, the monk wrote the entire narrative in one book.  
-After these words, the monk wrote all the narratives in one book.  
-[TODO: Sounds like conservative EWS would have had "ealla ðā geręcednyssa"
-or
-"ealla ðā geręcednessa" in the plural but I need to verify.  Anglian might have been the "ealle ðā geręcednesse" as the plural.]  
+After these words, the monk wrote all the narrative in one book. (literal)  
+After these words, the monk wrote the entire narrative in one book. (more idiomatic PDE)  
 
 **2. Ðā eorlas ridon ūp ǣr ðǣm ðe ðā Dęne ðæs gefeohtes geswicen.**  
 **3. Cædmon sǫng ǣrest be middangeardes gesceape.**  
 **4. Sē cyning ǫnd ðā rīcostan męn drincað mȳran meolc, ǫnd ðā unspēdigan drincað medu.**  
+(Taken directly from "Wulfstan's Voyage", lines 21-23 of page 108.)  
+
 **5. Ǫnd hē ārās ǫnd sē wind geswāc.**  
 **6. Hīe sǣdon ðæt hīe ðǣr westwindes biden.**  
 **7. Hwæt is nū mā ymbe ðās ðing tō sprecanne?**  
 **8. Ðā sęcgas ongunnon geswīcan ðǣre hęrgunga.**  
 **9. Ðā bēag ðæt lǫnd ðǣr ēastryhte, oððe sēo sǣ in on ðæt lǫnd.**  
+(Taken directly from "Ohthere's First Voyage", lines 14-15 of page 103.)  
+
 **10. Ðās lǫnd belimpað tō, ðǣm Ęnglum.**  
 **11. Ðēah ðā Dęne ealne dæg gefuhten, gīet hæfde Ælfred cyning sige.**  
-**12. Ǫnd ðæs (afterwards) ymbe ānne mōnað gefeaht Ælfred cyning wið ealne ðone hęre æt Wiltūne.**  
+**12. Ǫnd ðæs (afterwards) ymbe ānne mōnað gefeaht Ælfred cyning wið ealne ðone hęre æt Wiltūne.** 
+(Taken directly "The Battle of Ashdown", lines 7-8 of page 101,
+though "lȳtle werede" was left behind.)  
 
 # Part II: PDE to OE
 
