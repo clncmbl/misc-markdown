@@ -23,6 +23,16 @@ After these words, the monk wrote all the narrative in one book. (literal)
 After these words, the monk wrote the entire narrative in one book. (more idiomatic PDE)  
 
 **2. Ðā eorlas ridon ūp ǣr ðǣm ðe ðā Dęne ðæs gefeohtes geswicen.**  
+The earls rode up before the Danes had ceased from the fight. (most literal)  
+The earls rode up before the Danes discontinued the fight.  
+The earls rode up before the Danes had stopped fighting.  
+
+(Note that this idiomatic usage of "up" goes back at least as far as Old English.  
+
+See §105 for why "geswicen" is subjunctive here.  From the point of view
+of the earls as the were riding up, the Danes' ceasing was in the future.
+See also §45 (c) of [Fulk's Grammar](https://hdl.handle.net/2022/25547).)  
+
 **3. Cædmon sǫng ǣrest be middangeardes gesceape.**  
 **4. Sē cyning ǫnd ðā rīcostan męn drincað mȳran meolc, ǫnd ðā unspēdigan drincað medu.**  
 (Taken directly from "Wulfstan's Voyage", lines 21-23 of page 108.)  
