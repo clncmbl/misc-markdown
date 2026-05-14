@@ -34,8 +34,14 @@ of the earls as the were riding up, the Danes' ceasing was in the future.
 See also §45 (c) of [Fulk's Grammar](https://hdl.handle.net/2022/25547).)  
 
 **3. Cædmon sǫng ǣrest be middangeardes gesceape.**  
+Cædmon sang first about the world's creation.  
+
 **4. Sē cyning ǫnd ðā rīcostan męn drincað mȳran meolc, ǫnd ðā unspēdigan drincað medu.**  
-(Taken directly from "Wulfstan's Voyage", lines 21-23 of page 108.)  
+(Taken, with some normalization, from "Wulfstan's Voyage", lines 21-23
+of page 108.)  
+The king and the richest men drink mare's milk, and the poor drink mead.  
+(The adjective *unspēdigan* is functioning here as a noun, which is
+common in both OE and PDE.)
 
 **5. Ǫnd hē ārās ǫnd sē wind geswāc.**  
 **6. Hīe sǣdon ðæt hīe ðǣr westwindes biden.**  
