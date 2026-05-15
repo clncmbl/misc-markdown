@@ -52,7 +52,14 @@ And he arose and the wind stopped.
 They said that they would wait there for the west wind.  
 
 **7. Hwæt is nū mā ymbe ðās ðing tō sprecanne?**  
+
+What is more to speak about these things now?  (more literal, but practically unintelligible)  TODO: RECONSIDER  
+What more is there now to say about these things?  (idiomatic)  
+
 **8. Ðā sęcgas ongunnon geswīcan ðǣre hęrgunga.**  
+
+The warriors began to cease the plundering.  
+
 **9. Ðā bēag ðæt lǫnd ðǣr ēastryhte, oððe sēo sǣ in on ðæt lǫnd.**  
 (Taken directly from "Ohthere's First Voyage", lines 14-15 of page 103.)  
 
