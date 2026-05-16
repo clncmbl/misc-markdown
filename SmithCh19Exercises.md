@@ -71,9 +71,15 @@ Then bends the land there due east, or the sea in on the land.
 These lands belong to the English.  
 
 **11. Ðēah ðā Dęne ealne dæg gefuhten, gīet hæfde Ælfred cyning sige.**  
-**12. Ǫnd ðæs (afterwards) ymbe ānne mōnað gefeaht Ælfred cyning wið ealne ðone hęre æt Wiltūne.** 
+(*gefeohtan* is subjunctive because it is in a concessive clause.  See §105 2(a).)
+
+Though the Danes would fight all day, yet King Alfred had the victory.  
+
+**12. Ǫnd ðæs (afterwards) ymbe ānne mōnað gefeaht Ælfred cyning wið ealne ðone hęre æt Wiltūne.**  
 (Taken directly from "The Battle of Ashdown", lines 7-8 of page 101,
 though "lȳtle werede" was left behind.)  
+
+And about one month afterwards, King Alfred fought against the entire army at Wilton.  
 
 # Part II: PDE to OE
 
