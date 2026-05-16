@@ -63,7 +63,13 @@ The warriors began to cease the plundering.
 **9. Ðā bēag ðæt lǫnd ðǣr ēastryhte, oððe sēo sǣ in on ðæt lǫnd.**  
 (Taken directly from "Ohthere's First Voyage", lines 14-15 of page 103.)  
 
+Then bends the land there due east, or the sea in on the land.  
+
 **10. Ðās lǫnd belimpað tō, ðǣm Ęnglum.**  
+[TODO: Why the comma?]
+
+These lands belong to the English.  
+
 **11. Ðēah ðā Dęne ealne dæg gefuhten, gīet hæfde Ælfred cyning sige.**  
 **12. Ǫnd ðæs (afterwards) ymbe ānne mōnað gefeaht Ælfred cyning wið ealne ðone hęre æt Wiltūne.** 
 (Taken directly from "The Battle of Ashdown", lines 7-8 of page 101,
