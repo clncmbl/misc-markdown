@@ -84,7 +84,15 @@ And about one month afterwards, King Alfred fought against the entire army at Wi
 # Part II: PDE to OE
 
 **1. The most prosperous men drank mare’s milk and wine, but the poor men drank mead.**  
+
+Ðā ricostan men drincað mȳran meolc ond wīn, ac ðā unspēdigan men drincað medu.  
+Ðā spedigostan men drincað mȳran meolc ond wīn, ac ðā unspēdigan men drincað medu.  
+
 **2. I suffered many things before you began to help me (dat.).**  
+
+Ic drēag monige ðinga [genitive???]..........  
+
+
 **3. About two days afterwards (Ðæs ymbe twēgen dagas), the plundering ceased.**  
 **4. The king said that he fought against all the army (hęre).**  
 **5. Although the Danes remained one month (§ 98, (1)), they did not begin to fight.**  
