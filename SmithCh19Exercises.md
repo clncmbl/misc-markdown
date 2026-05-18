@@ -52,9 +52,9 @@ And he arose and the wind stopped.
 They said that they would wait there for the west wind.  
 
 **7. Hwæt is nū mā ymbe ðās ðing tō sprecanne?**  
+(See §108 (3).)
 
-What is more to speak about these things now?  (more literal, but practically unintelligible)  TODO: RECONSIDER  
-What more is there now to say about these things?  (idiomatic)  
+What more is there now to say about these things?  
 
 **8. Ðā sęcgas ongunnon geswīcan ðǣre hęrgunga.**  
 
@@ -90,7 +90,7 @@ And about one month afterwards, King Alfred fought against the entire army at Wi
 
 **2. I suffered many things before you began to help me (dat.).**  
 
-Ic drēag monige ðinga [genitive???]..........  
+Ic drēag monig ðing ǣr ðǣm ðe  ..........  
 
 
 **3. About two days afterwards (Ðæs ymbe twēgen dagas), the plundering ceased.**  
