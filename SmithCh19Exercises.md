@@ -90,8 +90,10 @@ And about one month afterwards, King Alfred fought against the entire army at Wi
 
 **2. I suffered many things before you began to help me (dat.).**  
 
-Ic drēag monig ðing ǣr ðǣm ðe  ..........  
-
+Ic drēag monig ðing ǣr ðǣm ðe ðū me helpan ongunne.  (*monig*/*manig*)  
+Ic drēag monig ðing ǣr ðǣm ðe gē me helpan ongunnen.  
+Ic drēag monig ðing ǣr gē me helpan ongunnen.  
+(See Part I #2, above, for the subjunctive mood usage here.)  
 
 **3. About two days afterwards (Ðæs ymbe twēgen dagas), the plundering ceased.**  
 **4. The king said that he fought against all the army (hęre).**  
