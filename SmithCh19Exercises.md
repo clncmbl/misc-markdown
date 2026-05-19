@@ -58,7 +58,7 @@ What more is there now to say about these things?
 
 **8. Ðā sęcgas ongunnon geswīcan ðǣre hęrgunga.**  
 (*hergunga* must be singular here because *ðǣre* is singular.  See
-§39 (3) regarding abstract nouns in -ung preferring *-a* to *-e* in
+§39 (3) regarding abstract nouns in *-ung* preferring *-a* to *-e* in
 the singular.)
 
 The warriors began to cease the plundering.  
@@ -80,7 +80,7 @@ Though the Danes would fight all day, yet King Alfred had the victory.
 
 **12. Ǫnd ðæs (afterwards) ymbe ānne mōnað gefeaht Ælfred cyning wið ealne ðone hęre æt Wiltūne.**  
 (Taken directly from "The Battle of Ashdown", lines 7-8 of page 101,
-though "lȳtle werede" was left behind.)  
+though *lȳtle werede* was left behind.)  
 
 And about one month afterwards, King Alfred fought against the entire army at Wilton.  
 
@@ -100,8 +100,8 @@ Ic drēag monig ðing ǣr gē me helpan ongunnen.
 
 **3. About two days afterwards (Ðæs ymbe twēgen dagas), the plundering ceased.**  
 
-Ðæs ymbe twēgen dagas, seo hergung geswāc.
-Ðæs ymbe twēgen dagas, geswāc seo hergung.  (TODO: verify this.)
+Ðæs ymbe twēgen dagas, seo hergung geswāc.  
+Ðæs ymbe twēgen dagas, geswāc seo hergung.  (TODO: verify this.)  
 
 **4. The king said that he fought against all the army (hęre).**  
 **5. Although the Danes remained one month (§ 98, (1)), they did not begin to fight.**  
