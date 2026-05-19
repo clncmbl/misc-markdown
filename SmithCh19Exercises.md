@@ -57,6 +57,9 @@ They said that they would wait there for the west wind.
 What more is there now to say about these things?  
 
 **8. Ðā sęcgas ongunnon geswīcan ðǣre hęrgunga.**  
+(*hergunga* must be singular here because *ðǣre* is singular.  See
+§39 (3) regarding abstract nouns in -ung preferring *-a* to *-e* in
+the singular.)
 
 The warriors began to cease the plundering.  
 
@@ -96,6 +99,10 @@ Ic drēag monig ðing ǣr gē me helpan ongunnen.
 (See Part I #2, above, for the subjunctive mood usage here.)  
 
 **3. About two days afterwards (Ðæs ymbe twēgen dagas), the plundering ceased.**  
+
+Ðæs ymbe twēgen dagas, seo hergung geswāc.
+Ðæs ymbe twēgen dagas, geswāc seo hergung.  (TODO: verify this.)
+
 **4. The king said that he fought against all the army (hęre).**  
 **5. Although the Danes remained one month (§ 98, (1)), they did not begin to fight.**  
 **6. These gifts belonged to my brother.**  
