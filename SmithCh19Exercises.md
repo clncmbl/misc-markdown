@@ -104,6 +104,10 @@ Ic drēag monig ðing ǣr gē me helpan ongunnen.
 Ðæs ymbe twēgen dagas, geswāc seo hergung.  (TODO: verify this.)  
 
 **4. The king said that he fought against all the army (hęre).**  
+
+Sē cyning sǣde ðe hē gefuhte wið ealne ðone here.  
+(See Part I #6 above for reason that *gefeohtan* is subjunctive here.)  
+
 **5. Although the Danes remained one month (§ 98, (1)), they did not begin to fight.**  
 **6. These gifts belonged to my brother.**  
 **7. The earls were glad because their lord was (indicative) with them.**  
