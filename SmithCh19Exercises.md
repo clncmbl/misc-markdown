@@ -106,9 +106,13 @@ Ic drēag monig ðing ǣr gē me helpan ongunnen.
 **4. The king said that he fought against all the army (hęre).**  
 
 Sē cyning sǣde ðe hē gefuhte wið ealne ðone here.  
-(See Part I #6 above for reason that *gefeohtan* is subjunctive here.)  
+(See Part I #6 above for the reason that *gefeohtan* is subjunctive here.)  
 
 **5. Although the Danes remained one month (§ 98, (1)), they did not begin to fight.**  
+
+Ðēah ðā Dene biden ānne mōnað, hīe ne ongunnon gefeohtan.  
+(See Part 1 #8 above for the reason that *bīdan* is subjunctive here.)  
+
 **6. These gifts belonged to my brother.**  
 **7. The earls were glad because their lord was (indicative) with them.**  
 **8. What did you find?**  
