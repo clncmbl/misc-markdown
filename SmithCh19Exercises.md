@@ -114,6 +114,11 @@ Sē cyning sǣde ðe hē gefuhte wið ealne ðone here.
 (See Part 1 #8 above for the reason that *bīdan* is subjunctive here.)  
 
 **6. These gifts belonged to my brother.**  
+
+Ðās gīefa belumpon mīnum brēðer.  
+(For possessive pronouns declined as strong adjectives, see §76.
+For dative singular declension of r-stem nouns (like brōðor), see §68 (2).)
+
 **7. The earls were glad because their lord was (indicative) with them.**  
 **8. What did you find?**  
 **9. Then wrote he about (be) the wise man’s deeds.**  
