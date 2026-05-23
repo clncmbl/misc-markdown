@@ -120,6 +120,10 @@ Sē cyning sǣde ðe hē gefuhte wið ealne ðone here.
 For dative singular declension of r-stem nouns (like brōðor), see §68 (2).)
 
 **7. The earls were glad because their lord was (indicative) with them.**  
+
+Ðā eorlas wǣre glade for ðǣm ðe hiera hlāford wæs mid him.  
+Ðā eorlas wǣre glade for ðǣm ðe hiera hlāford mid him wæs.  (transposed order, §20 (3))
+
 **8. What did you find?**  
 **9. Then wrote he about (be) the wise man’s deeds.**  
 **10. What more is there to endure?**  
