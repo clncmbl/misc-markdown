@@ -88,8 +88,8 @@ And about one month afterwards, King Alfred fought against the entire army at Wi
 
 **1. The most prosperous men drank mare’s milk and wine, but the poor men drank mead.**  
 
-Ðā ricostan men drincað mȳran meolc ond wīn, ac ðā unspēdigan men drincað medu.  
-Ðā spedigostan men drincað mȳran meolc ond wīn, ac ðā unspēdigan men drincað medu.  
+Ðā ricostan men druncon mȳran meolc ond wīn, ac ðā unspēdigan men druncon medu.  
+Ðā spedigostan men druncon mȳran meolc ond wīn, ac ðā unspēdigan men druncon medu.  
 
 **2. I suffered many things before you began to help me (dat.).**  
 
