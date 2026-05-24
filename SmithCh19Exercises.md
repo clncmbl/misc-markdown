@@ -122,8 +122,19 @@ For dative singular declension of r-stem nouns (like brōðor), see §68 (2).)
 **7. The earls were glad because their lord was (indicative) with them.**  
 
 Ðā eorlas wǣre glade for ðǣm ðe hiera hlāford wæs mid him.  
-Ðā eorlas wǣre glade for ðǣm ðe hiera hlāford mid him wæs.  (transposed order, §20 (3))
+Ðā eorlas wǣre glade for ðǣm ðe hiera hlāford mid him wæs.  (transposed order, §20 (3))  
 
 **8. What did you find?**  
+
+Hwæt funde ðū?  
+Hwæt fundon gē?  
+
 **9. Then wrote he about (be) the wise man’s deeds.**  
+
+Ðā wrāt hē be ðæs (TODO: ðǣre?) wīsan mannes dǣda.  
+(Although Smith does not say so explicitly, the nouns discussed in §§67-68 are strong;
+only nouns of the n-Declension (see Ch. XI) are weak.  Therefore, *mon*
+(or *man* or *mann*) is strong despite being of a consonant declension, as discussed
+in Ch. XII.)  
+
 **10. What more is there to endure?**  
