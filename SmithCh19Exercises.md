@@ -69,9 +69,8 @@ The warriors began to cease the plundering.
 Then bends the land there due east, or the sea in on the land.  
 
 **10. Ðās lǫnd belimpað tō, ðǣm Ęnglum.**  
-[TODO: Why the comma?]
 
-These lands belong to the English.  
+These lands belong to the Angles.  
 
 **11. Ðēah ðā Dęne ealne dæg gefuhten, gīet hæfde Ælfred cyning sige.**  
 (*gefeohtan* is subjunctive because it is in a concessive clause.  See §105 2(a).)
