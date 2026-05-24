@@ -139,5 +139,5 @@ in Ch. XII.)
 
 **10. What more is there to endure?**  
 
-Hwæt is mā drēoganne?
+Hwæt is mā drēoganne?  
 (See §108 (3).  Another example is in Part I #7, above.)
