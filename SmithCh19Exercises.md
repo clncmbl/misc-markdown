@@ -14,7 +14,7 @@ Reddit posts for previous sets of exercises are found here:
 * [Chapter XIV §87](https://www.reddit.com/r/OldEnglish/comments/1sh8b45/c_alphonso_smith_grammar_chapter_xiv_section_87/)
 * [Chapter XVII §100](https://www.reddit.com/r/OldEnglish/comments/1t6e9pa/c_alphonso_smith_grammar_chapter_xvii_section_100/)
 
-I stick closely to the vocabulary in the part of the book up to where the exercises are.  Also, be aware that Smith, in Chapter I, says, "It is the object of this book to give an elementary knowledge of Early West Saxon, that is, the language of King Alfred."
+I try to stick with vocabulary introduced earlier in the book.  Also, be aware that Smith, in Chapter I, says, "It is the object of this book to give an elementary knowledge of Early West Saxon, that is, the language of King Alfred."
 
 # Part I: OE to PDE
 
@@ -25,12 +25,12 @@ After these words, the monk wrote the entire narrative in one book. (more idioma
 
 **2. Ðā eorlas ridon ūp ǣr ðǣm ðe ðā Dęne ðæs gefeohtes geswicen.**  
 (See §105 2(b) for why *geswican* is subjunctive here.  From the point of view
-of the earls as the were riding up, the Danes' ceasing was in the future.
+of the earls as they were riding up, the Danes' ceasing was in the future.
 See also §45 (c) of [Fulk's Grammar](https://hdl.handle.net/2022/25547).)  
 
-The earls rode up before the Danes had ceased from the fight. (most literal)  
+The earls rode up before the Danes should cease from the fight. (most literal but archaic; "should" as future-in-the-past)  
 The earls rode up before the Danes discontinued the fight.  
-The earls rode up before the Danes had stopped fighting.  
+The earls rode up before the Danes stopped fighting.  
 
 **3. Cædmon sǫng ǣrest be middangeardes gesceape.**  
 (Taken almost verbatim from "The Story of Cædmon", line 19 of page 115.)  
@@ -44,7 +44,7 @@ of page 108.)
 The king and the richest men drink mare's milk, and the poor drink mead.  
 
 **5. Ǫnd hē ārās ǫnd sē wind geswāc.**  
-And he arose and the wind stopped.  
+And he arose, and the wind ceased.  
 
 **6. Hīe sǣdon ðæt hīe ðǣr westwindes biden.**  
 (*bidan* is subjunctive due to indirect quotation as discussed in §105 2(c).)  
