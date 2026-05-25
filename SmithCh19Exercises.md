@@ -67,16 +67,19 @@ The warriors began to cease from the plundering.  (archaic)
 **9. Ðā bēag ðæt lǫnd ðǣr ēastryhte, oððe sēo sǣ in on ðæt lǫnd.**  
 (Taken directly from "Ohthere's First Voyage", lines 14-15 of page 103.)  
 
-Then bends the land there due east, or the sea in on the land.  
+Then bent the land there eastward, or the sea in on the land.  
+Then the land bent eastward there, or the sea in on the land.  
 
 **10. Ðās lǫnd belimpað tō, ðǣm Ęnglum.**  
+(The comma looks like a typo.  Any thoughts otherwise?)
 
 These lands belong to the Angles.  
 
 **11. Ðēah ðā Dęne ealne dæg gefuhten, gīet hæfde Ælfred cyning sige.**  
 (*gefeohtan* is subjunctive because it is in a concessive clause.  See §105 2(a).)
 
-Though the Danes would fight all day, yet King Alfred had the victory.  
+Though the Danes fought all day, yet King Alfred had the victory.  
+Though the Danes fought all day, King Alfred still had the victory.  
 
 **12. Ǫnd ðæs (afterwards) ymbe ānne mōnað gefeaht Ælfred cyning wið ealne ðone hęre æt Wiltūne.**  
 (Taken directly from "The Battle of Ashdown", lines 7-8 of page 101,
