@@ -61,7 +61,8 @@ What more is there now to say about these things?
 §39 (3) regarding abstract nouns in *-ung* preferring *-a* to *-e* in
 the singular.)
 
-The warriors began to cease the plundering.  
+The warriors began to stop plundering.  
+The warriors began to cease from the plundering.  (archaic)
 
 **9. Ðā bēag ðæt lǫnd ðǣr ēastryhte, oððe sēo sǣ in on ðæt lǫnd.**  
 (Taken directly from "Ohthere's First Voyage", lines 14-15 of page 103.)  
