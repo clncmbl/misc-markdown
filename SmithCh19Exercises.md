@@ -114,7 +114,7 @@ Sē cyning sǣde ðæt hē gefuhte wið ealne ðone here.
 **5. Although the Danes remained one month (§ 98, (1)), they did not begin to fight.**  
 
 Ðēah ðā Dene biden ānne mōnað, hīe ne ongunnon gefeohtan.  
-(See Part 1 #8 above for the reason that *bīdan* is subjunctive here.)  
+(See Part 1 #11 above for the reason that *bīdan* is subjunctive here.)  
 
 **6. These gifts belonged to my brother.**  
 
@@ -124,8 +124,8 @@ For dative singular declension of r-stem nouns (like brōðor), see §68 (2).)
 
 **7. The earls were glad because their lord was (indicative) with them.**  
 
-Ðā eorlas wǣre glade for ðǣm ðe hiera hlāford wæs mid him.  
-Ðā eorlas wǣre glade for ðǣm ðe hiera hlāford mid him wæs.  (transposed order, §20 (3))  
+Ðā eorlas wǣron glade for ðǣm ðe hiera hlāford wæs mid him.  
+Ðā eorlas wǣron glade for ðǣm ðe hiera hlāford mid him wæs.  (transposed order, §20 (3))  
 
 **8. What did you find?**  
 
@@ -134,7 +134,7 @@ Hwæt fundon gē?
 
 **9. Then wrote he about (be) the wise man’s deeds.**  
 
-Ðā wrāt hē be ðæs (TODO: ðǣre?) wīsan mannes dǣda.  
+Ðā wrāt hē be ðæs wīsan mannes dǣdum.  
 (Although Smith does not say so explicitly, the nouns discussed in §§67-68 are strong;
 only nouns of the n-Declension (see Ch. XI) are weak.  Therefore, *mon*
 (or *man* or *mann*) is strong despite being of a consonant declension, as discussed
