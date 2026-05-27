@@ -28,14 +28,15 @@ After these words, the monk wrote the entire narrative in one book. (more idioma
 of the earls as they were riding up, the Danes' ceasing was in the future.
 See also §45 (c) of [Fulk's Grammar](https://hdl.handle.net/2022/25547).)  
 
-The earls rode up before the Danes discontinued the fight.  
 The earls rode up before the Danes stopped fighting.  
-The earls rode up before the Danes should cease from the fight. (This is most literal but archaic.  This  "should" as future-in-the-past aligns more precisely with the Old English subjunctive future-in-the-past.)  
+The earls rode up before the Danes should cease from the fight. (This is most literal but archaic.  This
+archaic use of "should" indicating future-in-the-past aligns well with the Old English subjunctive future-in-the-past.)  
 
 **3. Cædmon sǫng ǣrest be middangeardes gesceape.**  
 (Taken almost verbatim from "The Story of Cædmon", line 19 of page 115.)  
 
 Cædmon sang first about the world's creation.  
+Cædmon sang first about the creation of the world.  
 
 **4. Sē cyning ǫnd ðā rīcostan męn drincað mȳran meolc, ǫnd ðā unspēdigan drincað medu.**  
 (Taken, with some normalization, from "Wulfstan's Voyage", lines 21-23
@@ -62,7 +63,8 @@ What more is there now to say about these things?
 the singular.)
 
 The warriors began to stop plundering.  
-The warriors began to cease from the plundering.  (archaic)
+The warriors began to cease from the plundering.  (archaic, but grammatically
+closer to the OE)
 
 **9. Ðā bēag ðæt lǫnd ðǣr ēastryhte, oððe sēo sǣ in on ðæt lǫnd.**  
 (Taken directly from "Ohthere's First Voyage", lines 14-15 of page 103.)  
