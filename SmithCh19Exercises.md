@@ -69,8 +69,8 @@ closer to the OE)
 **9. Ðā bēag ðæt lǫnd ðǣr ēastryhte, oððe sēo sǣ in on ðæt lǫnd.**  
 (Taken directly from "Ohthere's First Voyage", lines 14-15 of page 103.)  
 
-Then bent the land there eastward, or the sea in on the land.  
-Then the land bent eastward there, or the sea in on the land.  
+Then the land turned eastward there, or the sea in on the land.  
+Then bent the land there eastward, or the sea in on the land. (very literal)  
 
 **10. Ðās lǫnd belimpað tō, ðǣm Ęnglum.**  
 (The comma looks like a typo.  Any thoughts otherwise?)
