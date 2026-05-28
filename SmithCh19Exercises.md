@@ -106,7 +106,7 @@ Ic drēag monig ðing ǣr gē me helpan ongunnen.
 **3. About two days afterwards (Ðæs ymbe twēgen dagas), the plundering ceased.**  
 
 Ðæs ymbe twēgen dagas, seo hergung geswāc.  
-Ðæs ymbe twēgen dagas, geswāc seo hergung.  (TODO: verify this.)  
+Ðæs ymbe twēgen dagas, geswāc seo hergung.  
 
 **4. The king said that he fought against all the army (hęre).**  
 
