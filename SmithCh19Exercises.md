@@ -138,10 +138,6 @@ Hwæt fundon gē?
 **9. Then wrote he about (be) the wise man’s deeds.**  
 
 Ðā wrāt hē be ðæs wīsan mannes dǣdum.  
-(Although Smith does not say so explicitly, the nouns discussed in §§67-68 are strong;
-only nouns of the n-Declension (see Ch. XI) are weak.  Therefore, *mon*
-(or *man* or *mann*) is strong despite being of a consonant declension, as discussed
-in Ch. XII.)  
 
 **10. What more is there to endure?**  
 
