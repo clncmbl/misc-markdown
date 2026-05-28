@@ -93,8 +93,8 @@ And about one month afterwards, King Alfred fought against the entire army at Wi
 
 **1. The most prosperous men drank mare’s milk and wine, but the poor men drank mead.**  
 
-Ðā ricostan men druncon mȳran meolc ond wīn, ac ðā unspēdigan men druncon medu.  
 Ðā spedigostan men druncon mȳran meolc ond wīn, ac ðā unspēdigan men druncon medu.  
+Ðā ricostan men druncon mȳran meolc ond wīn, ac ðā unspēdigan men druncon medu.  
 
 **2. I suffered many things before you began to help me (dat.).**  
 
@@ -111,7 +111,8 @@ Ic drēag monig ðing ǣr gē me helpan ongunnen.
 **4. The king said that he fought against all the army (hęre).**  
 
 Sē cyning sǣde ðæt hē gefuhte wið ealne ðone here.  
-(See Part I #6 above for the reason that *gefeohtan* is subjunctive here.)  
+(See Part I #6 above for the reason that *gefeohtan* appears in the subjunctive here
+(*gefuhte*).)  
 
 **5. Although the Danes remained one month (§ 98, (1)), they did not begin to fight.**  
 
