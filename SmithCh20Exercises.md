@@ -19,8 +19,98 @@ I try to stick with vocabulary introduced earlier in the book.  Also, be aware t
 
 # Part I: OE to PDE
 
-**1. .**  
+**1. Æfter ðǣm sōðlīce (indeed) ealle męn sprǣcon āne (one) sprǣce.**  
+
+
+
+**2. Ǫnd hē cwæð: "Ðis is ān folc, ǫnd ealle hīe sprecað āne sprǣce."**  
+
+
+
+**3. On sumum stōwum wīngeardas grōwað.**  
+
+
+
+**4. Hē hēt ðā nǣdran ofslēan.**  
+
+
+
+**5. Ðā Ęngle ābrǣcon ðone lǫngan weall, ǫnd sige nōmon.**  
+
+
+
+**6. Ǫnd ðæt sǣd grēow ǫnd wēox.**  
+
+
+
+**7. Ic ne geseah ðone mǫn sē ðe ðæs cnapan adesan stæl.**  
+
+
+
+**8. Hē wæs swȳðe spēdig man on ðǣm ǣhtum ðe hiera spēda on3 bēoð, ðæt is, on wildrum.**  
+
+
+
+**9. Ǫnd ðǣr wearð (was) micel wælsliht on gehwæðre hǫnd.**  
+
+
+
+**10. Ǫnd æfter ðissum gefeohte cōm Ælfred cyning mid his fierde, ǫnd gefeaht wið ealne ðone hęre, ǫnd sige nōm.**  
+
+
+
+**11. Ðēos burg hātte4 Æscesdūn (Ashdown).**  
+
+
+
+**12. Ðǣre cwēne līc læg on ðǣm hūse.**  
+
+
+
+**13. Ǫnd sē dǣl ðe ðǣr aweg cōm wæs swȳðe lȳtel.**  
+
+
+
+**14. Ǫnd ðæs ðrēotīene dagas Æðered tō rīce fēng.**  
 
 
 # Part II: PDE to OE
+
+**1. The men stood in the ships and fought against the Danes.**  
+
+
+
+**2. Before the thanes came, the king rode away.**  
+
+
+
+**3. They said (sǣdon) that all the men spoke one language.**  
+
+
+
+**4. They bore the queen’s body to Wilton.**  
+
+
+
+**5. Alfred gave many gifts to his army (dat. without tō) before he went away.**  
+
+
+
+**6. These men are called earls.**  
+
+
+
+**7. God sees all things.**  
+
+
+
+**8. The boy held the reindeer with (mid) his hands.**  
+
+
+
+**9. About six months afterwards, Alfred gained the victory, and came to the throne.**  
+
+
+
+**10. He said that there was very great slaughter on both sides.**  
 
