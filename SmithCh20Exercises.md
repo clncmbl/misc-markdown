@@ -21,15 +21,16 @@ I try to stick with vocabulary introduced earlier in the book.  Also, be aware t
 
 **1. Æfter ðǣm sōðlīce (indeed) ealle męn sprǣcon āne (one) sprǣce.**  
 
-
+After that, indeed, all men spoke one language.  
 
 **2. Ǫnd hē cwæð: "Ðis is ān folc, ǫnd ealle hīe sprecað āne sprǣce."**  
 
-
+And he said: "This is a people, and they all speak one language."  
+And he said: "This is a nation, and they all speak one language."  
 
 **3. On sumum stōwum wīngeardas grōwað.**  
 
-
+In some places, vineyards grow.
 
 **4. Hē hēt ðā nǣdran ofslēan.**  
 
