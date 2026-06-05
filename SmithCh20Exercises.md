@@ -25,16 +25,20 @@ After that, indeed, all men spoke one language.
 
 **2. Ǫnd hē cwæð: "Ðis is ān folc, ǫnd ealle hīe sprecað āne sprǣce."**  
 
-And he said: "This is a people, and they all speak one language."  
-And he said: "This is a nation, and they all speak one language."  
+And he said: "This is one people, and they all speak one language."  
+And he said: "This is one nation, and they all speak one language."  
 
 **3. On sumum stōwum wīngeardas grōwað.**  
 
 In some places, vineyards grow.
 
 **4. Hē hēt ðā nǣdran ofslēan.**  
+(See §107 (1) on the the use of the infinitive with *hātan*.  An overly literal
+translation might be "He ordered to kill the snake," which does not work in
+Modern English).
 
-
+He ordered that the snake be killed.  
+He ordered that the snakes be killed.  
 
 **5. Ðā Ęngle ābrǣcon ðone lǫngan weall, ǫnd sige nōmon.**  
 
