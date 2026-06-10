@@ -46,7 +46,7 @@ The Angles broke down the long wall and won victory.
 The Angles broke down the long wall and took victory.  (more literal, less idiomatic PDE)
 
 **6. Ǫnd ðæt sǣd grēow ǫnd wēox.**  
-(Similar clause found in Matt. IV 27 of the West Saxon Gospels.  See https://en.wikisource.org/wiki/Bright%27s_Anglo-Saxon_Reader/From_the_Gospels:_St._Mark,_Chap._IV.  See also Part I #6 of the post for Chapter X.)
+(Similar clause found in Mark 4:27 of the West Saxon Gospels.  See https://en.wikisource.org/wiki/Bright%27s_Anglo-Saxon_Reader/From_the_Gospels:_St._Mark,_Chap._IV.  See also Part I #6 of the post for Chapter X.)
 
 And the seed grew and waxed.  
 And the seed sprouted and grew.  
