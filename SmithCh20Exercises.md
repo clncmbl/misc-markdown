@@ -63,7 +63,10 @@ And the seed sprouted and grew.
 I did not see the man who stole the boy's hatchet.  
 
 **8. Hē wæs swȳðe spēdig man on ðǣm ǣhtum ðe hiera spēda on bēoð, ðæt is, on wildrum.**  
-(From "Ohthere's First Voyage", page 105 lines 1-2.  See also §94 (5).)
+(From "Ohthere's First Voyage", page 105 lines 1-2.  See also §94 (5).)  
+
+He was a very rich man in those possessions which their riches in be, in reindeer.  
+(wildrum and reindeer...)
 
 
 
