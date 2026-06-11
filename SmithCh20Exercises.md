@@ -46,7 +46,14 @@ The Angles broke down the long wall and won victory.
 The Angles broke down the long wall and took victory.  (more literal, less idiomatic PDE)
 
 **6. Ǫnd ðæt sǣd grēow ǫnd wēox.**  
-(Similar clause found in Mark 4:27 of the West Saxon Gospels.  See https://en.wikisource.org/wiki/Bright%27s_Anglo-Saxon_Reader/From_the_Gospels:_St._Mark,_Chap._IV.  See also Part I #6 of the post for Chapter X.)
+(We saw a similar use of *grōwan* and *weaxan* in Chapter X (exercise Part I #6).
+As Smith noted there, he is taking this usage from Mark 4:27 of the West Saxon Gospels,
+which you can find here: https://en.wikisource.org/wiki/Bright%27s_Anglo-Saxon_Reader/From_the_Gospels:_St._Mark,_Chap._IV.  The translator for the
+West Saxon Gospels translated the Latin Vulgate's *germinet* (from which we get
+"germinate") to OE *grewe*.  *Growan*, which is cognate with "green", was
+closer in meaning to "sprout" or "become green" than today's typical use of
+the word "grow".  Consequently, the redundancy in PDE "grew and waxed" was not
+present in *grēow and wēox*.)
 
 And the seed grew and waxed.  
 And the seed sprouted and grew.  
