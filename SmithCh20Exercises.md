@@ -60,9 +60,10 @@ And the seed sprouted and grew.
 
 **7. Ic ne geseah ðone mǫn sē ðe ðæs cnapan adesan stæl.**  
 
+I did not see the man who stole the boy's hatchet.  
 
-
-**8. Hē wæs swȳðe spēdig man on ðǣm ǣhtum ðe hiera spēda on3 bēoð, ðæt is, on wildrum.**  
+**8. Hē wæs swȳðe spēdig man on ðǣm ǣhtum ðe hiera spēda on bēoð, ðæt is, on wildrum.**  
+(From "Ohthere's First Voyage", page 105 lines 1-2.  See also §94 (5).)
 
 
 
@@ -74,7 +75,7 @@ And the seed sprouted and grew.
 
 
 
-**11. Ðēos burg hātte4 Æscesdūn (Ashdown).**  
+**11. Ðēos burg hātte Æscesdūn (Ashdown).**  
 
 
 
