@@ -65,14 +65,14 @@ I did not see the man who stole the boy's hatchet.
 **8. Hē wæs swȳðe spēdig man on ðǣm ǣhtum ðe hiera spēda on bēoð, ðæt is, on wildrum.**  
 (From "Ohthere's First Voyage", page 105 lines 1-2.  See also §94 (5).)  
 
-He was a very rich man in those possessions which their riches in be, in reindeer.  
-(wildrum and reindeer...)
-
-
+He was a very rich man in those possessions which their riches consist in, that is, in wild beasts.  
+He was a very rich man in those possessions which their riches in be, that is, in wild beasts. (More literal but less idiomatic.  
 
 **9. Ǫnd ðǣr wearð (was) micel wælsliht on gehwæðre hǫnd.**  
+(From "The Battle of Ashdown", page 100 lines 26-27.)  
 
-
+And there was much slaughter on both sides.
+(TODO: literal of "on gehwæðre hǫnd")
 
 **10. Ǫnd æfter ðissum gefeohte cōm Ælfred cyning mid his fierde, ǫnd gefeaht wið ealne ðone hęre, ǫnd sige nōm.**  
 
