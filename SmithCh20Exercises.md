@@ -66,25 +66,26 @@ I did not see the man who stole the boy's hatchet.
 (From "Ohthere's First Voyage", page 105 lines 1-2.  See also §94 (5).)  
 
 He was a very rich man in those possessions which their riches consist in, that is, in wild beasts.  
-He was a very rich man in those possessions which their riches in be, that is, in wild beasts. (More literal but less idiomatic.  
+He was a very rich man in those possessions which their riches in be, that is, in wild beasts. (More literal but less idiomatic.)  
 
 **9. Ǫnd ðǣr wearð (was) micel wælsliht on gehwæðre hǫnd.**  
 (From "The Battle of Ashdown", page 100 lines 26-27.)  
 
-And there was much slaughter on both sides.
-(TODO: literal of "on gehwæðre hǫnd")
+And there was much slaughter on both sides.  
+And there was much slaughter on each hand. (literal but not idiomatic PDE)
 
 **10. Ǫnd æfter ðissum gefeohte cōm Ælfred cyning mid his fierde, ǫnd gefeaht wið ealne ðone hęre, ǫnd sige nōm.**  
 
-
+And after this fight, King Alfred came with his army, and fought with all the (Danish) army, and won the victory.  
 
 **11. Ðēos burg hātte Æscesdūn (Ashdown).**  
 
-
+This city is called Ashdown.  
+(See note 2 on page 80 regarding the passive forms of *hātan*.)  
 
 **12. Ðǣre cwēne līc læg on ðǣm hūse.**  
 
-
+The queen's body lies in the house.  
 
 **13. Ǫnd sē dǣl ðe ðǣr aweg cōm wæs swȳðe lȳtel.**  
 
