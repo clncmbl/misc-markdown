@@ -81,7 +81,7 @@ And after this fight, King Alfred came with his army, and fought with all the (D
 **11. Ðēos burg hātte Æscesdūn (Ashdown).**  
 
 This city is called Ashdown.  
-(See note 2 on page 80 regarding the passive forms of *hātan*.)  
+(See Note 2 on page 80 regarding the passive forms of *hātan*.)  
 
 **12. Ðǣre cwēne līc læg on ðǣm hūse.**  
 
@@ -93,6 +93,10 @@ And the part that came away there was very small.
 
 **14. Ǫnd ðæs ðrēotīene dagas Æðered tō rīce fēng.**  
 
+And thirteen days from that time, Ethelred came to the throne.  
+(See §93 (3) regarding the use of *ðæs* to mean "from that time".
+Also see the *tō rīce fōn* translation to "to come to the throne"
+along with the associated Note 1 on page 82.)  
 
 # Part II: PDE to OE
 
