@@ -89,7 +89,7 @@ The queen's body lies in the house.
 
 **13. Ǫnd sē dǣl ðe ðǣr aweg cōm wæs swȳðe lȳtel.**  
 
-
+And the part that came away there was very small.  
 
 **14. Ǫnd ðæs ðrēotīene dagas Æðered tō rīce fēng.**  
 
