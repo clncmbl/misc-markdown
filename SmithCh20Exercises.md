@@ -102,11 +102,12 @@ along with the associated Note 1 on page 82.)
 
 **1. The men stood in the ships and fought against the Danes.**  
 
-
+Ðā men stōdon on ðǣm scipum ond gefuhton wið ðǣm Denum.  
 
 **2. Before the thanes came, the king rode away.**  
 
-
+Ǣr ðǣm ðe ðā ðegnas cōmen, sē cyning rād aweg.  
+Ǣr ðā ðegnas cōmen, sē cyning rād aweg.  
 
 **3. They said (sǣdon) that all the men spoke one language.**  
 
