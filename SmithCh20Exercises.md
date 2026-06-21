@@ -111,7 +111,7 @@ along with the associated Note 1 on page 82.)
 
 **3. They said (sǣdon) that all the men spoke one language.**  
 
-
+Hīe sǣdon ðæt ealle ðā men sprǣcon ān sprǣc.  
 
 **4. They bore the queen’s body to Wilton.**  
 
