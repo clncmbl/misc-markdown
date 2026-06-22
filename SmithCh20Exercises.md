@@ -120,7 +120,7 @@ Hīe bǣron ðǣre cwēne līc tō Wiltūne.
 **5. Alfred gave many gifts to his army (dat. without tō) before he went away.**  
 
 Ælfred geaf moniga giefa his fierde ǣr ðǣm ðe hē aweg ēode.  
-(See §20 (3) regarding transposed word order for dependent causes.)  
+(See §20 (3) regarding transposed word order for dependent clauses.)  
 
 Ælfred geaf moniga giefa his fierde ǣr hē aweg ēode.  
 
