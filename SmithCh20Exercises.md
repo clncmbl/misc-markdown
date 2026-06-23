@@ -131,8 +131,12 @@ Hīe bǣron ðǣre cwēne līc tō Wiltūne.
 
 **7. God sees all things.**  
 
-God gesihð eall ðing.   (TODO: Why not gesiehð?)
+God gesiehð eall ðing.  (Early West Saxon)
+God gesihð eall ðing.  (Late West Saxon)
+God siehð eall ðing.  (More rare.  Usually has "ge-" prefix.)
 
+(Although not freely available, Hogg, in section §2.37 of his Phonology volume, discusses
+"ie" (as in gesiehð) in Early West Saxon.)
 
 **8. The boy held the reindeer with (mid) his hands.**  
 
