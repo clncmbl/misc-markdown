@@ -131,16 +131,18 @@ Hīe bǣron ðǣre cwēne līc tō Wiltūne.
 
 **7. God sees all things.**  
 
-God gesiehð eall ðing.  (Early West Saxon)
-God gesihð eall ðing.  (Late West Saxon)
-God siehð eall ðing.  (More rare.  Usually has "ge-" prefix.)
+God gesiehð eall ðing.  (Early West Saxon)  
+God gesihð eall ðing.  (Late West Saxon)  
+God siehð eall ðing.  (More rare.  Usually has "ge-" prefix.)  
 
 (Although not freely available, Hogg, in section §2.37 of his Phonology volume, discusses
-"ie" (as in gesiehð) in Early West Saxon.)
+"ie" (as in *gesiehð*) in Early West Saxon.)  
 
 **8. The boy held the reindeer with (mid) his hands.**  
 
-
+Sē cnapa hēold ðone hrān mid his hondum.  
+Sē cnapa hēold ðæt wildor mid his hondum.  (*wildor* is actually more general, but
+Smith gives "reindeer" as a translation)  
 
 **9. About six months afterwards, Alfred gained the victory, and came to the throne.**  
 
