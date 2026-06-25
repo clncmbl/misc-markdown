@@ -69,7 +69,9 @@ He was a very rich man in those possessions which their riches consist in, that 
 He was a very rich man in those possessions which their riches in be, that is, in wild beasts. (More literal but less idiomatic.)  
 
 **9. Ǫnd ðǣr wearð (was) micel wælsliht on gehwæðre hǫnd.**  
-(From "The Battle of Ashdown", page 100 lines 26-27.)  
+(From "The Battle of Ashdown", page 100 lines 26-27.  The *on gehwæðre hǫnd* idiom
+also appears on line 5 of that same page.  Note that we see *gehwæþre* on line
+5 and *gehwæþere* on line 27.)  
 
 And there was much slaughter on both sides.  
 And there was much slaughter on each hand. (literal but not idiomatic PDE)
@@ -152,3 +154,5 @@ TODO: Variations?
 
 **10. He said that there was very great slaughter on both sides.**  
 
+Hē sǣde ðæt ðǣr wǣre swīðe micel wælsliht on gehwæðre hond.  
+(See §105 (3) regarding the use of the subjunctive in an indirect quote.)  
