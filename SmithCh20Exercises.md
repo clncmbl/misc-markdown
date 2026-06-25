@@ -146,6 +146,8 @@ Smith gives "reindeer" as a translation)
 
 **9. About six months afterwards, Alfred gained the victory, and came to the throne.**  
 
+Ðæs ymbe siex mōnað, Ælfred sige nam, ond tō rīce fēng.  
+TODO: Variations?
 
 
 **10. He said that there was very great slaughter on both sides.**  
