@@ -137,8 +137,9 @@ God gesiehð eall ðing.  (Early West Saxon)
 God gesihð eall ðing.  (Late West Saxon)  
 God siehð eall ðing.  (More rare.  Usually has "ge-" prefix.)  
 
-(Although not freely available, Hogg, in section §2.37 of his Phonology volume, discusses
-"ie" (as in *gesiehð*) in Early West Saxon.)  
+(Hogg, in section §2.37 of his Phonology volume, says:
+"The spread of 〈ie〉 is extremely restricted, it being used as a digraph
+only in EWS."  That volume is not freely available, however.)  
 
 **8. The boy held the reindeer with (mid) his hands.**  
 
@@ -148,9 +149,8 @@ Smith gives "reindeer" as a translation)
 
 **9. About six months afterwards, Alfred gained the victory, and came to the throne.**  
 
-Ðæs ymbe siex mōnað, Ælfred sige nam, ond tō rīce fēng.  
+Ðæs ymbe siex mōnað, Ælfred sige nam ond tō rīce fēng.  
 TODO: Variations?
-
 
 **10. He said that there was very great slaughter on both sides.**  
 
