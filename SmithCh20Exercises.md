@@ -1,4 +1,4 @@
-These are draft solutions to exercises in the *Anglo-Saxon Grammar and Exercise Book* by C. Alphonso Smith (copyright 1896).  I welcome corrections or alternative analyses.
+These are my draft solutions to exercises in the *Anglo-Saxon Grammar and Exercise Book* by C. Alphonso Smith (copyright 1896).  I welcome corrections or alternative analyses.
 
 This is for the eleventh set of exercises in the book, which comes from Chapter XX, §121 of the Grammar. [https://www.gutenberg.org/cache/epub/31277/pg31277-images.html#page81](https://www.gutenberg.org/cache/epub/31277/pg31277-images.html#page81)
 
@@ -33,7 +33,7 @@ And he said: "This is one nation, and they all speak one language."
 In some places, vineyards grow.
 
 **4. Hē hēt ðā nǣdran ofslēan.**  
-(See §107 (1) on the the use of the infinitive with *hātan*.  An overly literal
+(See §107 (1) on the use of the infinitive with *hātan*.  An overly literal
 translation might be "He ordered to kill the snake," which does not work in
 Modern English).
 
@@ -42,8 +42,8 @@ He ordered that the snakes be killed.
 
 **5. Ðā Ęngle ābrǣcon ðone lǫngan weall, ǫnd sige nōmon.**  
 
-The Angles broke down the long wall and won victory.  
-The Angles broke down the long wall and took victory.  (more literal, less idiomatic PDE)
+The Angles broke down the long wall and won the victory.  
+The Angles broke down the long wall and took victory.  (more literal but less idiomatic)
 
 **6. Ǫnd ðæt sǣd grēow ǫnd wēox.**  
 (We saw a similar use of *grōwan* and *weaxan* in Chapter X (exercise Part I #6).
@@ -52,8 +52,8 @@ which you can find here: https://en.wikisource.org/wiki/Bright%27s_Anglo-Saxon_R
 West Saxon Gospels translated the Latin Vulgate's *germinet* (from which we get
 "germinate") to OE *grewe*.  *Growan*, which is cognate with "green", was
 closer in meaning to "sprout" or "become green" than today's typical use of
-the word "grow".  Consequently, the redundancy in PDE "grew and waxed" was not
-present in *grēow and wēox*.)
+the word "grow".  Consequently, what sounds redundant in Modern English ("grew and waxed")
+was not redundant in Old English *grēow ond wēox*.)
 
 And the seed grew and waxed.  
 And the seed sprouted and grew.  
@@ -66,7 +66,7 @@ I did not see the man who stole the boy's hatchet.
 (From "Ohthere's First Voyage", page 105 lines 1-2.  See also §94 (5).)  
 
 He was a very rich man in those possessions which their riches consist in, that is, in wild beasts.  
-He was a very rich man in those possessions which their riches in be, that is, in wild beasts. (More literal but less idiomatic.)  
+He was a very rich man in those possessions which their riches in be, that is, in wild beasts. (more literal but less idiomatic.)  
 
 **9. Ǫnd ðǣr wearð (was) micel wælsliht on gehwæðre hǫnd.**  
 (From "The Battle of Ashdown", page 100 lines 26-27.  The *on gehwæðre hǫnd* idiom
@@ -74,7 +74,7 @@ also appears on line 5 of that same page.  Note that we see *gehwæþre* on line
 5 and *gehwæþere* on line 27.)  
 
 And there was much slaughter on both sides.  
-And there was much slaughter on each hand. (literal but not idiomatic PDE)
+And there was much slaughter on each hand. (more literal but less idiomatic)
 
 **10. Ǫnd æfter ðissum gefeohte cōm Ælfred cyning mid his fierde, ǫnd gefeaht wið ealne ðone hęre, ǫnd sige nōm.**  
 
