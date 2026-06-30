@@ -78,7 +78,8 @@ And there was much slaughter on each hand. (more literal but less idiomatic)
 
 **10. Ǫnd æfter ðissum gefeohte cōm Ælfred cyning mid his fierde, ǫnd gefeaht wið ealne ðone hęre, ǫnd sige nōm.**  
 
-And after this fight, King Alfred came with his army, and fought against all the Danish army, and won the victory.  
+And after this fight, King Alfred came with his army, and fought against the entire Danish army, and won the victory.  
+(Smith defines *here* as "Danish army" although, more broadly, it means "army" and often refers to an enemy army.)  
 
 **11. Ðēos burg hātte Æscesdūn (Ashdown).**  
 
