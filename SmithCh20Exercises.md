@@ -139,9 +139,7 @@ God gesiehð eall ðing.  (Early West Saxon)
 God gesihð eall ðing.  (Late West Saxon)  
 God siehð eall ðing.  (More rare.  Usually has "ge-" prefix.)  
 
-(Hogg, in section §2.37 of his Phonology volume, says:
-"The spread of 〈ie〉 is extremely restricted, it being used as a digraph
-only in EWS."  That volume is not freely available, however.)  
+(Hogg (Phonology §2.37) notes that <ie> is used as a digraph only in EWS.)  
 
 **8. The boy held the reindeer with (mid) his hands.**  
 
