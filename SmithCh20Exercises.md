@@ -130,7 +130,8 @@ Hīe bǣron ðǣre cwēne līc tō Wiltūne.
 **6. These men are called earls.**  
 
 Ðās men hātton eorlas.  
-(See Note 2 on page 80 regarding the passive forms of *hātan*.  For explicit statement of plural form, see the first note for [the Old English *hatan* in Wiktionary](https://en.wiktionary.org/wiki/hatan#Old_English).)  
+(See Note 2 on page 80 regarding the passive forms of *hātan*.  Smith does not provide the plural form; for *hātton* reference,
+see the first note for [the Old English *hatan* in Wiktionary](https://en.wiktionary.org/wiki/hatan#Old_English).)  
 
 **7. God sees all things.**  
 
