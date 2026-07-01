@@ -150,7 +150,9 @@ Smith gives "reindeer" as a translation)
 **9. About six months afterwards, Alfred gained the victory, and came to the throne.**  
 
 Ðæs ymbe siex mōnað, Ælfred sige nam ond tō rīce fēng.  
-TODO: Variations?
+(See Part I #14, above, regarding the use of *ðæs* to mean "from that time".
+*þæs ymb*, specifically, appears six times like this in the "The Battle of Ashdown",
+the Chronicle entry that Smith includes in his text starting on page 99.)  
 
 **10. He said that there was very great slaughter on both sides.**  
 
