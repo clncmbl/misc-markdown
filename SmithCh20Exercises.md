@@ -1,4 +1,4 @@
-These are my draft solutions to exercises in the *Anglo-Saxon Grammar and Exercise Book* by C. Alphonso Smith (copyright 1896).  I welcome corrections or alternative analyses.
+These are my draft solutions to exercises in the *Anglo-Saxon Grammar and Exercise Book* by C. Alphonso Smith (copyright 1896).  I welcome corrections and alternative analyses.
 
 This is for the eleventh set of exercises in the book, which comes from Chapter XX, §121 of the Grammar. [https://www.gutenberg.org/cache/epub/31277/pg31277-images.html#page81](https://www.gutenberg.org/cache/epub/31277/pg31277-images.html#page81)
 
