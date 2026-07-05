@@ -34,8 +34,9 @@ In some places, vineyards grow.
 
 **4. Hē hēt ðā nǣdran ofslēan.**  
 (See §107 (1) on the use of the infinitive with *hātan*.  An overly literal
-translation might be "He ordered to kill the snake," which does not work in
-Modern English).
+translation might be "He ordered to kill the snake," but this is not idiomatic
+English because the verb "to order" requires a direct object when used with an
+infinitive.)
 
 He ordered that the snake be killed.  
 He ordered that the snakes be killed.  
