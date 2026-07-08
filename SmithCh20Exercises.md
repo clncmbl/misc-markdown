@@ -80,6 +80,7 @@ And there was much slaughter on each hand. (more literal but less idiomatic)
 **10. Ǫnd æfter ðissum gefeohte cōm Ælfred cyning mid his fierde, ǫnd gefeaht wið ealne ðone hęre, ǫnd sige nōm.**  
 
 And after this fight, King Alfred came with his army, and fought against the entire Danish army, and won the victory.  
+
 (Smith defines *here* as "Danish army" although, more broadly, it means "army" and often refers to an enemy army.)  
 
 **11. Ðēos burg hātte Æscesdūn (Ashdown).**  
@@ -97,9 +98,13 @@ And the part that came away there was very small.
 
 **14. Ǫnd ðæs ðrēotīene dagas Æðered tō rīce fēng.**  
 
-And thirteen days from that time, Ethelred came to the throne.  
-(See §93 (3) regarding the use of *ðæs* to mean "from that time".
-Also see the *tō rīce fōn* translation to "to come to the throne"
+And thirteen days after that, Ethelred came to the throne.  
+
+(See §93 (3) regarding the use of *ðæs* to mean "from that time",
+as well as the comment for Part II #9, below; the Anglo-Saxon
+Chronicle typically would have had *ðæs ymb ðrēotīene dagas*.  
+
+Also, see the *tō rīce fōn* translation to "to come to the throne"
 along with the associated Note 1 on page 82.)  
 
 # Part II: PDE to OE
@@ -131,6 +136,7 @@ Hīe bǣron ðǣre cwēne līc tō Wiltūne.
 **6. These men are called earls.**  
 
 Ðās men hātton eorlas.  
+
 (See Note 2 on page 80 regarding the passive forms of *hātan*.  Smith does not provide the plural form; for *hātton* reference,
 see the first note for [the Old English *hatan* entry in Wiktionary](https://en.wiktionary.org/wiki/hatan#Old_English).)  
 
@@ -146,16 +152,22 @@ God siehð eall ðing.  (More rare.  Usually has "ge-" prefix.)
 
 Sē cnapa hēold ðone hrān mid his hondum.  
 Sē cnapa hēold ðæt wildor mid his hondum.  (*wildor* is actually more general, but
-Smith gives "reindeer" as a translation)  
+Smith gives "reindeer" as a translation.)  
 
 **9. About six months afterwards, Alfred gained the victory, and came to the throne.**  
 
 Ðæs ymbe siex mōnað, Ælfred sige nam ond tō rīce fēng.  
+
 (See Part I #14, above, regarding the use of *ðæs* to mean "from that time".
-*þæs ymb*, specifically, appears six times like this in the "The Battle of Ashdown",
-the Chronicle entry that Smith includes in his text starting on page 99.)  
+This *þæs ymb* construction, specifically, appears six times in the "The Battle of Ashdown",
+the Chronicle entry that Smith includes in his text starting on page 99. Although
+many scholars in the 19th century would read the *ymb(e)* here as "about", the more
+common current
+reading of *ðæs ymbe siex mōnað* would be "six months after that".  I am leaving
+this Old English translation as I think Smith would have it.)  
 
 **10. He said that there was very great slaughter on both sides.**  
 
 Hē sǣde ðæt ðǣr wǣre swīðe micel wælsliht on gehwæðre hond.  
+
 (See §105 (3) regarding the use of the subjunctive in an indirect quote.)  
