@@ -1,6 +1,10 @@
-These are my draft solutions to exercises in the *Anglo-Saxon Grammar and Exercise Book* by C. Alphonso Smith (copyright 1896).  I welcome corrections and alternative analyses.
+These are my draft solutions to exercises in the *Anglo-Saxon Grammar
+and Exercise Book* by C. Alphonso Smith (copyright 1896).  I welcome
+corrections and alternative analyses.
 
-This is for the twelfth (and last) set of exercises in the book, which comes from Chapter XXII, §143 of the Grammar. [https://www.gutenberg.org/cache/epub/31277/pg31277-images.html#page96](https://www.gutenberg.org/cache/epub/31277/pg31277-images.html#page96)
+This is for the twelfth (and last) set of exercises in the book,
+which comes from Chapter XXII, §143 of the Grammar.
+[https://www.gutenberg.org/cache/epub/31277/pg31277-images.html#page96](https://www.gutenberg.org/cache/epub/31277/pg31277-images.html#page96)
 
 Reddit posts for previous sets of exercises are found here:
 
@@ -20,9 +24,39 @@ I try to stick with vocabulary introduced earlier in the book.  Also, be aware t
 
 # Part I: OE to PDE
 
-**1. .**  
+**1. Ǫnd ðær wæs micel wæl geslægen on gehwæþre hǫnd, ǫnd Æþelwulf ealdormǫn wearþ ofslægen; ǫnd þā Dęniscan āhton wælstōwe gewald.**  
 
+**2. Ǫnd þæs ymb ānne mōnaþ gefeaht Ælfred cyning wiþ ealne þone hęre ond hine geflīemde.**  
+
+**3. Hē sǣde þēah þæt þæt land sīe swīþe lang norþ þǫnan.**  
+
+**4. Þā Beormas hæfdon swīþe wel gebūd (§ 126, Note 2) hiera land.**  
+
+**5. Ohthęre sǣde þæt sēo scīr hātte (§ 117, Note 2) Hālgoland, þe hē on (§ 94, (5)) būde.**  
+
+**6. Þā Finnas wīcedon be þǣre sǣ.**  
+
+**7. Dryhten, ælmihtiga (§ 78, Note) God, Wyrhta and Wealdend ealra gesceafta, ic bidde ðē for ðīnre miclan mildheortnesse ðæt ðū mē gewissie tō ðīnum willan; and gestaðela mīn mōd tō ðīnum willan and tō mīnre sāwle ðearfe.**  
+
+**8. Þā sceolde hē ðǣr bīdan ryhtnorþanwindes, for ðǣm þæt land bēag þǣr sūðryhte, oþþe sēo sǣ in on ðæt land, hē nysse hwæðer.**  
+
+**9. For ðȳ, mē ðyncð bętre, gif ēow swā ðyncð, ðæt wē ēac ðās bēc on ðæt geðēode węnden ðe wē ealle gecnāwan mægen.**  
 
 # Part II: PDE to OE
 
-  
+**1. When the king heard that, he went (= then went he) westward with his army to Ashdown.**  
+
+**2. Lovest thou me more than these?**  
+
+**3. The men said that the shire which they lived in was called Halgoland.**  
+
+**4. All things were made (wyrcan) by God.**  
+
+**5. They were fighting for two days with (= against) the Danes.**  
+
+**6. King Alfred fought with the Danes, and gained the victory; but the Danes retained possession of the battle-field.**  
+
+**7. These men dwelt in England before they came hither.**  
+
+**8. I have not seen the book of (ymbe) which you speak (sprecan).**  
+
