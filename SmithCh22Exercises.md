@@ -31,7 +31,7 @@ And there was much slaughter made on both sides, and Æthelwulf, alderman,
 was slain; and the Danes had possession of the battlefield.  
 
 And there was much slaughter slain on either hand, and Æthelwulf, alderman,
-became slain; and the Danes possessed control of the battlefield.  
+became slain; and the Danish possessed control of the battlefield.  
 
 **2. Ǫnd þæs ymb ānne mōnaþ gefeaht Ælfred cyning wiþ ealne þone hęre ond hine geflīemde.**  
 
