@@ -25,6 +25,13 @@ I try to stick with vocabulary introduced earlier in the book.  Also, be aware t
 # Part I: OE to PDE
 
 **1. Ǫnd ðær wæs micel wæl geslægen on gehwæþre hǫnd, ǫnd Æþelwulf ealdormǫn wearþ ofslægen; ǫnd þā Dęniscan āhton wælstōwe gewald.**  
+(This sentence appears on page 100 line 4-7 in "The Battle of Ashdown".)  
+
+And there was much slaughter made on both sides, and Æthelwulf, alderman,
+was slain; and the Danes had possession of the battlefield.  
+
+And there was much slaughter slain on either hand, and Æthelwulf, alderman,
+became slain; and the Danes possessed control of the battlefield.  
 
 **2. Ǫnd þæs ymb ānne mōnaþ gefeaht Ælfred cyning wiþ ealne þone hęre ond hine geflīemde.**  
 
