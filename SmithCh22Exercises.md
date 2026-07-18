@@ -25,19 +25,27 @@ I try to stick with vocabulary introduced earlier in the book.  Also, be aware t
 # Part I: OE to PDE
 
 **1. Ǫnd ðær wæs micel wæl geslægen on gehwæþre hǫnd, ǫnd Æþelwulf ealdormǫn wearþ ofslægen; ǫnd þā Dęniscan āhton wælstōwe gewald.**  
-(This sentence appears on page 100 line 4-7 in "The Battle of Ashdown".)  
+(This sentence appears on page 100, lines 4-7 of "The Battle of Ashdown".)  
 
 And there was much slaughter made on both sides, and Æthelwulf, alderman,
 was slain; and the Danes had possession of the battlefield.  
 
 And there was much slaughter slain on either hand, and Æthelwulf, alderman,
-became slain; and the Danish possessed control of the battlefield.  
+became slain; and the Danish possessed control of the battlefield.  (very literal and unidiomatic)
 
 **2. Ǫnd þæs ymb ānne mōnaþ gefeaht Ælfred cyning wiþ ealne þone hęre ond hine geflīemde.**  
 
+One month after that, King Alfred fought against the Danish army and put them to flight.  
+
 **3. Hē sǣde þēah þæt þæt land sīe swīþe lang norþ þǫnan.**  
+(This sentence appears on page 103, lines 3-4 of "Ohthere's First Voyage".)
+
+He said, however, that that land is very long north from there.  
 
 **4. Þā Beormas hæfdon swīþe wel gebūd (§ 126, Note 2) hiera land.**  
+(This sentence appears on lines 9-10 on page 104 in "Ohthere's First Voyage".)
+
+The Permians had very well inhabited their land.  
 
 **5. Ohthęre sǣde þæt sēo scīr hātte (§ 117, Note 2) Hālgoland, þe hē on (§ 94, (5)) būde.**  
 
