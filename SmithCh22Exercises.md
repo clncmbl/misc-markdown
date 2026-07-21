@@ -38,20 +38,29 @@ became slain; and the Danish possessed control of the battlefield.  (very litera
 One month after that, King Alfred fought against the Danish army and put them to flight.  
 
 **3. Hē sǣde þēah þæt þæt land sīe swīþe lang norþ þǫnan.**  
-(This sentence appears on page 103, lines 3-4 of "Ohthere's First Voyage".)
+(This sentence appears on page 103, lines 3-4 of "Ohthere's First Voyage".)  
 
 He said, however, that that land is very long north from there.  
 
 **4. Þā Beormas hæfdon swīþe wel gebūd (§ 126, Note 2) hiera land.**  
-(This sentence appears on lines 9-10 on page 104 in "Ohthere's First Voyage".)
+(This sentence appears on lines 9-10 on page 104 in "Ohthere's First Voyage".)  
 
 The Permians had very well inhabited their land.  
 
 **5. Ohthęre sǣde þæt sēo scīr hātte (§ 117, Note 2) Hālgoland, þe hē on (§ 94, (5)) būde.**  
+(This is the first sentence of "Ohthere's Second Voyage", which begins on page 106.)  
+
+Ohthere said that the shire was called Halgoland that he dwelled in.  
+Ohthere said that the district that he lived in was called Halgoland.  
 
 **6. Þā Finnas wīcedon be þǣre sǣ.**  
 
+The Finns dwelt by the sea.  
+
 **7. Dryhten, ælmihtiga (§ 78, Note) God, Wyrhta and Wealdend ealra gesceafta, ic bidde ðē for ðīnre miclan mildheortnesse ðæt ðū mē gewissie tō ðīnum willan; and gestaðela mīn mōd tō ðīnum willan and tō mīnre sāwle ðearfe.**  
+(This is from page 102, lines 1-7 of "A Prayer of King Alfred" with some pieces removed.)
+
+
 
 **8. Þā sceolde hē ðǣr bīdan ryhtnorþanwindes, for ðǣm þæt land bēag þǣr sūðryhte, oþþe sēo sǣ in on ðæt land, hē nysse hwæðer.**  
 
