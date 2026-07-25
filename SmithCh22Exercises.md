@@ -60,11 +60,13 @@ The Finns dwelt by the sea.
 **7. Dryhten, ælmihtiga (§ 78, Note) God, Wyrhta and Wealdend ealra gesceafta, ic bidde ðē for ðīnre miclan mildheortnesse ðæt ðū mē gewissie tō ðīnum willan; and gestaðela mīn mōd tō ðīnum willan and tō mīnre sāwle ðearfe.**  
 (This is from page 102, lines 1-7 of "A Prayer of King Alfred" with some pieces removed.)
 
-Lord, almighty God, Creator and Ruler of all creation, I pray thee for
-your great mercy, that you guide me to your will, and 
+Lord, almighty God, Creator and Ruler of all creation, I pray thee because of
+your great mercy, that you guide me to your will, and fix my mind to your will
+and to my soul's need.
 
-("I pray thee for" comes from the note to §78; "thee" is archaic and
-the OED states that this particular transitive use of "pray" is "chiefly archaic".)
+("I pray thee" comes from the note to §78; "thee" is archaic and
+the OED states that this particular transitive use of "pray" is "chiefly archaic".
+"I pray to you" would be more standard present-day English.)
 
 **8. Þā sceolde hē ðǣr bīdan ryhtnorþanwindes, for ðǣm þæt land bēag þǣr sūðryhte, oþþe sēo sǣ in on ðæt land, hē nysse hwæðer.**  
 
