@@ -69,8 +69,17 @@ the OED states that this particular transitive use of "pray" is "chiefly archaic
 "I pray to you" would be more standard present-day English.)
 
 **8. Þā sceolde hē ðǣr bīdan ryhtnorþanwindes, for ðǣm þæt land bēag þǣr sūðryhte, oþþe sēo sǣ in on ðæt land, hē nysse hwæðer.**  
+(This is from page 103, lines 18-21 of "Ohthere's First Voyage".)
+
+Then he had to wait for a straight north wind, because the land bent there southward,
+or the sea in on the land, he did not know which.  
 
 **9. For ðȳ, mē ðyncð bętre, gif ēow swā ðyncð, ðæt wē ēac ðās bēc on ðæt geðēode węnden ðe wē ealle gecnāwan mægen.**  
+(This is from lines 14-17 of page 119 in Alfred's Preface to the Pastoral Care.
+Some parts are dropped and some spelling is standardized.)
+
+Therefore, it seems better to me, if it seems so to you, that we also translate
+these books into the language that we all can understand.  
 
 # Part II: PDE to OE
 
