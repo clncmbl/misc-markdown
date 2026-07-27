@@ -85,7 +85,10 @@ these books into the language that we all can understand.
 
 **1. When the king heard that, he went (= then went he) westward with his army to Ashdown.**  
 
+Þā sē cyning hīerde ðæt, þā ēode hē westweard mid his fierde tō Æscesdūne.  
+
 **2. Lovest thou me more than these?**  
+
 
 **3. The men said that the shire which they lived in was called Halgoland.**  
 
