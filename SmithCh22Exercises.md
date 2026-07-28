@@ -89,6 +89,7 @@ these books into the language that we all can understand.
 
 **2. Lovest thou me more than these?**  
 
+Lufast ðū mē mā ðonne ðās.
 
 **3. The men said that the shire which they lived in was called Halgoland.**  
 
