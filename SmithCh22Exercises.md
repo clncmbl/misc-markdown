@@ -48,7 +48,9 @@ He said, however, that that land is very long north from there.
 The Permians had very well inhabited their land.  
 
 **5. Ohthęre sǣde þæt sēo scīr hātte (§ 117, Note 2) Hālgoland, þe hē on (§ 94, (5)) būde.**  
-(This is the first sentence of "Ohthere's Second Voyage", which begins on page 106.)  
+(This is the first sentence of "Ohthere's Second Voyage", which begins on page 106.
+The relative clause beginning with *þe* is restrictive; the comma relects
+19th century punctuation practice.)  
 
 Ohthere said that the shire was called Halgoland that he dwelled in.  
 Ohthere said that the district that he lived in was called Halgoland.  
@@ -92,6 +94,10 @@ these books into the language that we all can understand.
 Lufast ðū mē mā ðonne ðās.
 
 **3. The men said that the shire which they lived in was called Halgoland.**  
+(This is very similar to Part I #5, above.)
+
+Ðā men sǣdon ðæt sēo scīr ðe hīe on būdon hātte Hālgoland.  
+Ðā men sǣdon ðæt sēo scīr hātte Hālgoland ðe hīe on būdon.  
 
 **4. All things were made (wyrcan) by God.**  
 
