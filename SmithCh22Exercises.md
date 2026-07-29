@@ -101,6 +101,11 @@ Lufast ðū mē mā ðonne ðās.
 
 **4. All things were made (wyrcan) by God.**  
 
+Eall ðing wǣron geworht from Gode.
+
+(See §141 regarding the passive construction, and Note 1 to that section
+regarding the use of *from*.)
+
 **5. They were fighting for two days with (= against) the Danes.**  
 
 **6. King Alfred fought with the Danes, and gained the victory; but the Danes retained possession of the battle-field.**  
