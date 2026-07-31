@@ -108,6 +108,10 @@ regarding the use of *from*.)
 
 **5. They were fighting for two days with (= against) the Danes.**  
 
+Hīe wǣron feohtende twēgen dagas wið ðǣm Deniscum (or ðæm Denum).
+
+( §140  §98 (1) )
+
 **6. King Alfred fought with the Danes, and gained the victory; but the Danes retained possession of the battle-field.**  
 
 **7. These men dwelt in England before they came hither.**  
