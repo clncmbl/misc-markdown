@@ -118,7 +118,7 @@ Hīe wǣron feohtende twēgen dagas wið ðǣm Deniscum (or ðǣm Denum).
 Ælfred cyning gefeaht wið ðǣm Deniscum, ond sige nam; ac ðā Deniscan
 āhton wælstōwe gewald.  
 
-(See the last clause Part I #1, above.)  
+(See the last clause of Part I #1, above.)  
 
 **7. These men dwelt in England before they came hither.**  
 
