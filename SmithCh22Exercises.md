@@ -25,7 +25,8 @@ I try to stick with vocabulary introduced earlier in the book.  Also, be aware t
 # Part I: OE to PDE
 
 **1. Ǫnd ðær wæs micel wæl geslægen on gehwæþre hǫnd, ǫnd Æþelwulf ealdormǫn wearþ ofslægen; ǫnd þā Dęniscan āhton wælstōwe gewald.**  
-(This sentence appears on page 100, lines 4-7 of "The Battle of Ashdown".)  
+(This sentence appears on page 100, lines 4-7 of "The Battle of Ashdown". The
+last clause appears twice more in that reading.)  
 
 And there was much slaughter made on both sides, and Æthelwulf, alderman,
 was slain; and the Danes had possession of the battlefield.  
@@ -108,11 +109,16 @@ regarding the use of *from*.)
 
 **5. They were fighting for two days with (= against) the Danes.**  
 
-Hīe wǣron feohtende twēgen dagas wið ðǣm Deniscum (or ðæm Denum).
+Hīe wǣron feohtende twēgen dagas wið ðǣm Deniscum (or ðǣm Denum).
 
-( §140  §98 (1) )
+( See §140 regarding the progressive present and §98(1) regarding duration of time.)
 
 **6. King Alfred fought with the Danes, and gained the victory; but the Danes retained possession of the battle-field.**  
+
+Ælfred cyning gefeaht wið ðǣm Deniscum, ond sige nam; ac ðā Deniscan
+āhton wælstōwe gewald.  
+
+(See the last clause Part I #1, above.)  
 
 **7. These men dwelt in England before they came hither.**  
 
