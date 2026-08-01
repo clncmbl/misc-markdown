@@ -111,7 +111,7 @@ regarding the use of *from*.)
 
 Hīe wǣron feohtende twēgen dagas wið ðǣm Deniscum (or ðǣm Denum).
 
-( See §140 regarding the progressive present and §98(1) regarding duration of time.)
+(See §140 regarding the progressive present and §98(1) regarding duration of time.)
 
 **6. King Alfred fought with the Danes, and gained the victory; but the Danes retained possession of the battle-field.**  
 
@@ -125,7 +125,10 @@ Hīe wǣron feohtende twēgen dagas wið ðǣm Deniscum (or ðǣm Denum).
 Ðās men būdon on Englaland ǣr ðǣm ðe hīe cōmen hider.  
 Ðās men būdon on Englaland ǣr hīe cōmen hider.  
 
-(See §105(2) regarding use of the subjunctive here.)
+(See §105(2) regarding use of the subjunctive here.)  
 
 **8. I have not seen the book of (ymbe) which you speak (sprecan).**  
 
+Ic næbbe gesewen ðā bōc ymbe ðā ðe ðū spricst.  
+
+(    §138, §34, see also §100 part I #12 for example syntax.)
