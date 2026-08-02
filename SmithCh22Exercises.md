@@ -130,5 +130,9 @@ Hīe wǣron feohtende twēgen dagas wið ðǣm Deniscum (or ðǣm Denum).
 **8. I have not seen the book of (ymbe) which you speak (sprecan).**  
 
 Ic næbbe gesewen ðā bōc ymbe ðā ðe ðū spricst.  
+Ic næbbe gesewen ðā bōc ðe ðū ymbe spricst.  
+Ic næbbe gesewen ðā bōc ðe ðū spricst ymbe.  
 
-(    §138, §34, see also §100 part I #12 for example syntax.)
+(See §34 regarding the contraction of *ne* with *habban*.
+The Chapter XVII exercise (§100) Part I #12 has a similar relative clause
+construction with *ymbe*.)  
