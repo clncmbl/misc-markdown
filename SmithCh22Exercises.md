@@ -2,7 +2,7 @@ These are my draft solutions to exercises in the *Anglo-Saxon Grammar
 and Exercise Book* by C. Alphonso Smith (copyright 1896).  I welcome
 corrections and alternative analyses.
 
-This is for the twelfth (and last) set of exercises in the book,
+This is for the twelfth (and final) set of exercises in the book,
 which comes from Chapter XXII, §143 of the Grammar.
 [https://www.gutenberg.org/cache/epub/31277/pg31277-images.html#page96](https://www.gutenberg.org/cache/epub/31277/pg31277-images.html#page96)
 
@@ -28,11 +28,11 @@ I try to stick with vocabulary introduced earlier in the book.  Also, be aware t
 (This sentence appears on page 100, lines 4-7 of "The Battle of Ashdown". The
 last clause appears twice more in that reading.)  
 
-And there was much slaughter made on both sides, and Æthelwulf, alderman,
+And there was great slaughter made on both sides, and Æthelwulf, alderman,
 was slain; and the Danes had possession of the battlefield.  
 
 And there was much slaughter slain on either hand, and Æthelwulf, alderman,
-became slain; and the Danish possessed control of the battlefield.  (very literal and unidiomatic)
+became slain; and the Danes possessed control of the battlefield.  (very literal and unidiomatic)
 
 **2. Ǫnd þæs ymb ānne mōnaþ gefeaht Ælfred cyning wiþ ealne þone hęre ond hine geflīemde.**  
 
@@ -41,16 +41,18 @@ One month after that, King Alfred fought against the Danish army and put them to
 **3. Hē sǣde þēah þæt þæt land sīe swīþe lang norþ þǫnan.**  
 (This sentence appears on page 103, lines 3-4 of "Ohthere's First Voyage".)  
 
-He said, however, that that land is very long north from there.  
+He said, however, that the land is very long north from there.  
+He said, however, that the land stretches a long way north from there. (idiomatic PDE)  
 
 **4. Þā Beormas hæfdon swīþe wel gebūd (§ 126, Note 2) hiera land.**  
 (This sentence appears on lines 9-10 on page 104 in "Ohthere's First Voyage".)  
 
 The Permians had very well inhabited their land.  
+The Permians had very successfully settled their land.  
 
 **5. Ohthęre sǣde þæt sēo scīr hātte (§ 117, Note 2) Hālgoland, þe hē on (§ 94, (5)) būde.**  
 (This is the first sentence of "Ohthere's Second Voyage", which begins on page 106.
-The relative clause beginning with *þe* is restrictive; the comma relects
+The relative clause beginning with *þe* is restrictive; the comma reflects
 19th century punctuation practice.)  
 
 Ohthere said that the shire was called Halgoland that he dwelled in.  
