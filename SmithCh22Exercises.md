@@ -65,7 +65,7 @@ The Finns dwelt by the sea.
 **7. Dryhten, ælmihtiga (§ 78, Note) God, Wyrhta and Wealdend ealra gesceafta, ic bidde ðē for ðīnre miclan mildheortnesse ðæt ðū mē gewissie tō ðīnum willan; and gestaðela mīn mōd tō ðīnum willan and tō mīnre sāwle ðearfe.**  
 (This is from page 102, lines 1-7 of "A Prayer of King Alfred" with some pieces removed.)
 
-Lord, almighty God, Creator and Ruler of all creation, I pray thee because of
+Lord, almighty God, Creator and Ruler of all creatures, I pray thee because of
 your great mercy, that you guide me to your will, and fix my mind to your will
 and to my soul's need.
 
