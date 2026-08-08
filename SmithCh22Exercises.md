@@ -104,16 +104,16 @@ Lufast ðū mē mā ðonne ðās.
 
 **4. All things were made (wyrcan) by God.**  
 
-Eall ðing wǣron geworht from Gode.
+Eall ðing wǣron geworht from Gode.  
 
-(See §141 regarding the passive construction, and Note 1 to that section
-regarding the use of *from*.)
+(See §141 on the passive construction, including Note 1
+regarding the use of *from*.)  
 
 **5. They were fighting for two days with (= against) the Danes.**  
 
-Hīe wǣron feohtende twēgen dagas wið ðǣm Deniscum (or ðǣm Denum).
+Hīe wǣron feohtende twēgen dagas wið ðǣm Deniscum (or ðǣm Denum).  
 
-(See §140 regarding the progressive present and §98(1) regarding duration of time.)
+(See §140 regarding the progressive present and §98(1) regarding duration of time.)  
 
 **6. King Alfred fought with the Danes, and gained the victory; but the Danes retained possession of the battle-field.**  
 
@@ -136,5 +136,5 @@ Ic næbbe gesewen ðā bōc ðe ðū ymbe spricst.
 Ic næbbe gesewen ðā bōc ðe ðū spricst ymbe.  
 
 (See §34 regarding the contraction of *ne* with *habban*.
-The Chapter XVII exercise (§100) Part I #12 has a similar relative clause
+Chapter XVII §100, Part I #12 has a similar relative clause
 construction with *ymbe*.)  
