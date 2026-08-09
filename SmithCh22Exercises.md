@@ -31,8 +31,12 @@ last clause appears twice more in that reading.)
 And there was great slaughter made on both sides, and Æthelwulf, alderman,
 was slain; and the Danes had possession of the battlefield.  
 
-And there was much slaughter slain on either hand, and Æthelwulf, alderman,
-became slain; and the Danes possessed control of the battlefield.  (very literal and unidiomatic)
+And there was much carnage inflicted on either hand, and Æthelwulf, alderman,
+became slain; and the Danes possessed control of the battlefield.  (literal and unidiomatic)
+
+(The translation of *geslægen* to "inflicted" is supported by Marsden in *The Cambridge
+Old English Reader*, p. 112, where "inflicted" is given as the meaning for *geslogon*
+in a passage from Bede.)
 
 **2. Ǫnd þæs ymb ānne mōnaþ gefeaht Ælfred cyning wiþ ealne þone hęre ond hine geflīemde.**  
 
