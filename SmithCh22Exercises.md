@@ -56,8 +56,8 @@ The Permians had very successfully settled their land.
 
 **5. Ohthęre sǣde þæt sēo scīr hātte (§ 117, Note 2) Hālgoland, þe hē on (§ 94, (5)) būde.**  
 (This is the first sentence of "Ohthere's Second Voyage", which begins on page 106.
-The relative clause beginning with *þe* is restrictive; the comma reflects
-19th century punctuation practice.)  
+The relative clause beginning with *þe* is restrictive; Smith's comma just reflects
+looser 19th century punctuation conventions.)  
 
 Ohthere said that the shire was called Halgoland that he dwelled in.  
 Ohthere said that the district that he lived in was called Halgoland.  
