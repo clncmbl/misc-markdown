@@ -131,11 +131,11 @@ Hīe wǣron feohtende twēgen dagas wið ðǣm Deniscum (or ðǣm Denum).
 Ðās men būdon on Englaland ǣr ðǣm ðe hīe cōmen hider.  
 Ðās men būdon on Englaland ǣr hīe cōmen hider.  
 
-(See §105(2) regarding use of the subjunctive here.)  
+(See §105(2) regarding the use of the subjunctive here.)  
 
 **8. I have not seen the book of (ymbe) which you speak (sprecan).**  
 
-Ic næbbe gesewen ðā bōc ymbe ðā ðe ðū spricst.  
+Ic næbbe gesewen ðā bōc ymbe ðā ðe ðū spricst. (See §75 (3) regarding *ðā ðe*.)  
 Ic næbbe gesewen ðā bōc ðe ðū ymbe spricst.  
 Ic næbbe gesewen ðā bōc ðe ðū spricst ymbe.  
 
