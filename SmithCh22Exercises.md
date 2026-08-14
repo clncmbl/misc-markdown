@@ -137,7 +137,6 @@ Hīe wǣron feohtende twēgen dagas wið ðǣm Deniscum (or ðǣm Denum).
 
 Ic næbbe gesewen ðā bōc ymbe ðā ðe ðū spricst. (See §75 (3) regarding *ðā ðe*.)  
 Ic næbbe gesewen ðā bōc ðe ðū ymbe spricst.  
-Ic næbbe gesewen ðā bōc ðe ðū spricst ymbe.  
 
 (See §34 regarding the contraction of *ne* with *habban*.
 Chapter XVII §100, Part I #12 has a similar relative clause
